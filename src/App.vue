@@ -13,6 +13,7 @@
 
 <style scoped>
 
+    @import url('https://fonts.googleapis.com/css?family=roboto:300,400,500,700&display=swap');
 
     section.preview {
         border: 1px solid #4285f4;
