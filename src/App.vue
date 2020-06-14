@@ -1,5 +1,5 @@
 <template>
-    <div id="app" class="border border-info">
+    <div id="app" class="border border-info p-3 mb-5 bg-light rounded">
 
         <!----<div id="nav">
           <router-link to="/">Home</router-link> |
