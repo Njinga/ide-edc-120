@@ -7,7 +7,7 @@
 
             <mdb-row class="text-left">
                 <mdb-col col="12">
-                    <div class="note note-secondary">
+                    <div>
                         <h1 class="h2-responsive">Acknowlegments</h1>
                         <p> The Institute of Distance Education wishes to thank those below for their contribution to this MODULE:<p />
                     </div>

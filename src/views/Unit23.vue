@@ -1,10 +1,11 @@
 <template>
     <div class="about">
         <mdb-container fluid>
-            <mdb-row class="bg-primary text-justify">
+            <mdb-row class="text-justify">
                 <br />
+                <br/>
                 <h2 class="h2-responsive">2.3 Instructional Media Available for Teaching and Learning </h2>
-                <div class="note note-secondary">
+                <div class="shadow-lg p-3 mb-5 rounded">
                     <p class="text-justify">
                         There are different ways of categorizing instructional media, and for the purposes of this module we will use the following categories to group the range of instructional media for teaching and learning which are borrowed from Heinich et al. (1996):
                     </p>
@@ -24,7 +25,7 @@
                 </div>
                 <br />
                 <h3 class="h3-responsive">2.3.1 Non-projected media </h3>
-                <div class="note note-secondary">
+                <div class="shadow-lg p-3 mb-5 rounded">
                     <p class="text-justify">
                         Non-projected media refers to the range of media resources that do not require any equipment (hardware) to project them onto a screen for viewing.  Non-projected media include: real objects, models, non-projected visuals (still pictures, charts, graphs, drawings, posters, cartoons and comics and book illustrations), visual display surfaces, and printed materials.
                     </p>
@@ -113,7 +114,7 @@
                     <p class="text-justify">
                         Both models and real objects should be used whenever realism is necessary for learning to take place. The discussion in the next section will help you look closely at printed materials as another media for communication.
                     </p>
-                    <div class="note note-light">
+                    <div class="note note-primary shadow-lg p-3 mb-5 rounded">
                         <blockquote class="blockquote bq-info">
                             <i class="fas fa-tools"> Activity 2.2</i><br />
                             <ol>
@@ -128,7 +129,7 @@
                     </div>
                     <br />
                     <h4 class="h4-responsive">2.3.1.1 Printed materials</h4>
-                    <div class="note note-secondary">
+                    <div class="shadow-lg p-3 mb-5 rounded">
                         <p class="text-justify">
                             Printed materials comprise of all textual and other materials that can be run off in large numbers on a photocopier or printing machine to be used by students or trainees.    Printed materials include; textbooks, fiction and non-fiction books, pamphlets, manuals, handouts, word processed documents, assignment sheets, study guides, and resource materials for group exercises such as instruction sheets and data sheets.
                         </p>
@@ -156,7 +157,7 @@
                     </div>
                     <br />
                     <h4 class="h4-responsive">2.3.1.2 Non-projected visuals </h4>
-                    <div class="note note-secondary">
+                    <div class="shadow-lg p-3 mb-5 rounded">
                         <p class="text-justify">
                             Non-projected visuals refer to media materials that appeal to the sense of sight and do not require any equipment for viewing. Among the non-projected visuals include; still pictures, drawings, charts, graphs, posters, cartoons and comics.
                         </p>
@@ -259,7 +260,7 @@
                             A cartoon is an interpretive picture that makes use of line, symbols and exaggeration to represent ideas, people, events, or situations in pictorial form.  Cartoons are mainly used to influence public opinion.   Cartoons employ the principle of caricature (gross and ludicrous exaggeration or distortion of parts of a whole to emphasize the part i.e. the nose, or the chin). A comic is a form of cartoon in which the characters enact a story in a certain sequence to create a continuous pictorial story.   Both cartoons and comics are humorous and interesting, easy to read and excite the students. Appreciation and interpretation however depends on the experience and ability level of the students.  Therefore, be sure that the cartoons and comics are within the experiential and intellectual range of your students.
 
                         </p>
-                        <div class="note note-light">
+                        <div class="note note-primary shadow-lg p-3 mb-5 rounded">
                             <blockquote class="blockquote bq-info">
                                 <i class="fas fa-tools"> Activity 2.3</i><br />
 
@@ -270,7 +271,7 @@
                     </div>
                     <br />
                     <h4 class="h4-responsive">2.3.1.3 Non-projected display surfaces</h4>
-                    <div class="note note-secondary">
+                    <div class="shadow-lg p-3 mb-5 rounded">
                         <p class="text-justify">
                             For you to use many of the non-projected visuals such as photographs, drawings, charts, graphs, or posters, you need to have a certain way of displaying them. The most commonly used classroom display surfaces include; the chalkboard, multipurpose board, pegboard, bulletin board, cloth board, exhibits, flip charts, and dioramas.
                         </p>
@@ -323,7 +324,7 @@
                             Before you continue reading the module, please stop for a while and carry out the following activity.
                         </p>
 
-                        <div class="note note-light">
+                        <div class="note note-primary shadow-lg p-3 mb-5 rounded">
                             <blockquote class="blockquote bq-info">
                                 <i class="fas fa-tools"> Activity 2.4</i><br />
 
@@ -349,7 +350,7 @@
                 </div>
                 <br />
                 <h3 class="h3-responsive">2.3.2 Projected media</h3>
-                <div class="note note-secondary">
+                <div class="shadow-lg p-3 mb-5 rounded">
                     <p class="text-justify">
                         Projected media refers to media formats in which still images are enlarged and displayed on a screen for viewing. Projection of the image is achieved by passing a strong light through transparent film, magnifying the image through a series of lenses and then casting it onto a reflective surface.   Among the projected media include; overhead projection, multi-image presentations, and computer image projection.
                     </p>
@@ -365,30 +366,570 @@
                         During the projection, a lens-and-mirror system that is mounted on a bracket above the box turns the light beam at an angle of 90 degrees and then projects the image back over the shoulder of the presenter. This type of projection where light passes through the transparency is referred to as <kk><i>'trans-missive'</i></kk> type.   In the other type of projector, the light source is above the projector stage and shines down onto the transparency. The light is then reflected by a mirror-like surface beneath the transparency back up and through the lens system. This type is referred to as <kk><i>'reflective'</i></kk> type. The reflective type of projector does not produce brilliant light and does not perform as well as the trans-missive type. However, it is portable, lighter, and more compact than the trans-missive type.
                     </p>
                     <p class="text-center">
-                        <kk> Types of Overhead Projectors (adapted from Heinich et al.; 1996:141)</kk><br/>
-                        <br/>
+                        <kk> Types of Overhead Projectors (adapted from Heinich et al.; 1996:141)</kk><br />
+                        <br />
                         <img src="../assets/over1.png" class="img-fluid" alt="Responsive image"><br />
 
                     </p>
                     <p class="text-center">
-                        <br/>
+                        <br />
                         <img src="../assets/over2.png" class="img-fluid" alt="Responsive image"><br />
- 
+
+                    </p>
+                    <br />
+                    <p class="text-justify">
+                        <kk>Creating Overhead Transparencies</kk><br />
+                        One of the advantages of the overhead projector is that the teacher and students can easily prepare their own transparencies. Some of the methods to use to prepare transparencies include; <kk>direct drawing method and computer printing</kk>. The direct drawing method involves drawing directly onto a transparency sheet (write-on transparency) using a transparency-marking pen (overhead projector pen). Overheads created by computers have transformed the task of creating overhead transparencies with the use of any word processing software to prepare simple verbal overheads which can then be printed on plain paper to make a master copy for photocopying.
+
                     </p>
                     <p class="text-justify">
+                        <kk>Advantages of the Overhead Projector</kk><br />
+                        The overhead projector has the following advantages:
+                        <ul>
+                            <li>
+                                <i>Brightness</i>- the lamp and the efficient optical system generates so much light on the screen that the overhead can be used with normal room lighting.
+                            </li>
+                            <li>
+                                <i>Eye contact</i>- the projector is operated from the front of the room with the presenter facing the audience allowing direct eye contact to be maintained.
+                            </li>
+                            <li>
+                                <i>Ease of use</i>- overhead projectors are easy to operate and portable.
+                            </li>
+                            <li>
+                                <i>Manipulability</i>- projected materials can be manipulated by the presenter. For example, the presenter can add details, notes, diagrams, highlight with colour, etc. during presentation.
+                            </li>
+                            <li>
+                                <i>Self-prepared materials </i>- the teachers and students can easily prepare their own transparencies.
+                            </li>
+                        </ul>
+
                     </p>
                     <p class="text-justify">
+                        <kk>Limitations of using overhead projectors</kk><br />
+                        Even though there are many advantaged of the overhead projector, there are limitations too. These may include:
+
                     </p>
                     <p class="text-justify">
+                        <ul>
+                            <li>
+                                The effectiveness of overhead projection presentation depends heavily on the presenter.
+                            </li>
+                            <li>
+                                Not self-instructional- overhead projection does not lend itself to independent study. It is mainly designed for large group presentation.
+                            </li>
+                            <li>
+                                Production process required- to use the overhead system, the material has to be made into transparencies by means of some production process.
+                            </li>
+                            <li>
+                                Keystone effect- distortion of images is common with the overhead projector than with other projection systems. This distortion of image is referred to as <kk><i>'keystone effect'</i></kk> (Heinich, et al, 1996:140-144).
+                            </li>
+
+                        </ul>
                     </p>
                     <p class="text-justify">
+                        <kk>Computer Image projection</kk><br />
+                        The computer is capable of using presentation graphics software to project computer images onto a screen. <kk><i>PowerPoint</i></kk> is an example of presentation software used on a computer connected to a data projector. PowerPoint allows the user to include text, draw pictures, produce diagrams, import digital photographs, include music, and create animation.
+
                     </p>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col">
+                                <img src="../assets/pp1.png" class="img-fluid" alt="Responsive image"><br />
+
+                            </div>
+                            <div class="col">
+                                <img src="../assets/pp2.png" class="img-fluid" alt="Responsive image"><br />
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <p class="text-justify">
+                        Powerpoint presentation
+                    </p>
+                    <p class="text-justify">
+                        With the advent of digital imaging, <kk><i>digital projectors</i></kk> have taken a firm hold in instruction. These computer output devices such as the <kk><i>data projector</i></kk>, project digital images onto a projection screen, large monitor, or whiteboard so that they can be shared with a large group (Lever-Duffy et al; 2005).
+                    </p>
+                    <p class="text-center">
+                        <img src="../assets/projection.png" class="img-fluid" alt="Responsive image"><br />
+                        <kk><i>Latest type of Projection</i></kk>
+                    </p>
+                    <p class="text-justify">
+                        <kk>Steps for connecting a computer projector</kk>
+                        <ul>
+                            <li>
+                                Check the connector cables that came with the projector to see which kind of output it uses, such as DVI, VGA, S-Video, or USB. Check the ports on the back and front of your computer to make sure you have a corresponding port to the output cable. (Buy a conversion cable, such as S-Video to USB, if you do not have the correct type of port on your computer.)
+                            </li>
+                            <li>
+                                Connect the conversion cable to the original cable.
+                            </li>
+                            <li>
+                                Plug the AC power cord from the projector into a wall outlet. Power off your computer and make sure the projector is turned off. Plug the output cable from the projector to the appropriate port on your computer.
+                            </li>
+                            <li>
+                                Turn the power on to the projector and point it towards an empty wall or projector screen.
+                            </li>
+                            <li>
+                                Wait for a prompt to appear on the screen asking for the type of device you are using. Use the remote that came with the projector to choose the option that either says "PC" or the name of the output jack such as "VGA."
+                            </li>
+                        </ul>
+                    </p>
+                    <div class="note note-primary shadow-lg p-3 mb-5 rounded">
+                        <blockquote class="blockquote bq-info">
+                            <i class="fas fa-tools"> Activity 2.5</i><br />
+                            Using the Faculty of Education Audio Visual Lab, practice on how to connect a computer projector.
+                        </blockquote>
+                    </div>
+
+
                 </div>
                 <br />
 
                 <br />
+                <h3 class="h3-responsive">2.3.3 Audio media </h3>
+                <div class="shadow-lg p-3 mb-5 rounded">
+                    <p class="text-justify">
+                        Audio media is rarely used during instruction yet students spend most of the time in class listening to the teacher.   Therefore, as teachers we can develop students' listening skills by using the audio media. Audio media refers to the use of human voice and other sounds for instructional purposes (Gathu, 2000:43).  Audio recordings can be prepared for group or individual listening and they can be used in a variety of ways. For example, a speech could be documented, a role-play or drama could be recorded, animal sounds could be recorded, and a meeting could also be verbally recorded.
+                    </p>
+                    <p class="text-justify">
+                        Audio media could be used in different formats which include:
+                        <ul>
+                            <li>Compact discs (CD)</li>
+                            <li>MP3/MP4 players</li>
+                            <li>Mobile phones</li>
+                            <li>Other digital electronic gadgets</li>
+                            <li>Podcasts </li>
+
+
+                        </ul>
+                    </p>
+                    <p class="text-justify">
+                        <kk>Examples of audio media usage in the classroom</kk>
+                        <ol>
+                            <li>
+                                Recording different sounds and playing them back to the students
+                            </li>
+                            <li>
+                                Learners recording their voices while reading paragraphs then listening for correctness of pronunciations, etc.
+                            </li>
+                            <li>
+                                Students with hearing problems or with learning difficulties can revisit classroom presentations in any of the subjects taught in order to reinforce what was taught in class.
+                            </li>
+                        </ol>
+                    </p>
+                    <p class="text-justify">
+                        <kk>Compact Discs</kk><br />
+                        A CD uses a tiny laser beam to retrieve the information from the disk. The CD allows us to store a lot of information. The instructor or students can selectively retrieve information from a CD since the digital storage format provides for random access of the data stored which means that you can directly go to and play any segment on a CD.  To use the CD, you will need a CD player though most computers have a CD deck as part of the computer accessories.
+                    </p>
+                    <p class="text-justify">
+                        Please note that once digitized, audio media can be delivered through the Internet.  The Internet allows you to find and download very specific audio clips for use in your classroom. The increasing availability of Internet audio has resulted in it becoming an emerging audio technology in today's classroom.
+                    </p>
+
+                </div>
+                <br />
+                <h3 class="h3-responsive">2.3.4 Motion media</h3>
+                <div class="shadow-lg p-3 mb-5 rounded">
+                    <p class="text-justify">
+                        These refer to those media formats where moving images can be recorded for playback and viewing by the audience. Both sound and visual (picture) are recorded.
+                    </p>
+
+                    <p class="text-justify">
+                        <kk>Video media</kk><br />
+                        The word <kk>'video'</kk> comes from Latin and it simply means, <i>"I see"</i>. The primary meaning of video is the playing of moving images on a television type screen. Video images are recorded electronically on magnetic tape along with sound for playback.  Any media format that uses a television screen or monitor to present a picture can be referred to as video (e.g. DVD).  Originally, the concept of video was synonymous with broadcast television, but the concept has expanded dramatically in recent years. New technologies connected to television sets have been added such as home computers, video games and specialized cable TV services.   There are different formats of video. Among them are: video files, videodiscs, and compact discs.
+
+                    </p>
+                    <p class="text-justify">
+                        <kk> Videodisc</kk><br />
+                        A newer type of video medium called <kk><i>'digital video disc'</i></kk> (DVD) has rapidly replaced the video and laser discs.  DVD is a compact disc format for displaying motion video, which offers truly digital, optical recording, storage, and playback of full-motion video. A DVD has the same physical size as an audio CD or CD-ROM but it can hold four times as much data as a CD or CD-ROM.
+
+                    </p>
+                    <p class="text-justify">
+                        <kk>Digital Video Camera</kk><br />
+                        The most common option for creating digital video recording is using a digital video camera. A digital video camera captures and stores the target image in a digital format that can be downloaded to a personal computer or laptop. Some newer cameras can create a DVD that can be played instantly on any playback device. The resultant video files can then be manipulated, edited, and enhanced using digital video editing software. A digital video camera allows you to record digital images on storage devices and later transfer to a computer or for playback on a television. The user can edit the video on the camera before processing (using the camera) for final play on other devices.
+
+                    </p>
+                    <p class="text-justify">
+                        <kk>Current capabilities of video</kk><br />
+                        Currently video is used in many ways. Gone are the times of video cassettes! DVD's and video files are used often. While DVD's are common, video files are easily manipulated and stored. For an example, video files can be emailed easily, can be stored on data bases, and can be played online (e.g. YouTube videos),
+
+                    </p>
+                    <p class="text-justify">
+                        <kk>Advantages of motion media</kk>
+                        <ul style="list-style-type:square">
+                            <li>
+                                <i> Motion: </i> Moving images have an obvious advantage over still visuals when portraying concepts where motion is essential to mastery.
+</li>
+                            <li>
+                                <i> Processes:</i> Operations, such as assembly line steps or procedures where sequential movements are critical can be shown more effectively by means of motion media.
+                            </li>
+                            <li>
+                                <i> Risk-free observation:</i> Visual recordings allow learners to observe phenomena that might be dangerous to view directly such as volcanic eruption, warfare, etc.
+                            </li>
+                            <li>
+                                <i> Dramatization: </i>Dramatic creations can bring historical events and personalities to life. It allows us to observe and analyze human interactions.
+                            </li>
+                            <li>
+                                <i> Skill Learning: </i> Mastery of physical skills requires repeated observation and practice. Through recorded media, performance can be viewed over and over again for emulation.
+                            </li>
+                            <li>
+                                <i>Affective Learning:</i> Due to their great potential for emotional impact, video and film can be used to shape personal and social attitudes.
+                            </li>
+                            <li>
+                                <i>Problem solving: </i>Open-ended dramatizations are used to present unresolved confrontations, leaving it to viewers to discuss various ways of dealing with the problem (Heinich, et al., 1996:207).
+                            </li>
+                        </ul>
+                    </p>
+                    <p class="text-justify">
+                        Before you continue reading this module and in order to confirm that you have understood what we have discussed so far, please stop for a while and carry out the following activity.
+                    </p>
+                    <div class="note note-danger shadow-lg p-3 mb-5 rounded">
+                        <blockquote class="blockquote bq-danger">
+                            <i class="fas fa-microphone">Discussion <br />Activity 2.6</i><br />
+                            Online Discussion - There is much discussion today about the role of computers in the classroom.  The main point often brought up is that this technology overshadows all other instructional technologies (many of which we have described above).  Do you think the computer will indeed replace these other technologies? Support your answer.
+                        </blockquote>
+                        <i> In answering the above question, you will need to consider the issue of media integration so that you bring out the idea of all these other media that we have discussed being combined with computer technology. You could then explain how the various technologies could be combined with computer technology so that the computer is not seen as replacing the other forms of media during instruction. </i>
+                    </div>
+
+                </div>
+                <br />
+                <h3 class="h3-responsive">2.3.5 Computer based multimedia and hypermedia </h3>
+                <div class="shadow-lg p-3 mb-5 rounded">
+                    <p class="text-justify">
+                        Despite technological advances, education has changed very little in some parts of the world.  Teachers still teach the same way they were taught and are comfortable using the tried-and-true strategies from which they learned. However, application of new technological tools makes many enhancements to these strategies possible (Lever-Duffy et al.; 2005).  To overcome any possible resistance to using the computer, it is best to begin by becoming more familiar with computers.
+                    </p>
+                    <p class="text-center">
+                        <img src="../assets/computers.png" class="img-fluid" alt="Responsive image"><br />
+                        <kk><i>Computers in a Classroom</i></kk>
+                    </p>
+                    <p class="text-justify">
+                        The computer has become one of the best instructional tools in today's classroom. The computer has the ability to control and integrate a wide variety of media, such as; still visuals, moving images or printed information. Computers perform tasks such as: complex calculations, data manipulation, word processing, and data presentation as well,.
+                    </p>
+                    <br />
+                    <h4 class="h4-responsive"> 2.3.5.1 Role of computers in instruction</h4>
+                    <div class="shadow-lg p-3 mb-5 rounded">
+
+                        <p class="text-justify">
+                            The computer can perform different functions. A computer can be an object of instruction, an instructional tool, and an instructional device. Let us look at these different functions of a computer in the classroom.
+                        </p>
+                        <p class="text-justify">
+                            <kk><i>As an object of instruction</i></kk><br />
+                            You can offer computer literacy to your student where you teach them the basics of computing, including learning about data processing and analysis, computer hardware and software, creating files and storing information, etc.
+                        </p>
+                        <p class="text-justify">
+                            <kk><i>As an instructional tool  </i></kk><br />
+                            You can also use the computer to serve the role of a typewriter for word processing and desktop publishing, to create other instructional media such as slides, to present information and data, to communicate with other people through e-mails, and as a source for data retrieval.
+                        </p>
+                        <p class="text-justify">
+                            <kk><i>As a writing tool</i></kk><br />
+                            The computer is being used widely for word processing and desktop publishing. As teachers, we need to encourage our students to embrace the new technologies.  Therefore, the more we promote usage of computers by students to write assignments, projects, and homework the more we promote its usage as a learning tool. We should even encourage the students to integrate media such as graphics, sound and motion into the content that they write.
+                        </p>
+                        <p class="text-justify">
+                            <kk><i></i>For calculating </kk><br />
+                            The computer can also serve as a tool during instruction which can aid in solving complex mathematical calculations just as you use a pocket calculator.
+                        </p>
+                        <p class="text-justify">
+                            <kk><i>For toring and retrieving information</i></kk><br />
+                            Today's students need to learn how to manage information, to store, retrieve, sort, and organize information, and also to evaluate their findings (Heinich et al.; 1996:231).  For inquiry and research, students can use <i><kk>databases</kk>, which are collections of related information organized for quick access to specific information </i>(Heinich et al.; 1996:231). Whereas a telephone book for example is a printed database, we can have databases also stored on your computer. A database is a versatile and easy-to-learn computer tool that can be used for research, and for gathering information.
+                        </p>
+                        <p class="text-justify">
+                            <kk><i>As an instructional device</i></kk><br />
+                            Computer assisted instruction helps students to learn specific skills. Students can use different software capable of providing them with complex tasks that can link them with real-world problems.    Such software can provide students with opportunities for drill and practice
+                            <i>practice (drill and practice is a method of teaching that presents a lengthy series of items to be rehearsed and it is used with skills that require repetitive practice for mastery),</i>
+                            tutoring
+                            <i>(the computer plays the role of a teacher),</i>
+                            offer simulation to real-life situations
+                            <i>(in a simulation, the learner confronts an approximation of a real-life situation to allow realistic practice without any risk or expenses otherwise involved)</i>
+                            making discoveries <i>(a general term used to describe activities that are undertaken by students using an inductive approach to learning) </i> and solving problems.
+                        </p>
+
+                        <p class="text-justify">
+                            Since the focus of this sub-section is to discuss computer-based multimedia and hypermedia, let us now define these two terms and then discuss the range of computer-based media.
+                        </p>
+                        <p class="text-justify">
+                            The term <kk><i>multimedia</i></kk> refers to any combination of two or more media formats that are integrated to form an informational or instructional programme. <kk><i>Computer multimedia</i></kk> systems incorporate the computer as a display device, management tool, and /or source of text, pictures, graphics, and sound (Heinich et al.; 1996:260).   Multimedia today is synonymous with a computer-based format that combines text, graphics, audio and even video into a single, coherent digital presentation.
+                        </p>
+                        <p class="text-justify">
+                            More than presenting information in multiple formats, <kk><i> Computer multimedia</i></kk>integrate the
+                            multiple media into a structured programme in which each element complements the other.
+                            The term multimedia was coined in the 1950s to describe early combinations of various still
+                            and motion media <kk><i>('multiple media' or 'a combination media')</i></kk> to increase educational effect. The term has now been adopted in connection with computers to refer to combinations of sound and images stored in different devices which are combined through computer software to form interactive programmes. Multimedia systems provide
+                            learning experiences to individuals and groups where multi-sensory involvement is emphasized.
+                        </p>
+                        <p class="text-justify">
+                            The term <kk><i>hypermedia</i></kk> refers to <kk><i>'linked media'</i></kk>. Hypermedia
+                            are computer software that use elements of text, graphics, video, and audio that are
+                            connected in such a manner that the user can easily move within the information.
+                            Each user uses a pathway that is unique to his/her style of thinking and processing
+                            information. Hypermedia provides a learning environment that is interactive and
+                            exploratory. Hypermedia is based on cognitive theories of how people structure
+                            knowledge and how they learn. You have been introduced to the various theories of
+                            learning in your EDC 100 course.  We also made reference to the learning theories
+                            in Unit 1 of this particular module. Please refer to the relevant section in Unit 1
+                            and also to your <kk>EDC 100 Teaching Principles and Practice</kk> course module to remind yourself on the cognitive learning theory.
+                        </p>
+                        <p class="text-justify">
+                            Hypermedia is designed to resemble the way people organize information with concepts and their relationships. These relationships or <kk><i>links</i></kk> are associations between ideas. For example, when you think about a bicycle, you create a link between ideas about transportation and recreation. With hypermedia, one can compose and display information that might include text, audio, and visual information. Using the example of the bicycle, the learner can connect the word 'bicycle' with a photograph of a girl riding a bicycle in the field.
+                        </p>
+                        <p class="text-justify">
+                            Computer hypermedia systems can be used for different instructional purposes. Among them are:
+                            <ul>
+                                <li>
+                                    <i>Browsing- </i>where users navigate through information by choosing routes that are of interest.
+                                </li>
+                                <li>
+                                    <i>Linking-</i>where users create their own special connections within the information.
+                                </li>
+                                <li>
+                                    <i>Authoring- </i>The process of creating multimedia or hypermedia is called <kk><i>authoring</i></kk>. This is where users create their own unique collections of information by adding or linking text, graphics, and audio as they wish
+                                </li>
+                            </ul>
+                        </p>
+                        <p class="text-justify">
+                            The most common application of hypermedia authoring in a classroom is when students develop hypermedia projects that allow students either as individuals or as groups to create reports that summarize major efforts as in the case of a science experiment. Instead of merely compiling a written report, students could include written work with pictures, sound clips, video and links to describe what they did.
+                        </p>
+                        <div class="note note-primary shadow-lg p-3 mb-5 rounded">
+                            Let us pause for a little. Please carry out the following activity.
+                            <blockquote class="blockquote bq-info">
+                                <i class="fas fa-tools"> Activity 2.7</i><br />
+
+                                <ol>
+                                    <li>
+                                        Interview your colleagues to see how they think computers could affect their teaching. On the basis of the interviews conducted and based on your own views, what is your overall view about the role of computers in instruction?
+                                    </li>
+                                    <li>
+                                        What is your view about the future of educational computing in Swaziland?
+                                    </li>
+                                </ol>
+                            </blockquote>
+                        </div>
+
+                    </div>
+                </div>
+                <br />
+                <h3 class="h3-responsive">2.3.6 Social Media</h3>
+                <div class="shadow-lg p-3 mb-5 rounded">
+                    <p class="text-justify">
+                        In Unit 1 you were introduced to social media as an Internet-based form of communication. It is also commonly associated with Web 2.0 technology that focuses on integration, collaboration, and interaction. While you may collaborate or interact through social media platforms (e.g. Facebook and Twitter), Web 2.0 also allows collaboration through teaching and learning. Some of these media may be termed "Participative Delivery Systems." In this case participants are the major authors as they create the content and supporting materials. Some of these technologies include Wikis and Blogs.
+                    </p>
+                    <p class="text-justify">
+                        <i>Collaborative/Participative technologies</i> offer a range of new ways that support learning by enabling learners to share and exchange both ideas and their own digital products. The technologies provide opportunities for building tools not only for authoring interactive multimedia content, but also for enhancing readers' experience beyond multi-media presentation, for example, through sharing comments, in-book search, browsing, skimming, visualisation, summarisation, and non-linear reading. Below are some participative tools we can use.
+                    </p>
+                    <p class="text-justify">
+                        <kk>Google Docs (docs.google.com)</kk><br />
+                        Google Docs is a lightweight Web-based suite of office applications that includes a <i>word processor, a presentation tool</i>, and a spread sheet tool. With this tool, you can create, edit and share documents online. The three Google Docs tools support <i>multiple authors</i> editing the same document, presentation, or spread sheet at the same time, tracking revisions and showing, near real time, what each author is doing. Because the documents are stored online, they are available on any computer connected to the Internet. Import and export options allow one to upload Word docs, Excel, PowerPoint and PDFs and output back in the same format. One can also quickly publish what has been created online with a click of a button.
+
+                    </p>
+                    <p class="text-justify">
+                        Students can use Google Docs to coordinate group work, including group papers. Instructors can easily monitor individual contributions using Docs's revision tracking tools. Likewise, facilitators can simplify collaborative paper writing with colleagues by sharing the same document with multiple authors without the worry of coordinating various individual versions. Google Docs is free for anyone to use.
+                    </p>
+                    <p class="text-justify">
+                        <kk>Skype (www.skype.com)</kk><br />
+                        Skype is a powerful video and voice application. Wikipedia describes Skype as a software application that allows users to make telephone calls over the Internet. In addition to making telephone calls, users can use Skype to:
+                        <ol>
+                            <li>Make video calls (can actually see each other no matter how far apart you can be, </li>
+                            <li>Engage in video conferencing (e.g. listen to a lecture and be able to ask and answer questions)</li>
+                            <li>Send instant messages, and </li>
+                            <li>Transfer files from one computer to another</li>
+                        </ol>
+                    </p>
+                    <p class="text-justify">
+                        Skype is best known for its ability to let people make free calls from one computer to another-anywhere in the world. While most calls are free (depending on the service options one selects) when they are made to other computers, calls can also be made to mobile devices or landlines for a fee.
+                    </p>
+                    <p class="text-justify">
+                        Skype can be used as a means to connect users from around the world. This free and easy to use application can connect colleagues, students and researchers all within a web browser. So whether it is for office hours or to help students complete group work online, Skype is a great tool for any educator. The best thing about Skype is the ability to make free phone calls (with or without video).
+                    </p>
+                    <p class="text-justify">
+                        Some limitations of Skype however are that:
+                        <ol>
+                            <li>It does not support emergency calls (i.e., 911),  </li>
+                            <li>Calls may be dropped from time to time (depending on your internet speed), and </li>
+                            <li>Some organizations might block the use of Skype on their network. </li>
+                            <li>The cost of Skype varies depending on use. However, basic computer-to-computer phone calls can be made for free.</li>
+                        </ol>
+                    </p>
+                    <p class="text-justify">
+                        There are many reasons for using Skype in education. They  include:
+                        <ol>
+                            <li>
+                                <i>Virtual field trips: </i> trips that are not possible due to financial reasons or distance can still be taken using Skype to transport learners to another country or area.
+                            </li>
+                            <li>
+                                <i>Interviewing: </i>connecting with and speaking to an author or celebrity can bring classroom theory alive and make it real for learners.
+                            </li>
+                            <li>
+                                <i>Homework help or extra lessons: </i> teachers can offer help with homework, long-term projects or give extra lessons to learners who are lagging through Skype.
+                            </li>
+                            <li>
+                                <i>Guest appearances: </i>guest teachers or experts on a subject can teach learners through Skype or give an explanation directly from their work environment.
+                            </li>
+                            <li>
+                                <i>Illness: </i>learners who are hospitalized or who suffer from long-term illnesses and are schooled at home or hospital can also benefit by being included in lessons through the Skype platform.
+                            </li>
+                        </ol>
+                    </p>
+                    <p class="text-justify">
+                        <kk>Skype Requirements</kk><br />
+                        For Skype to work, the software must be installed in your computer, laptop, notebook, tablet or mobile phone. The person you want to communicate with must also have Skype installed in their gadgets. In this course you will have a chance to experience Skype when all the necessary requirements are in-place. However, through instructions on the course website, you should be able to experiment with other learners who have Skype installed on their gadgets.
+
+                    </p>
+                    <p class="text-justify">
+                        <kk>YouTube (www.youtube.com)</kk><br />
+                        YouTube is a video sharing website that enables users to upload video clips to the Web. Videos uploaded to YouTube can be accessed and viewed by a select group of users or open for anyone to view. Users can also view, comment, rate, embed, and link to their videos as well as the millions of other videos posted to the site. Signing up for YouTube is free and easy. Further, even if you do not plan to upload your own videos, signing up for an account enables you to bookmark your favourites and to create playlists.
+
+                    </p>
+                    <p class="text-justify">
+                        YouTube has become one of the largest repositories for video on the Internet, making it a great resource for educators. Staff and students can often find dozens, if not hundreds, of videos about the topics of their choice. YouTube has partnered with several universities and launched YouTube EDU focusing on university related videos and lectures. YouTube is also a great tool for creating personalized content allowing faculty to record lectures, introductions, and commentary.
+                    </p>
+                    <p class="text-justify">
+                        The benefits of YouTube is that it is free, easy to use, supports high definition (HD) content and users can set their videos to public or private. The only major drawback of YouTube is that it limits users to uploading videos that are 1 GB or less than 10 minutes in length. One other minor drawback is that a video can be removed from YouTube at any time throughout the semester. YouTube is free and does not cost anything to use.
+                    </p>
+                    <br />
+                    <h4 class="h4-responsive">2.3.6.1 Other capabilities of Social Media </h4>
+                    <div class="shadow-lg p-3 mb-5 rounded">
+                        <p class="text-justify">
+                            Social media platforms also allow users to have conversations, share information and create web content. There are many forms of social media, including blogs, micro-blogs, wikis, social networking sites, photo-sharing sites, instant messaging, video-sharing sites, podcasts, widgets, virtual worlds, and more.
+                        </p>
+                        <p class="text-justify">
+                            There are many ways in which information is conveyed from one person to the other. In the teaching/leaning process communication through social media is vital and its roles are numerous. Firstly it serves the purpose of the ease of learning. It provides learners with a situation where knowledge is abundantly available. Visuals help in adding meaning to words. As it is widely known in teaching, leaners understand better when they see and touch something. So when you explain abstract ideas then bring in a projector to show them what you mean, it helps to add the element of reality as they are seeing the object in front of them.
+                        </p>
+                        <p class="text-justify">
+                            Social media is used as extensions of our efforts to communicate with students. Research shows that a major percentage (83%) of what people learn is derived through the sense of sight. Social media are also used to support instructional activities like feedback to students' work, visualisation of a lesson, transferring of abstract concepts to concrete objects, and presentation of new content. Media also helps learners to overcome physical limitations, improves the quality of learning and assists to provoke learners to change attitude of mind.
+                        </p>
+                        <p class="text-center">
+                            <img src="../assets/social.png" class="img-fluid" alt="Responsive image"><br />
+                            <kk><i>Graphic showing different types of Social Media</i></kk>
+                        </p>
+                        <div class="note note-primary shadow-lg p-3 mb-5 rounded">
+
+                            <blockquote class="blockquote bq-info">
+                                <i class="fas fa-tools"> Activity 2.8</i><br />
+                                Conduct an Internet search and report the uses of social media in the classroom
+
+
+                            </blockquote>
+                        </div>
+                        <br />
+                        <h5 class="h5-responsive">2.3.6.1.1 Wiki </h5>
+                        <div class="shadow-lg p-3 mb-5 rounded">
+                            <p class="text-justify">
+                                A wiki is a type of free online writing space that allows users to add, modify and update its pages.  If something is missing or incorrect in a wiki and permissions allow you to edit the wiki, you can easily add your thoughts or make changes to the wiki. It is essentially a fully editable web site.
+                            </p>
+                            <p class="text-justify">
+                                Wikis can be used effectively by instructors for posting course information or lecture notes and inviting participation from learners. Notes can be distributed in the form of simple text, PowerPoint slides, or audio and video components. Learners can participate by adding their own notes and comments along with relevant links that they may have found. One can also create a discussion environment for a particular topic.
+                            </p>
+                            <p class="text-justify">
+                                Learners or groups of learners can be invited to create their own wiki, either with personal information or project information related to the topics being studied. Wikis can also be used as e-portfolios of learners' work for evaluation by the instructor. Brainstorming activities can be especially powerful using a wiki, and Frequently Asked Questions (FAQ) pages are also possible.
+                            </p>
+                            <div class="note note-primary shadow-lg p-3 mb-5 rounded">
+
+                                <blockquote class="blockquote bq-info">
+                                    <i class="fas fa-tools"> Activity 2.9</i><br />
+                                    On the course website, participate in the Wiki activity by entering new information and responding to other student's submissions.  The topic will be the uses of ICT's in the classroom.
+
+
+                                </blockquote>
+                            </div>
+
+                        </div>
+                        <h5 class="h5-responsive">2.3.6.1.2 Blogs </h5>
+                        <div class="shadow-lg p-3 mb-5 rounded">
+                            <p class="text-justify">
+                                A blog is a website on which an individual or group of users record opinions, information, etc. on a regular basis. While there are many uses of blogs, the actual art of doing it (blogging) is educationally sound for facilitating to learners because:
+                            </p>
+                            <p class="text-justify">
+                                <ul style="list-style-type:square">
+                                    <li>
+                                        Blogs provide a space for sharing opinions and learning in order to grow communities of discourse and knowledge; a space where learners and facilitators can learn from each other.
+                                    </li>
+                                    <li>
+                                        Blogs help learners to see knowledge as interconnected as opposed to a set of discrete facts.
+                                    </li>
+                                    <li>
+                                        Blogs can give learners a totally new perspective on the meaning of voice. As they explore their own learning and thinking, their distinctive voices emerge.
+                                    </li>
+                                    <li>
+                                        Blogs foster ownership and choice.
+                                    </li>
+                                    <li>
+                                        They help lead us away from learners trying to find what the facilitator wants in terms of an answer.
+                                    </li>
+                                </ul>
+                            </p>
+                            <p class="text-justify">
+                                Below are steps to assist you to create your own personal blog. The link below is currently working. In-case there are problems with the link, a new one will be posted on the course webpage.
+                            </p>
+                            <p class="text-justify">
+                                <kk>Steps to creating your blog</kk>
+                                <ol>
+                                    <li>
+                                        Go to <a href=" http://www.blogger.com"> http://www.blogger.com</a>
+                                    </li>
+                                    <li>
+                                        Click where it says "Create Your Blog Now"
+                                    </li>
+                                    <li>
+                                        Fill in a <i>user name.</i> This can be anything you want - it is what you will use to sign in to your blog
+                                    </li>
+                                    <li>
+                                        Select a <i>password</i>. This must be at least 6 characters long. Try to use a combination of numbers and letters, and think of something that others will not be able to easily guess.
+                                    </li>
+                                    <li>
+                                        Select a <i>display name</i>. This will be used to sign your blog posts, so choose something that will protect your identity! It is recommended that you refrain from using your first and last name, or, if you can be easily located with your first name, choose a name that is somewhat disguising
+                                    </li>
+                                    <li>
+                                        Enter an <i>e-mail address</i>. You will need this to register, and later on you can change your preferences so this won't appear on your blog in clear sight of visitors. Consider setting up a separate e-mail account for your blog - this helps protect you from online predators.
+                                    </li>
+                                    <li>
+                                        Read the terms of service, and then click the box indicating you have done so.
+                                    </li>
+                                    <li>
+                                        Click continue
+                                    </li>
+                                    <li>
+                                        Give your blog a <i>title</i>. This is what will show at the top of your blog page.
+                                    </li>
+                                    <li>
+                                        Choose a web address for your blog space. This will be displayed in the address bar as <a href=" http://yourblogspacename.blogspot.com">http://yourblogspacename.blogspot.com</a>
+                                    </li>
+                                    <li>
+                                        Choose a template. Select from the templates the way you would like your blog to look. If you don't like any of the templates you see, just select one to get started. You can change or customize it later.
+                                    </li>
+
+                                </ol>
+                            </p>
+                            <p class="text-justify">
+                                Once your blog has been created, you are ready to change your personal profile and begin posting!
+                            </p>
+                            <p class="text-justify">
+
+                            </p>
+                            <p class="text-justify">
+                            </p>
+                            <p class="text-justify">
+                            </p>
+                            <p class="text-justify">
+                            </p>
+                            <p class="text-justify">
+                            </p>
+                            <p class="text-justify">
+                            </p>
+                            <p class="text-justify">
+                            </p>
+                            <p class="text-justify">
+                            </p>
+                            <p class="text-justify">
+                            </p>
+
+
+
+                        </div>
+                    </div>
+
+                </div>
+                <br />
                 <h2 class="h2-responsive">2.3 Instructional Media Available for Teaching and Learning </h2>
-                <div class="note note-secondary">
+                <div class="shadow-lg p-3 mb-5 rounded">
                     <p class="text-justify">
                     </p>
                 </div>
