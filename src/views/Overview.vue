@@ -3,7 +3,7 @@
         <div class="border border-light p-3 mb-5 bg-light rounded b">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
-                    <nav id="navbar-example3" class="navbar navbar-light bg-light flex-column mt-4">
+                    <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 3</a>
                         <nav class="nav nav-pills flex-column">
                             <a class="nav-link active" href="#item-1">Welcome to Educational Technology and Skills - IDE-EDC 12</a>
