@@ -1,5 +1,5 @@
 <template>
-    <mdb-navbar expand="large" dark color="info">
+    <mdb-navbar class="fixed-top " expand="large" dark color="info">
         <mdb-navbar-brand to="/">
             IDE-EDC 120
         </mdb-navbar-brand>
@@ -27,7 +27,7 @@
                         <mdb-dropdown-item to="/unit22">2.2 </mdb-dropdown-item>
                         <mdb-dropdown-item to="/unit23">2.3 </mdb-dropdown-item>
                         <mdb-dropdown-item to="/unit24">2.4  </mdb-dropdown-item>
-                        <mdb-dropdown-item to="/end-of-unit2"> </mdb-dropdown-item>
+                        <mdb-dropdown-item to="/end-of-unit2">Summary, Assignment and References </mdb-dropdown-item>
                     </mdb-dropdown-menu>
                 </mdb-dropdown>
 
@@ -101,6 +101,9 @@
         }
     }
 </script>
-<style>
-  
+<style >
+    .v {
+        margin-bottom:57px;
+        padding-bottom:57px;
+    }
 </style>

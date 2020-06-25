@@ -1,5 +1,5 @@
 <template>
-    <div class="home">
+    <div class="home border border-info p-3 mb-5 bg-light rounded b">
         <div class="text-center">
             <img src="../assets/uniswa.gif" class="img-fluid" alt="Responsive image">
         </div>
@@ -109,5 +109,10 @@
     .img-fluid {
         max-width:100%;
         height:auto;
+    }
+    .b {
+        margin-top:55px;
+        margin-bottom:00px;
+
     }
 </style>

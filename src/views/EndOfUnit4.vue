@@ -1,161 +1,139 @@
 <template>
-    <div class="row">
-        <div class="col-sm-4 col-lg-3">
-            <nav id="navbar-example3" class="navbar navbar-light bg-light flex-column mt-4">
-                <a class="navbar-brand" href="#">Unit 3</a>
-                <nav class="nav nav-pills flex-column">
-                    <a class="nav-link active" href="#item-1">Unit summary</a>
-                    <a class="nav-link" href="#item-2">Assignment</a>
-                    <a class="nav-link" href="#item-3">References</a>
+   
+    <div id="endofunit4" class="border border-info p-3 mb-5 bg-light rounded b">
+        <br/>
+        <div class="row">
+            <div class="col-sm-4 col-lg-3">
+                <nav id="navbar-example3" class="navbar navbar-light bg-light flex-column mt-4">
+                    <a class="navbar-brand" href="#">Unit 4</a>
+                    <nav class="nav nav-pills flex-column">
+                        <a class="nav-link active" href="#item-1">Unit summary</a>
+                        <a class="nav-link" href="#item-2">References</a>
 
+                    </nav>
                 </nav>
-            </nav>
-        </div>
+            </div>
 
-        <div class="col-sm-8 col-lg-9">
-            <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
-                 data-offset="0">
+            <div class="col-sm-8 col-lg-9">
+                <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
+                     data-offset="0">
+                    <h1 class="h1-responsive">  Unit Summary and References</h1>
+                    <div class="note note-success meme">
+                        <blockquote class="blockquote bq-success">
+                            <h3 id="item-1"><i class="fas fa-folder-open">Unit summary</i></h3>
 
-                <div class="note note-success meme">
-                    <blockquote class="blockquote bq-success">
-                        <h3 id="item-1"><i class="fas fa-folder-open">Unit summary</i></h3>
+                            <p class="text-justify meme">
+                                In this unit we have discussed the range of media for teaching
+                                and learning other than print media. We have also discussed the
+                                advantages and disadvantages of using different types of media
+                                during instruction. We went on to discuss how to select and use
+                                different types of media during instruction.  We also discussed
+                                printed materials. We identified the various types of printed
+                                materials that we could use during instruction as well as the
+                                advantages and disadvantages of using these.  We have also
+                                discussed how to select and use different types of printed
+                                materials. One important thing we have mentioned is that when
+                                selecting the materials we need to consider whether the materials
+                                will be used for mass instruction, group instruction or
+                                individualized instruction. We concluded the unit by discussing
+                                the criteria that we should use when selecting or evaluating
+                                printed materials for use during instruction.
+                            </p>
+                        </blockquote>
+                    </div>
+                    <br />
+                    <hr>
 
-                        <p class="text-justify meme">
-                            In this unit we have discussed the range of media for teaching 
-                            and learning other than print media. We have also discussed the
-                            advantages and disadvantages of using different types of media 
-                            during instruction. We went on to discuss how to select and use 
-                            different types of media during instruction.  We also discussed 
-                            printed materials. We identified the various types of printed 
-                            materials that we could use during instruction as well as the 
-                            advantages and disadvantages of using these.  We have also 
-                            discussed how to select and use different types of printed 
-                            materials. One important thing we have mentioned is that when
-                            selecting the materials we need to consider whether the materials 
-                            will be used for mass instruction, group instruction or 
-                            individualized instruction. We concluded the unit by discussing 
-                            the criteria that we should use when selecting or evaluating 
-                            printed materials for use during instruction.
-                        </p>
-                    </blockquote>
+                    <br />
+                    <div class="note note-secondary meme">
+                        <blockquote class="blockquote bq-secondary">
+                            <h3 id="item-2"><i class="fas fa-">References</i></h3>
+                            <p class="text-justify meme">
+                                Anderson, R.H. (1983). <kk>Selecting and Developing Media for Instruction</kk>. 2<sup>nd</sup> Edition.
+                                New York: Van Nostrand Reinhold Company.<br /><br />
+
+                                Brown, J.W., Lewis, R.B., & Harcleroad, F.F. (1973). AV <kk>Instruction Technology Media and Methods</kk>.
+                                New York: McGraw-Hill Book Company.<br /><br />
+
+                                Butler, K.A. (1986). <kk><i>Learning and Teaching Style: In Theory and in Practice</i></kk>, 2<sup>nd</sup> ed.
+                                Columbia, CT: Learner's Dimension.<br /><br />
+
+                                Ellington, H. (1985). <kk>
+                                    Producing Teaching Materials: a Handbook for
+                                    Teachers and Trainers
+                                </kk>. London: Kogan Page Ltd.<br /><br />
+
+                                Erickson, C.W.H., & Curl, D.H. (1972). <kk>Fundamentals of Teaching with Audiovisual Technology</kk>.
+                                2<sup>nd</sup> Edition. New York: Macmillan Publishing  Co., Inc.<br /><br />
+
+                                Ellis, K. (2003). <kk><i>Moving into M-Learning. Training</i></kk><br /><br />
+                                Gagne, R. (1985). <kk><i>The Conditions of Learning.</i></kk> (4<sup>th</sup> ed.).  New
+                                York: Holt, Rinehart and Winston.<br /><br />
+
+                                Gagne, R.M.; Briggs, L.J.; & Wager, W.W. (1992). <kk>Principles of Instructional Design</kk>
+                                (4<sup>th</sup> ed.). Fort Worth, TX: Harcourt Brace Jevanovich College Publishers.<br /><br />
+
+                                Gardner, H. (1993). <kk><i>Multiple Intelligences: The Theory in Practice</i></kk>.
+                                New York: Basic Books.<br /><br />
+
+                                Heinich, R.; Molenda, M.; Rusell, J.D.; & Smaldino, S.E (1996).  <kk>
+                                    Instructional Media and
+                                    Technologies for Learning
+                                </kk>. 5<sup>th</sup> Edition. New Jersey: Prentice Hall, Inc.<br /><br />
+
+                                Houghton, H.A.; Willows, D.M. (eds., 1987). <kk><i>The Psychology of Illustration,</i></kk>.
+                                Vol. 2. New York: Verlag.<br /><br />
+
+                                Kemp, J.E.; Dayton, D.K (1985). <kk>
+                                    Planning and Producing Instructional Media
+                                </kk>. 5th edition. New York:  Harper & Row, Publishers.<br /><br />
+
+                                Newby, T.J.; Stepich, D.A.; Lehman, J.D.; Russell, J.D. (2000). <kk>
+                                    Instructional Technology for teaching and learning: Designing instruction, integrating computers, and using media.
+                                </kk> 2<sup>
+                                    nd
+                                </sup> ed.
+                                Upper Saddle River: New Jersey, Merrill.<br /><br />
+
+                                Newby, T.J.; Stepich, D.A.; Lehman, J.D.; & Russell, J.D. (2006). <kk>
+                                    Educational Technology for Teaching and Learning.
+                                </kk> Upper Saddle River, New Jersey: Pearson Education, Inc.,<br /><br />
+
+                                Reiser, R.A.; Dick, W. (1996). <kk>
+                                    Instructional Planning: A guide for teachers.
+                                </kk> Boston: Allyn and Bacon.<br /><br />
+
+                                Romiszoski, A.J. (1988). <kk>
+                                    The Selection and Use of Instructional Media: For improved classroom teaching and for
+                                    interactive, individualized instruction
+                                </kk>. 2<sup>nd</sup> Edition. London: Kogan Page Ltd.<br /><br />
+
+                                Rowntree, D. (1974). <kk><i>Educational Technology in Curriculum Development</i></kk>.
+                                London: Harper and Row.<br /><br />
+
+                                Snow, R., Corno, L., & Jackson, D. III (1996). <kk>Individual Differences in affective and cognitive functions</kk>.
+                                In D. Berliner & R. Callee   (Eds.), <kk><i>Handbook of Educational Psychology</i></kk> (pp.243-310). New York:
+                                Simon & Schuster Macmillan.<br /><br />
+
+                                St. Cloud State University. <kk>Developing Support Materials</kk> [Web Page] (1997). Available at:
+                                <a href="http://lrs.stcloudstate.edu/cim/courses/pine/develop.html">
+                                    http://lrs.stcloudstate.edu/cim/courses/pine/develop.html
+                                </a>. Accessed in March, 2003.<br /><br />
+
+                                Wikipedia, the free encyclopedia. Retrieved from  <a href="http://en.wikipedia.org/wiki/Systems_thinking">
+                                    http://en.wikipedia.org/wiki/Systems_thinking
+                                </a> on 20th July, 2009.<br /><br />
+
+                                Wittich, W.A., & Schuller, C.F. (1979). <kk>Instructional Technology: Its Nature and Use.</kk>
+                                6<sup>th</sup> Edition. New York: Harper & Row Publishers
+                            </p>
+
+                        </blockquote>
+                    </div>
                 </div>
-                <br />
-                <hr>
-                <div class="note note-warning meme">
-                    <blockquote class="blockquote bq-warning">
-                        <h3 id="item-2"><i class="fas fa-medal"> Assignment</i></h3>
-                        <p class="text-justify font-italic">
-                            Select a topic from one of your teaching subjects where
-                            instructional media could be used. Then, following the ASSURE Model,
-                            systematically plan the presentation of the lesson to incorporate the
-                            use of media.  Please provide all the necessary details of what will
-                            happen at each stage of the model. Present your work to your course
-                            lecturer for marking.
-                        </p>
-                    </blockquote>
-                </div>
-                <hr>
-                <br />
-                <div class="note note-secondary meme">
-                    <blockquote class="blockquote bq-secondary">
-                        <h3 id="item-3"><i class="fas fa-"> References</i></h3>
-                        <p class="text-justify">
-                            Aronson, D. (1977).<kk>
-                                <i>
-                                    Formulation and trial use of guidelines for
-                                    designing and developing instructional motion pictures
-                                </i>
-                            </kk>. Unpublished
-                            doctoral dissertation. Tallahassee, FL: Florida State University.<br /><br />
-
-                            Briggs, L. J. (1968).<kk> Learner variables and educational media.</kk>
-                            <i>Review of Educational Research</i>, 38,160-176.<br /><br />
-
-                            Briggs, L. J.; Wager, W. W. (1981). <kk>
-                                <i>
-                                    Handbook of procedures
-                                    for the design of instruction
-                                </i>
-                            </kk>(2<sup>nd</sup> ed.). Englewood Cliffs,
-                            NJ: Educational Technology Publications.<br /><br />
-
-                            Clark, R. E.; & Salomon, G. (1986). <kk>Media in teaching</kk>. In M. C. Wittrock
-                            (Ed.).<i> Handbook of research on teaching</i> (3<sup>rd</sup> ed.). A Project of the
-                            American Educational Research Association.  New York: Macmillan Publishing
-                            Company.<br /><br />
-
-                            Davies, I.K. (1981). <i><kk>Instructional Techniques</kk></i>. McGraw Hill book Company.<br /><br />
-
-                            Gagne, R. (1985).  <i><kk>The Conditions of Learning</kk></i>. (4 <sup>th</sup> ed.).  New York: Holt,
-                            Rinehart and Winston.  <br /><br />
-
-                            Gagne, R. M.; Briggs, L. J.; & Wager, W. W. (1988). <kk>Principles of Instructional Design</kk>
-                            3<sup>rd</sup>. ed., Orlando, Florida: Holt, Rinehart and Winston, Inc.<br /><br />
-
-                            Gagne, R.M.; Briggs, L.J.; & Wager, W.W. (1992). <kk>Principles of Instructional Design</kk>
-                            (4<sup>th</sup> ed.). Fort Worth, TX: Harcourt Brace Jevanovich College Publishers.<br /><br />
-
-                            Gardner, H. (1993). <i><kk>Multiple Intelligences: The Theory in Practice</kk></i>. New York: Basic Books.<br /><br />
-
-                            Heinich, R.; Molenda, M.; Rusell, J.D.; & Smaldino, S.E (1996). <kk>
-                                Instructional Media and
-                                Technologies for Learning.
-                            </kk> 5<sup>th</sup> Edition. New Jersey: Prentice Hall, Inc.<br /><br />
-
-                            Newby, T.J.; Stepich, D.A.; Lehman, J.D.; Russell, J.D. (2000). <kk>
-                                Instructional
-                                Technology for teaching and learning: Designing instruction, integrating computers,
-                                and using media.
-                            </kk> 2<sup>nd</sup> ed. Upper Saddle River: New Jersey, Merrill.<br /><br />
-
-                            Newby, T.J.; Stepich, D.A.; Lehman, J.D.; & Russell, J.D. (2006).<kk>
-                                Educational Technology
-                                for Teaching and Learning
-                            </kk>. Upper Saddle River, New Jersey: Pearson Education, Inc.,<br /><br />
-
-                            Romiszowski, A.J. (1988). <i>
-                                <kk>
-                                    The Selection and Use of Instructional Media. For improved classroom
-                                    teaching and for interactive, individualized instruction
-                                </kk>
-                            </i>. 2<sup>nd</sup> Edition.  New York:
-                            Nichols Publishing. <br /><br />
-
-                            Rowntree, D. (1974). <i><kk>Educational Technology in Curriculum Development</kk></i>. London: Harper and Row<br /><br />
-
-                            Snow, R., Corno, L., & Jackson, D. III (1996). <kk>Individual Differences in affective and cognitive functions.</kk>
-                            In D. Berliner & R. Callee   (Eds.), <i>Handbook of Educational Psychology</i> (pp.243-310). New York: Simon & Schuster
-                            Macmillan.<br /><br />
-
-                            St. Cloud State University. Developing Support Materials [Web Page] (1997).
-                            Available at: <a href="http://lrs.stcloudstate.edu/cim/courses/pine/develop.html">
-                                http://lrs.stcloudstate.edu/cim/courses/pine/develop.html
-                            </a>
-                            Accessed in March, 2003.
-
-                        </p>
-                    </blockquote>
-                </div>
-                <p class="text-justify meme">
-
-                </p>
-                <p class="text-justify meme">
-
-                </p>
-                <p class="text-justify meme">
-
-                </p>
-                <p class="text-justify meme">
-
-                </p>
-                <p class="text-justify meme">
-
-                </p>
-
             </div>
         </div>
     </div>
-
 </template>
 
 <style>

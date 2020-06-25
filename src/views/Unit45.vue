@@ -1,4 +1,5 @@
 <template>
+    <div id="unit45" class="border border-info p-3 mb-5 bg-light rounded b">
     <div class="row">
         <div class="col-sm-4 col-lg-3">
             <nav id="navbar-example3" class="navbar navbar-light bg-light flex-column mt-4">
@@ -831,11 +832,14 @@
                 </div>
             </div>
     </div>
-
+</div>
 </template>
 
 <style>
     table, th, td,thead {
         border:1px solid black;
+    }
+    h1 {
+        color:blue;
     }
 </style>
