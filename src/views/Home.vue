@@ -1,5 +1,5 @@
 <template>
-    <div class="home border border-info p-3 mb-5 bg-light rounded b">
+    <div class="home border border-light p-3 mb-5 bg-light rounded b">
         <div class="text-center">
             <img src="../assets/uniswa.gif" class="img-fluid" alt="Responsive image">
         </div>
@@ -112,7 +112,7 @@
     }
     .b {
         margin-top:55px;
-        margin-bottom:00px;
+       
 
     }
 </style>

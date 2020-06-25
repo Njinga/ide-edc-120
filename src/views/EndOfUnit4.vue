@@ -1,6 +1,6 @@
 <template>
    
-    <div id="endofunit4" class="border border-info p-3 mb-5 bg-light rounded b">
+    <div id="endofunit4" class="border border-light p-3 mb-5 bg-light rounded b">
         <br/>
         <div class="row">
             <div class="col-sm-4 col-lg-3">
