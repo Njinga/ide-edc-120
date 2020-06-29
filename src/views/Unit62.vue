@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
-                        <a class="navbar-brand" href="#">Unit 5</a>
+                        <a class="navbar-brand" href="#">Unit 6</a>
                         <nav class="nav nav-pills flex-column">
                             <a class="nav-link active" href="#item-1">6.2 The Concepts of Maintenance, Care and Storage of Instructional Media Equipment and Materials</a>
                         </nav>

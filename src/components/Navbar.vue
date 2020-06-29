@@ -1,10 +1,10 @@
 <template>
-    <mdb-navbar class="fixed-top " expand="large" dark color="info">
+    <mdb-navbar class="fixed-top mt-0 mb-10" expand="large" dark color="info">
         <mdb-navbar-brand to="/">
             IDE-EDC 120
         </mdb-navbar-brand>
         <mdb-navbar-toggler>
-            <mdb-navbar-nav center>
+            <mdb-navbar-nav left>
                 <mdb-nav-item to="/" active>Home</mdb-nav-item>
                 <mdb-nav-item to="/overview">Overview</mdb-nav-item>
                 <mdb-dropdown tag="li" class="nav-item">
@@ -77,14 +77,15 @@
                         <mdb-dropdown-item to="/end-of-unit6">Summary, Assessment and References </mdb-dropdown-item>
                     </mdb-dropdown-menu>
                 </mdb-dropdown>
-                <form class="form-inline my-1">
-                    <div class="md-form form-sm mr-sm-2 my-0">
-                        <input class="form-control form-control-sm mr-sm-2 mb-0" type="text" placeholder="Search"
-                               aria-label="Search">
-                    </div>
-                    <button class="btn btn-outline-white btn-sm my-0" type="submit">Search</button>
-                </form>
+
             </mdb-navbar-nav>
+            <form class="form-inline my-1 text-right">
+                <div class="md-form form-sm mr-sm-2 my-0">
+                    <input class="form-control form-control-sm mr-sm-2 mb-0" type="text" placeholder="Search"
+                           aria-label="Search">
+                </div>
+                <button class="btn btn-outline-white btn-sm my-0" type="submit">Search</button>
+            </form>
         </mdb-navbar-toggler>
     </mdb-navbar>
 </template>

@@ -1,5 +1,5 @@
 <template>
-    <div class="about">
+    <div class="about mt-4">
         <div class="border border-light p-3 mb-5 bg-light rounded b">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
@@ -8,7 +8,7 @@
                         <nav class="nav nav-pills flex-column">
                             <a class="nav-link active" href="#item-1">5.1 Introduction</a>
                             <nav class="nav nav-pills flex-column">
-                                <a class="nav-link ml-3 my-1" href="#item-1-1"> Unit Outcomes</a>
+                                <a class="nav-link ml-3 my-1 " href="#item-1-1"> Unit Outcomes</a>
                                 <a class="nav-link ml-3 my-1" href="#item-1-2"> Terminology</a>
                             </nav>
                         </nav>
@@ -99,3 +99,16 @@
         </div>
     </div>
 </template>
+
+<script>
+
+
+
+
+
+
+
+</script>
+<style>
+
+</style>

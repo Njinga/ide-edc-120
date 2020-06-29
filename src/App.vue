@@ -1,14 +1,18 @@
 <template>
-    <div id="app" class="border border-info">
+    
+        <div id="app" class=" mt-10 border border-info">
 
-        <!----<div id="nav">
-          <router-link to="/">Home</router-link> |
-          <router-link to="/about">About</router-link>
-        </div-->
-        <Navbar></Navbar>
-        <router-view />
-        <Footer></Footer>
-    </div>
+            <!----<div id="nav">
+      <router-link to="/">Home</router-link> |
+      <router-link to="/about">About</router-link>
+    </div-->
+            
+                <Navbar></Navbar>
+                <router-view />
+
+            
+            <Footer></Footer>
+        </div>
 </template>
 
 <style scoped>

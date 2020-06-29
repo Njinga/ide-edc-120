@@ -1,10 +1,10 @@
 <template>
     <!-- Footer -->
     <mdb-footer  class=" bg-info text-white font-small pt-1 mt-1">
-
+  
         <div class="footer-copyright text-center py-3">
             <mdb-container fluid>
-                &copy;Institute of Distance Education, 2014.
+                &copy;Institute of Distance Education, 2020.
             </mdb-container>
         </div>
     </mdb-footer>
