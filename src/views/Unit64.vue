@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 6</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">6.4 Storing equipment and Materials</a>
+                            <a class="nav-link" href="#item-1">6.4 Storing equipment and Materials</a>
                         </nav>
                     </nav>
                 </div>
@@ -18,7 +18,7 @@
                             <mdb-row class="bg-primary text-justify">
 
                                 <h2 class="h2-responsive">6.4 Storing equipment and Materials</h2>
-                                <div>
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         Storage of equipment helps you to use them longer
                                         and more efficiently without regular breakage.

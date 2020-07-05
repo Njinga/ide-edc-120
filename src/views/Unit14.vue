@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 1</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">1.4 Introduction to Social Media</a>
+                            <a class="nav-link" href="#item-1">1.4 Introduction to Social Media</a>
                             <nav class="nav nav-pills flex-column">
                                 <a class="nav-link ml-3 my-1" href="#item-1-1">1.4.1 Examples  of Social Media</a>
                                
@@ -21,7 +21,7 @@
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-left">
                                 <h2 id="item-1" class="h1-responsive">1.4 Introduction to Social Media</h2>
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         Social media is an Internet-based form of communication.
                                         Social media is commonly associated with Web 2.0, technology
@@ -69,7 +69,8 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-1" class="h3-responsive"> 1.4.1 Examples  of Social Media</h3>
-                                <div class="text-justify meme">
+                                <div class="text-justify meme ml-5">
+                                    <br/>
                                     <p class="text-center font-italic"> facebook</p>
                                     Facebook is a website that allows people from around the
                                     world to network with friends, companies, and organizations.

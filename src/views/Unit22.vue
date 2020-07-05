@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 2</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">2.2 The Role of Media in Teaching and Learning </a>
+                            <a class="nav-link" href="#item-1">2.2 The Role of Media in Teaching and Learning </a>
                             <nav class="nav nav-pills flex-column">
                                 <a class="nav-link ml-2 my-1" href="#item-1-1">2.2.1 What is instructional media? </a>
                                 <a class="nav-link ml-2 my-1" href="#item-1-2">2.2.2 The Role of Media in Teaching and Learning </a>                             
@@ -23,7 +23,7 @@
                             <mdb-row class="bg-primary text-justify">
                                 
                                 <h2 id="item-1" class="h2-responsive">2.2 The Role of Media in Teaching and Learning</h2>
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         So far we have defined the terms 'educational technology' and 'communication.'
                                         We have noted the importance of effective communication in a classroom
@@ -53,7 +53,7 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-1" class="h3-responsive">2.2.1 What is instructional media?</h3>
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         Heinich et al. (1996:8) defines a medium as a means of
                                         communication as it refers to anything that carries
@@ -125,7 +125,7 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-2" class="h3-responsive">2.2.2 The Role of Media in Teaching and Learning</h3>
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         Media serve a variety of roles in education. Their primary role is to help students
                                         learn and one way they do this is by providing an information-rich

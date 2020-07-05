@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 1</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">1.2 Key Concepts Applicable to Educational Technology and ICTs</a>
+                            <a class="nav-link" href="#item-1">1.2 Key Concepts Applicable to Educational Technology and ICTs</a>
                             <nav class="nav nav-pills flex-column">
                                 <a class="nav-link ml-3 my-1" href="#item-1-1"> 1.2.1 What is Educational technology?</a>
                                 <nav class="nav nav-pills flex-column">
@@ -28,7 +28,7 @@
                                 <h2 class="h2-responsive">1.2 Key Concepts Applicable to Educational Technology and ICTs</h2>
                                 <br />
                                 <h3 id="item-1-1" class="h3-responsive"> 1.2.1 What is Educational technology?</h3>
-                                <div>
+                                <div class="text-justify ml-5">
                                     <p class="text-justify meme">
                                         The concept 'Educational Technology' is very wide and as a result difficult to define.
                                         The term itself has been evolving over a very long time.   For example, when a classroom
@@ -134,7 +134,7 @@
                                     <p class="text-justify meme">
                                         Before you continue reading this module, stop for a while and carry out this task.
                                     </p>
-                                </div>
+                                
 
                                 <div class="note note-primary">
                                     <blockquote class="blockquote bq-primary">
@@ -153,10 +153,10 @@
                                             <li>it is a complex process. </li>
                                         </ul>
                                     </p>
-                               
-                                <br>
+                                </div>
+                                <br/>
                                 <h3 id="item-1-2" class="h3-responsive">1.2.2 Why Study Educational Technology?</h3>
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         If we go by the simple definition of educational technology as <i>
                                             "any technology used by educators in support

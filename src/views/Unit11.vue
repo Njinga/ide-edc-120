@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 1</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">1.1 Introduction</a>
+                            <a class="nav-link" href="#item-1">1.1 Introduction</a>
                             <nav class="nav nav-pills flex-column">
                                 <a class="nav-link ml-3 my-1" href="#item-1-1"> Unit Outcomes</a>
                                 <a class="nav-link ml-3 my-1" href="#item-1-2"> Terminology</a>
@@ -24,8 +24,8 @@
                                 <h1 class="h1-responsive">Introduction to Educational Technology and Skills</h1>
                                 <br />
                                 <h2 class="h2-responsive"> 1.1 Introduction</h2>
-                                <div>
-                                    <p class="text-justify meme ml-5">
+                                <div class="ml-5 text-justify">
+                                    <p class="text-justify meme">
 
                                         This unit introduces you to the
                                         concept of Educational

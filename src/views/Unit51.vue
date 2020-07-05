@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 5</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">5.1 Introduction</a>
+                            <a class="nav-link" href="#item-1">5.1 Introduction</a>
                             <nav class="nav nav-pills flex-column">
                                 <a class="nav-link ml-3 my-1 " href="#item-1-1"> Unit Outcomes</a>
                                 <a class="nav-link ml-3 my-1" href="#item-1-2"> Terminology</a>
@@ -25,7 +25,7 @@
                                 <h1 class="h1-responsive">Integrating Instructional Media into the Instructional Process</h1>
                                 <br />
                                 <h2 id="item-1" class="h2-responsive">5.1 Introduction</h2>
-                                <div>
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         In this unit, we discuss how to integrate instructional media into the
                                         instructional process. In particular, we focus on the integration of
@@ -65,24 +65,24 @@
                                             <kk>Media integration</kk>:
                                             Refers to the combining of different types of media during instruction
                                             and incorporating them into the lesson plan and making them part of the
-                                            total instructional process<br/>
+                                            total instructional process<br/><br/>
                                         
                                        
                                             <kk>Media</kk>:
                                             Things used to assist the teacher in communicating
                                             instruction/s to the learners. It includes print,
-                                            video, audio, and real materials.<br/>
+                                            video, audio, and real materials.<br/><br/>
                                         
                                         
-                                            <kk>Drill and Practice</kk><br />
+                                            <kk>Drill and Practice</kk>:
                                             Classroom method for helping individual learners' master
-                                            basic skills or knowledge through repetitive work.<br/>
+                                            basic skills or knowledge through repetitive work.<br/><br/>
 
                                         
                                         
                                             <kk>Simulation</kk>:
                                             A representation of a real or sometimes imaginary situation or phenomenon.
-                                            The representation is usually simplified to make learning easier. <br/>
+                                            The representation is usually simplified to make learning easier.<br/><br/>
                                        
                                         
                                             <kk>Internet uses</kk>:

@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 1</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">1.3 Meaning and Scope of ICTs</a>
+                            <a class="nav-link" href="#item-1">1.3 Meaning and Scope of ICTs</a>
                             <nav class="nav nav-pills flex-column">
                                 <a class="nav-link ml-3 my-1" href="#item-1-1">1.3.1 Types of ICTs</a>
                                 <a class="nav-link ml-3 my-1" href="#item-1-2">1.3.2 ICTs as media of communication</a>
@@ -28,7 +28,7 @@
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-left">
                                 <h2 id="item-1" class="h2-responsive">1.3 Meaning and Scope of ICTs</h2>
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         ICTs can be described as a combination of hardware, software and
                                         the means of production that enable the exchange, processing and
@@ -47,7 +47,7 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-1" class="h3-responsive">1.3.1 Types of ICTs</h3>
-                                <div >
+                                <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         ICTs include other communication
                                         devices that facilitate
@@ -101,7 +101,7 @@
                                     </p>
                                 </div>
                                 <h3 id="item-1-2" class="h3-responsive">1.3.2 ICTs as media of communication</h3>
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class=" text-justify meme">
                                         ICTs are a media of communication. We have seen how information is disseminated
                                         through a number of media. One such method is <strong>broadcasting</strong>.
@@ -122,7 +122,7 @@
                                 <br />
                                 <h3 id="item-1-3" class="h3-responsive">1.3.3 Information Technology (IT) equipment</h3>
 
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class=" text-justify meme">
                                         Information technology is another element of ICTs.
                                         For our purposes in this course, we look at equipment or
@@ -142,7 +142,7 @@
                                 <br />
                                 <h3 id="item-1-4" class="h3-responsive">1.3.4 Telecommunications</h3>
 
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class=" text-justify meme">
                                         Telecommunications are an integral part of ICTs. Through telecommunications,
                                         equipment, hardware, and gadgets are able to send, store, retrieve and
@@ -206,7 +206,7 @@
                                 <br />
                                 <h3 id="item-1-5" class="h3-responsive">1.3.5 Limitations of ICTs</h3>
 
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class=" text-justify meme">
                                         In developing countries there are various social problems which
                                         create barriers to people (schools included) owning and using
@@ -234,12 +234,13 @@
                                         improvise where possible so that learners can benefit from the cast technologies
                                         which are in place. In the next section, we will look at social media which is linked to ICTs
                                     </p>
-                                </div>
+                                
                                 <div class="note note-primary">
                                     <blockquote class="blockquote bq-primary">
                                        <h4 id="item-1-5-1"> <i class="fas fa-tools"> Activity 1.2</i></h4>
                                         Discuss how you can use ICT's in the classroom.
                                     </blockquote>
+                                </div>
                                 </div>
                             </mdb-row>
                         </mdb-container>

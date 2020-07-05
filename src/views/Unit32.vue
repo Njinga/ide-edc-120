@@ -5,7 +5,7 @@
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                     <a class="navbar-brand" href="#">Unit 3</a>
                     <nav class="nav nav-pills flex-column">
-                        <a class="nav-link active" href="#item-1">3.2 Application of the Systems Approach to Media Selection and Use</a>
+                        <a class="nav-link" href="#item-1">3.2 Application of the Systems Approach to Media Selection and Use</a>
                         <nav class="nav nav-pills flex-column">
                             <a class="nav-link ml-3 my-1" href="#item-1-1">
                                 3.2.1 Application of the systems
@@ -21,7 +21,8 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h4 id="item-1">3.2 Application of the Systems Approach to Media Selection and Use</h4>
+                    <h2 id="item-1" class="h2-responsive text-left">3.2 Application of the Systems Approach to Media Selection and Use</h2>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         The concept of a <i>'system'</i> refers to a dynamic and complex whole that
                         interacts as a structured functional unit.  A system can also be defined as
@@ -39,8 +40,10 @@
                             total of all its parts put together.
                         </i>
                     </p>
-
-                    <h5 id="item-1-1">3.2.1 Application of the systems approach to teaching and learning</h5>
+                    </div>
+                    <br/>
+                    <h3 id="item-1-1" class="h3-responsive text-left">3.2.1 Application of the systems approach to teaching and learning</h3>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         The systems approach is used to tackle a wide variety of
                         subjects in fields such as education, management, information
@@ -305,7 +308,7 @@
                         of common media that should be considered in the selection
                         process (Newby, Stepich, Lehman, & Russell, 2000).
                     </p>
-
+                    </div>
                 </div>
             </div>
         </div>

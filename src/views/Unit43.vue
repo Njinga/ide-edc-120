@@ -5,7 +5,7 @@
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                     <a class="navbar-brand" href="#">Unit 4</a>
                     <nav class="nav nav-pills flex-column">
-                        <a class="nav-link active" href="#item-1">4.3 How to Design, Plan and Produce Different Types of Instructional Materials</a>
+                        <a class="nav-link" href="#item-1">4.3 How to Design, Plan and Produce Different Types of Instructional Materials</a>
                         <nav class="nav nav-pills flex-column">
                             <a class="nav-link ml-3 my-1" href="#item-1-1">4.3.1 Process of visual design </a>
                             <a class="nav-link ml-3 my-1" href="#item-1-2">4.3.2 Visual planning tools</a>
@@ -38,8 +38,8 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h2 id="item-1" class="h2-responsive">4.3	How to Design, Plan and Produce Different Types of Instructional Materials</h2>
-                    <p class="text-justify meme">
+                    <h2 id="item-1" class="h2-responsive text-left">4.3	How to Design, Plan and Produce Different Types of Instructional Materials</h2>
+                    <p class="text-justify meme ml-5">
                         Now that we know the process for designing your
                         own instructional media, let us now discus how you
                         can design, plan and produce different types of
@@ -51,7 +51,8 @@
                         start with the visuals.
                     </p>
 
-                    <h3 id="item-1-1" class="h3-responsive">4.3.1 Process of visual design </h3>
+                    <h3 id="item-1-1" class="h3-responsive text-left">4.3.1 Process of visual design </h3>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Designing a visual display begins with gathering or producing the individual pictorial
                         and text elements that will be used in the display.   At this stage, it is assumed that
@@ -211,9 +212,10 @@
                         transparencies or PowerPoint slides, you should be consistent in
                         the arrangement of elements.
                     </p>
+                    </div>
                     <br />
-                    <h3 id="item-1-2" class="h3-responsive">4.3.2 Visual planning tools</h3>
-
+                    <h3 id="item-1-2" class="h3-responsive text-left">4.3.2 Visual planning tools</h3>
+                    <div class="ml-5 text-center">
                     <p class="text-justify meme">
                         When you plan and design your visuals you could use visual planning tools
                         such as <kk><i>story boarding and lettering stencils and guides.</i></kk>  Storyboarding is
@@ -234,8 +236,10 @@
                         stores. Desktop publishing systems also frequently use lettering in various styles and sizes.
 
                     </p>
+                    </div>
                     <br />
-                    <h3 id="item-1-3" class="h3-responsive">4.3.3 Examples of visuals that you could design</h3>
+                    <h3 id="item-1-3" class="h3-responsive text-left">4.3.3 Examples of visuals that you could design</h3>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         <kk>Graphic materials</kk><br />
                         Graphics is an art form where ideas are expressed in diagrams, pictures, graphs,
@@ -267,8 +271,11 @@
                             </p>
                         </blockquote>
                     </div>
+                    </div>
                     <br />
-                    <h3 id="item-1-4" class="h3-responsive">4.3.4 Designing text </h3>
+                    
+                    <h3 id="item-1-4" class="h3-responsive text-left">4.3.4 Designing text </h3>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         The process for designing text is similar to that of designing visuals. Once
                         you have created your message, you will need to assemble the elements. Remember
@@ -317,8 +324,10 @@
                             </p>
                         </blockquote>
                     </div>
+                    </div>
                     <br />
-                    <h3 id="item-1-5" class="h3-responsive">4.3.5 Chalkboard </h3>
+                    <h3 id="item-1-5" class="h3-responsive text-left">4.3.5 Chalkboard </h3>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         The chalkboard is probably the most widely used media display in the classroom since
                         even the most disadvantaged schools at least has a chalkboard. It is also the easiest
@@ -435,8 +444,10 @@
                             </p>
                         </blockquote>
                     </div>
+                    </div>
                     <br />
-                    <h3 id="item-1-6" class="h3-responsive">4.3.6 Whiteboard</h3>
+                    <h3 id="item-1-6" class="h3-responsive text-left">4.3.6 Whiteboard</h3>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         The Whiteboard is a new generation form of the chalkboard. It is called whiteboard
                         as it is normally white. One of the reasons being that not only can one write on
@@ -462,8 +473,10 @@
                         ink works by using an active digitizer that controls the PC input
                         information for writing capabilities such as drawing or handwriting.
                     </p>
+                    </div>
                     <br />
-                    <h3 id="item-1-7" class="h3-responsive">4.3.7 Designing overhead transparencies</h3>
+                    <h3 id="item-1-7" class="h3-responsive text-left">4.3.7 Designing overhead transparencies</h3>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         <kk>
                             Procedure<br />
@@ -511,8 +524,10 @@
                             </li>
                         </ul>
                     </p>
-
-                    <h3 id="item-1-8" class="h3-responsive">4.3.8 Design of Power Point presentations</h3>
+                    </div>
+                    <br/>
+                    <h3 id="item-1-8" class="h3-responsive text-left">4.3.8 Design of Power Point presentations</h3>
+                    <div class="text-justify ml-5">
                     <p class="text-justify meme">
                         It is important to know how you can design Power Point
                         presentations nowadays since the world has become digitalized.
@@ -577,8 +592,10 @@
                         Create handouts that are distributed after the presentation.
                         Your handouts are the repository for detailed information.
                     </p>
+                    </div>
                     <br />
-                    <h3 id="item-1-9" class="h3-responsive">4.3.9 Designing audio media </h3>
+                    <h3 id="item-1-9" class="h3-responsive text-left">4.3.9 Designing audio media </h3>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Audio media materials can easily be designed and produced by both the teacher and
                         students since all that you need is an audio tape recorder and blank audiotape. Audio media
@@ -659,8 +676,10 @@
 
                         </ul>
                     </p>
+                    </div>
                     <br />
-                    <h3 id="item-1-10" class="h3-responsive">4.3.10 Designing a PODCAST</h3>
+                    <h3 id="item-1-10" class="h3-responsive text-left">4.3.10 Designing a PODCAST</h3>
+                    <div class="ml-5 text-left">
                     <p class="text-justify meme">
                         A podcast is an audio blog post created by recording your voice
                         or other sound, uploading the recording to the Internet, and
@@ -768,6 +787,7 @@
                                 </ul>
                             </p>
                         </blockquote>
+                    </div>
                     </div>
                 </div>
             </div>

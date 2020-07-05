@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 1</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">1.6 The Changing Role of the Teacher in Classroom Communication</a>
+                            <a class="nav-link" href="#item-1">1.6 The Changing Role of the Teacher in Classroom Communication</a>
                             <nav class="nav nav-pills flex-column">
                                 <a class="nav-link ml-3 my-1" href="#item-1-1">Activity 1.4</a>
                             </nav>
@@ -22,7 +22,7 @@
                                 
                                 <h2 id="item-1" class="h2-responsive"> 1.6 The Changing Role of the Teacher in Classroom Communication</h2>
                                 <br />
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class=" text-justify meme">
                                         The role of the teacher has changed since the 20<sup>th</sup> Century as the purpose of
                                         education has expanded rapidly. Goals of education have expanded and exceeded the focus
@@ -98,7 +98,7 @@
                                         Web sites and Electronic Conferences available for students to use.
                                     </p>
 
-                                </div>
+                                
                                 <div class="note note-primary">
                                     <blockquote class="blockquote bq-primary">
                                         <h4 id="item-1-1"><i class="fas fa-tools"> Activity 1.4</i></h4>
@@ -113,6 +113,7 @@
                                         communicated with students in class. Explain the demands placed on teachers as they facilitate
                                         students to learn using the emerging technologies.
                                     </p>
+                                </div>
                                 </div>
                             </mdb-row>
                         </mdb-container>

@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 6</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">6.3 How to Handle, Operate, Maintain and Store Media Equipment and Materials</a>
+                            <a class="nav-link" href="#item-1">6.3 How to Handle, Operate, Maintain and Store Media Equipment and Materials</a>
                             <nav class="nav nav-pills flex-column">
                                 <a class="nav-link ml-3 my-1" href="#item-1-1">6.3.1 The Overhead Projector</a>
                                 <nav class="nav nav-pills flex-column">
@@ -35,7 +35,7 @@
 
                             <mdb-row class="bg-primary text-justify">
                                 <h2 id="item-1" class="h2-responsive">6.3 How to Handle, Operate, Maintain and Store Media Equipment and Materials</h2>
-                                <div>
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         Since we are likely to use a number of equipment in our work situations,
                                         we need to know how to handle and operate them and be able to detect the
@@ -45,7 +45,7 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-1" class="h3-responsive">6.3.1 The Overhead Projector</h3>
-                                <div>
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         The overhead projector (For more information see section 2.3.5 - Projected Media)
                                         is an equipment with a few components that require special maintenance procedures.
@@ -191,7 +191,7 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-2" class="h3-responsive">6.3.2 Audio equipment</h3>
-                                <div >
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         Audio equipment and gadgets have evolved from reel to reel tapes, to cassettes, to CD's, to audio files
                                         and now  to podcasts. The equipment to play the audio materials include cassette players
@@ -231,7 +231,7 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-3" class="h3-responsive">6.3.3 Video equipment</h3>
-                                <div>
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         Video equipment has also evolved from the Film Projector, Video Tape Recorders (VTR),
                                         Video Cassette Recorders (VCR), Video Disks, and DVD players. Currently video
@@ -278,7 +278,7 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-4" class="h3-responsive">6.3.4 Computer equipment</h3>
-                                <div>
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         Computers too are not an exception when it comes to care and maintenance.
                                         They must be kept in a place free from dust, moisture and too much heat.
@@ -309,7 +309,7 @@
                                     </p>
                                     <br />
                                     <h4 id="item-1-4-1" class="h4-responsive">6.3.4.1 Maintenance of computer equipment </h4>
-                                    <div>
+                                    <div class="ml-5">
 
                                         <p class="text-justify meme">
                                             Computers and related technologies are subjected to the common problems of

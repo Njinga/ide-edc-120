@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 6</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">6.2 The Concepts of Maintenance, Care and Storage of Instructional Media Equipment and Materials</a>
+                            <a class="nav-link" href="#item-1">6.2 The Concepts of Maintenance, Care and Storage of Instructional Media Equipment and Materials</a>
                         </nav>
                     </nav>
                 </div>
@@ -16,9 +16,9 @@
                          data-offset="0">
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-justify">
-                                <br />
-                                <h2 class="h2-responsive">6.2 The Concepts of Maintenance, Care and Storage of Instructional Media Equipment and Materials</h2>
-                                <div>
+                                
+                                <h2 id="item-1" class="h2-responsive">6.2 The Concepts of Maintenance, Care and Storage of Instructional Media Equipment and Materials</h2>
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         Most users of technology are not and do not expect to become electronic wizards or
                                         specialists but they want to be able to use the hard-ware safely and effectively.

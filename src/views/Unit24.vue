@@ -6,7 +6,7 @@
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                     <a class="navbar-brand" href="#">Unit 2</a>
                     <nav class="nav nav-pills flex-column">
-                        <a class="nav-link active" href="#item-1">2.4 Trends in Media Technologies</a>
+                        <a class="nav-link" href="#item-1">2.4 Trends in Media Technologies</a>
                         <nav class="nav nav-pills flex-column">
                             <a class="nav-link ml-3 my-1" href="#item-1-1">2.4.1 Wireless technology: What is it? </a>
                         </nav>
@@ -17,10 +17,9 @@
             <div class="col-sm-8 col-lg-9 border border-light">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <br />
-                    <br />
-                    <h2 id="item-1" class="h2-responsive">2.4  Trends in Media Technologies</h2>
-
+              
+                    <h2 id="item-1" class="h2-responsive text-left">2.4  Trends in Media Technologies</h2>
+                    <div class="ml-5 text-justify">
                     <p class=" text-justify meme">
                         Technology is very crucial and essential in teaching
                         and learning. New technologies may refer to advanced
@@ -157,11 +156,12 @@
                         wireless technology .
                     </p>
 
-
+                    </div>
 
                     <!-- This is chapter 2.3-->
 
-                    <h3 id="item-1-1" class="h3-responsive">2.4.1 Wireless technology: What is it? </h3>
+                    <h3 id="item-1-1" class="h3-responsive text-left">2.4.1 Wireless technology: What is it? </h3>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Wireless data is advancing at a good speed as more companies
                         introduce more features for consumers and business users alike.
@@ -207,6 +207,7 @@
                         had a good experience on what was presented. Below is a
                         summary of the unit.
                     </p>
+                    </div>
                 </div>
             </div>
         </div>

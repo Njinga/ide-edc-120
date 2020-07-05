@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 5</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">5.2 What is media Integration?</a>
+                            <a class="nav-link" href="#item-1">5.2 What is media Integration?</a>
                         </nav>
                     </nav>
                 </div>
@@ -16,8 +16,8 @@
                          data-offset="0">
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-justify">
-                                <br />
-                                <h2 class="h2-responsive">5.2 What is media Integration?</h2>
+                                
+                                <h2 id="item-1" class="h2-responsive">5.2 What is media Integration?</h2>
                                 <div>
                                     <p class="text-justify meme">
                                         Media integration refers to the combining of different types

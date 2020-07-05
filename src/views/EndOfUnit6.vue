@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 6</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">Unit summary</a>
+                            <a class="nav-link" href="#item-1">Unit summary</a>
                             <a class="nav-link" href="#item-2">Assessment</a>
                             <a class="nav-link" href="#item-3">References</a>
 
@@ -96,8 +96,4 @@
         </div>
     </div>
 </template>
-<style>
-    kk {
-        font-weight:bold;
-    }
-</style>
+

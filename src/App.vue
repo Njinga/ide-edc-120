@@ -1,7 +1,7 @@
 <template>
     
-        <div id="app" class=" mt-10 border border-info">
-
+        <div id="app" class=" mt-10 border border-info ">
+            
             <!----<div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
@@ -9,12 +9,19 @@
             
                 <Navbar></Navbar>
                 <router-view />
-
-            
+            <ScrollTopArrow></ScrollTopArrow>
             <Footer></Footer>
         </div>
 </template>
 
+<script>
+    import ScrollTopArrow from '@/components/ScrollTopArrow'
+    export default {
+        components: {
+            ScrollTopArrow
+        }
+    }
+</script>
 <style scoped>
 
     @import url('https://fonts.googleapis.com/css?family=roboto:300,400,500,700&display=swap');
@@ -92,6 +99,13 @@
             background-color: #fefefe;
             border-color: #0f0f0f;
         }
+
+    #app {
+        font-family: 'Roboto', Helvetica, Arial, sans-serif;
+        margin-top: 50px;
+        text-align: center;
+        color: #2c3e50;
+    }
 
 </style>
 

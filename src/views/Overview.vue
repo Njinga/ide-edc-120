@@ -4,9 +4,9 @@
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
-                        <a class="navbar-brand" href="#">Unit 3</a>
+                        <a class="navbar-brand" href="#">Overview</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">Welcome to Educational Technology and Skills - IDE-EDC 12</a>
+                            <a class="nav-link" href="#item-1">Welcome to Educational Technology and Skills - IDE-EDC 12</a>
                             <a class="nav-link" href="#item-2">Educational Technology and Skills - IDE-EDC 120: is this course for you?</a>
                             <a class="nav-link" href="#item-3">Module Structure</a>
                             <a class="nav-link" href="#item-4">Course Outcomes</a>
@@ -26,6 +26,7 @@
                             <mdb-row class="bg-primary text-left">
 
                                 <h1 class="h1-responsive">Course Overview</h1>
+                                <br/>
                                 <div>
                                     <h4 id="item-1" class="h4-responsive">Welcome to Educational Technology and Skills - IDE-EDC 12</h4>
                                     <div>
@@ -63,7 +64,7 @@
                                 </div>
                                 <br />
                                 <div>
-                                    <h4 item-3 class="h4-responsive">Module Structure</h4>
+                                    <h4 id="item-3" class="h4-responsive">Module Structure</h4>
                                     <div>
 
                                         <p class="text-justify meme ml-5">
@@ -310,120 +311,10 @@
     */
 </script>
 
-    <style scoped>
+<style>
 
-    /*    section.preview {
-            border: 1px solid #4285f4;
-            padding: 15px;
-            overflow: auto;
-        }
-
-        h3 {
-            margin: 40px 0 0;
-        }
-
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        li {
-            display: inline-block;
-            margin: 0 10px;
-        }
-
-        a {
-            color: #42b983;
-        }
-
-        .note {
-            padding: 10px;
-            border-left: 6px solid;
-            -webkit-border-radius: 5px;
-            border-radius: 5px;
-        }
-
-            .note strong {
-                font-weight: 600;
-            }
-
-            .note p {
-                font-weight: 500;
-            }
-
-            .note.note-primary {
-                background-color: #dfeefd;
-                border-color: #176ac4;
-            }
-
-            .note.note-secondary {
-                background-color: #e2e3e5;
-                border-color: #58595a;
-            }
-
-            .note.note-success {
-                background-color: #e2f0e5;
-                border-color: #49a75f;
-            }
-
-            .note.note-danger {
-                background-color: #fae7e8;
-                border-color: #e45460;
-            }
-
-            .note.note-warning {
-                background-color: #faf4e0;
-                border-color: #c2a442;
-            }
-
-            .note.note-info {
-                background-color: #e4f2f5;
-                border-color: #2492a5;
-            }
-
-            .note.note-light {
-                background-color: #fefefe;
-                border-color: #0f0f0f;
-            }
-
-        .img-fluid {
-            max-width: 100%;
-            height: auto;
-        }
-
-        .fa, fas {
-            font-weight:900;
-        }
-
-        .fa, .far, .fas {
-            font-family: "font Awesome 5 Free";
-        }
-
-        .fa, .fab, .fad, .fal .far, .fas {
-        -webkit-font-smoothing: antialised;
-        display: inline-block;
-        font-style: normal;
-        text-rendering:auto;
-        line-height:1;
-        font-variant:normal;
-        }
-
-        ::after, ::before {
-            box-sizing: border-box;
-        }
-
-        .blockquote {
-            margin-bottom: 1rem;
-            font-size: 1.25rem;
-        }
-
-        
-        *, ::after, ::before {
-            box-sizing: border-box;
-        }
-
-        
-         *,::after, ::before {
-            box-sizing: border-box;
-        }*/
-    </style>
+    h1, h2, h3, h4, h5, h6 {
+        font-weight:bold;
+    }
+  
+</style>

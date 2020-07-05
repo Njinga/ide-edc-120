@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 2</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">2.1 Introduction</a>
+                            <a class="nav-link" href="#item-1">2.1 Introduction</a>
                             <nav class="nav nav-pills flex-column">
                                 <a class="nav-link ml-3 my-1" href="#item-1-1"> Unit Outcomes</a>
                                 <a class="nav-link ml-3 my-1" href="#item-1-2"> Terminology</a>
@@ -20,12 +20,12 @@
                          data-offset="0">
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-justify">
-                                <br />
+                               
                                 <h1 class="h1-responsive">Unit 2</h1>
                                 <h1 class="h1-responsive">Media Technologies Used for Teaching and Learning</h1>
                                 <br />
                                 <h2 id="item-1" class="h2-responsive">2.1 Introduction</h2>
-                                <div >
+                                <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         In this unit, we will discuss the different media available
                                         for teaching and learning.   This unit will explore both the
@@ -62,39 +62,35 @@
                                     <div class=" note note-success">
                                     <blockquote class="blockquote bq-success">
                                         <h4 id="item-1-2"><i class="fas fa-check-square"> Terminolgy</i></h4>
-                                        <br /><br />
+                                        
 
-                                        <p class="text-justify">
-                                            <kk> Instructional Media</kk><br />Anything that carries information between
-                                            a source and a receiver. For example; diagrams, printed materials,
-                                            computers, PowerPoint slides, and instructors.
-                                        </p>
-                                        <p class="text-justify">
-                                            <kk>Hypermedia</kk><br />
-                                            Refers to a computer software that uses elements of text,
-                                            graphics, video, and audio and is connected in such a way
-                                            that the user can easily move within the information.
-                                        </p>
-                                        <p class="text-justify">
-                                            <kk>Dale's Cone of Experience</kk><br />
-                                            A model used to provide an intuitive model of the correctness
-                                            of various kinds of audio-visual media. It informs viewers of how much people remember
-                                            based on how they encounter information.
-                                        </p>
-                                        <p class="text-justify">
-                                            <kk>Non-Projected Media</kk><br />
-                                            Non-projected media refers to the range of
-                                            media resources that do not require any equipment
-                                            (hardware) to project them onto a screen for viewing.
+                                              <p class="text-justify">
+                                                  <kk> Instructional Media</kk>:Anything that carries information between
+                                                  a source and a receiver. For example; diagrams, printed materials,
+                                                  computers, PowerPoint slides, and instructors.<br /><br />
 
-                                        </p>
-                                        <p class="text-justify">
-                                            <kk>Projected Media</kk><br />	Projected media refers to media
-                                            formats in which still images, text and graphics are
-                                            enlarged through an OHP and displayed on a screen for
-                                            viewing; motion and other media can be displayed via a
-                                            computer projector.
-                                        </p>
+                                                  <kk>Hypermedia</kk>:
+                                                  Refers to a computer software that uses elements of text,
+                                                  graphics, video, and audio and is connected in such a way
+                                                  that the user can easily move within the information.<br /><br />
+
+                                                  <kk>Dale's Cone of Experience</kk>:
+                                                  A model used to provide an intuitive model of the correctness
+                                                  of various kinds of audio-visual media. It informs viewers of how much people remember
+                                                  based on how they encounter information.<br /><br />
+
+                                                  <kk>Non-Projected Media</kk>:
+                                                  Non-projected media refers to the range of
+                                                  media resources that do not require any equipment
+                                                  (hardware) to project them onto a screen for viewing.<br /><br />
+
+
+                                                  <kk>Projected Media</kk>:Projected media refers to media
+                                                  formats in which still images, text and graphics are
+                                                  enlarged through an OHP and displayed on a screen for
+                                                  viewing; motion and other media can be displayed via a
+                                                  computer projector.
+                                              </p>
 
 
                                     </blockquote>

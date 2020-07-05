@@ -5,7 +5,7 @@
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                     <a class="navbar-brand" href="#">Unit 4</a>
                     <nav class="nav nav-pills flex-column">
-                        <a class="nav-link active" href="#item-1">4.4 Utilizing Materials during Instruction</a>
+                        <a class="nav-link" href="#item-1">4.4 Utilizing Materials during Instruction</a>
                         <nav class="nav nav-pills flex-column">
                             <a class="nav-link ml-3 my-1" href="#item-1-1">4.4.1 Printed materials</a>
                             <a class="nav-link ml-3 my-1" href="#item-1-2">4.4.2 Advantages and disadvantages of using different types of printed materials </a>
@@ -21,7 +21,8 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h2 id="item-1" class="h2-responsive">4.4 Utilizing Materials during Instruction</h2>
+                    <h2 id="item-1" class="h2-responsive text-left">4.4 Utilizing Materials during Instruction</h2>
+                    <div class="ml-5">
                     <p class="text-justify meme">
                         In this section you are introduced to the different
                         ways of utilising materials during instruction. One
@@ -32,8 +33,10 @@
                         will discuss how we can make use of printed materials
                         in the next section.
                     </p>
+                    </div>
                     <br />
-                    <h3 id="item-1-1" class="h3-responsive">4.4.1 Printed materials</h3>
+                    <h3 id="item-1-1" class="h3-responsive text-left">4.4.1 Printed materials</h3>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         In this section we are going to discuss how we can utilize printed materials
                         effectively during instruction. As we mentioned in Unit 2, printed materials
@@ -146,9 +149,10 @@
                             </li>
                         </ul>
                     </p>
+                    </div>
                     <br />
-                    <h3 id="item-1-2" class="h3-responsive">4.4.2 Advantages and disadvantages of using different types of printed materials </h3>
-
+                    <h3 id="item-1-2" class="h3-responsive text-left">4.4.2 Advantages and disadvantages of using different types of printed materials </h3>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         There are both advantages and disadvantages associated with the use of
                         printed materials during instruction.<br /><br />
@@ -259,8 +263,10 @@
                             </li>
                         </ul>
                     </p>
+                    </div>
                     <br />
-                    <h3 id="item-1-3" class="h3-responsive">4.4.3 Application of printed materials </h3>
+                    <h3 id="item-1-3" class="h3-responsive text-left">4.4.3 Application of printed materials </h3>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         The most common application of printed materials is the presentation of content information
                         (Heinich et al. 1996:108).  Students are given reading assignments and held accountable for
@@ -329,6 +335,7 @@
                                 types of learning outcomes.
                             </p>
                         </blockquote>
+                    </div>
                     </div>
                 </div>
             </div>

@@ -7,7 +7,7 @@
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                     <a class="navbar-brand" href="#">Unit 4</a>
                     <nav class="nav nav-pills flex-column">
-                        <a class="nav-link active" href="#item-1">Unit summary</a>
+                        <a class="nav-link" href="#item-1">Unit summary</a>
                         <a class="nav-link" href="#item-2">References</a>
 
                     </nav>
@@ -17,8 +17,8 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h1 class="h1-responsive">  Unit Summary and References</h1>
-                    <div class="note note-success meme">
+                    <h1 class="h1-responsive text-justify">  Unit Summary and References</h1>
+                    <div class="note note-success meme text-justify">
                         <blockquote class="blockquote bq-success">
                             <h3 id="item-1"><i class="fas fa-folder-open">Unit summary</i></h3>
 
@@ -45,7 +45,7 @@
                     <hr>
 
                     <br />
-                    <div class="note note-secondary meme">
+                    <div class="note note-secondary meme text-justify">
                         <blockquote class="blockquote bq-secondary">
                             <h3 id="item-2"><i class="fas fa-">References</i></h3>
                             <p class="text-justify meme">

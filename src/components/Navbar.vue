@@ -109,8 +109,4 @@
     }
 </script>
 <style >
-    .v {
-        margin-bottom:57px;
-        padding-bottom:57px;
-    }
 </style>

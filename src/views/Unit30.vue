@@ -5,7 +5,7 @@
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                     <a class="navbar-brand" href="#">Unit 3</a>
                     <nav class="nav nav-pills flex-column">
-                        <a class="nav-link active" href="#item-1">3.0 Introduction </a>
+                        <a class="nav-link" href="#item-1">3.0 Introduction </a>
                         <nav class="nav nav-pills flex-column">
                             <a class="nav-link ml-3 my-1" href="#item-1-1">Outcomes</a>
                             <a class="nav-link ml-3 my-1" href="#item-1-2">Terminology</a>
@@ -18,9 +18,11 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h1 class="h1-responsive">Unit 3</h1>
-                    <h1 class="h1-responsive">Selection of Media for Teaching and Learning</h1>
-                    <h2 id="item-1">3.0 Introduction </h2>
+                    <h1 class="h1-responsive text-left">Unit 3</h1>
+                    <h1 class="h1-responsive text-left">Selection of Media for Teaching and Learning</h1>
+                    <br/>
+                    <h2 id="item-1" class="h2-responsive text-left">3.0 Introduction </h2>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         So far we have discussed the range of media available to us as
                         teachers that we could use during instruction.  However, it is
@@ -86,8 +88,8 @@
                     </div>
 
                     <br />
-                    <div class="note note-info">
-                        <blockquote class="blockquote bq-info">
+                    <div class="note note-success">
+                        <blockquote class="blockquote bq-success">
                             <h5 id="item-1-2"><i class="fas fa-check-square"> Terminology</i></h5>
                             <p class="text-justify">
                                 <kk>Selection of Media:</kk>	The process of identifying and selecting the appropriate media to be used in achieving the learning objectives.<br />
@@ -98,11 +100,12 @@
                             </p>
                         </blockquote>
                     </div>
-
+                    </div>
                 </div>
             </div>
         </div>
-     </div>
+
+    </div>
 </template>
 
 <style>

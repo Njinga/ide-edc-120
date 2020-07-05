@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 5</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">5.4 How to Integrate Media into the Instructional Process</a>
+                            <a class="nav-link" href="#item-1">5.4 How to Integrate Media into the Instructional Process</a>
                             <nav class="nav nav-pills flex-column">
                                 <a class="nav-link ml-3 my-1" href="#item-1-1">5.4.1 The computer as a teacher</a>
                                 <nav class="nav nav-pills flex-column">
@@ -28,7 +28,7 @@
                             <mdb-row class="bg-primary text-justify">
                             
                                 <h2 id="item-1" class="h2-responsive">5.4 How to Integrate Media into the Instructional Process</h2>
-                                <div>
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         As we have indicated above, media should not be seen as an appendage but an integral
                                         part of your lesson. You need to conceive the media that you intend to use as part of
@@ -80,7 +80,7 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-1" class="h3-responsive">5.4.1 The computer as a teacher</h3>
-                                <div>
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         The oldest use of the computer in education dating back
                                         to early 1960s was as a tool that presents instruction directly
@@ -302,7 +302,7 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-2" class="h3-responsive">5.4.2 Computer as learner (Student as teacher)</h3>
-                                <div>
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         When the computer functions as a learner, the roles of computer and
                                         student that are seen in traditional computer-assisted instruction are reversed.
@@ -314,7 +314,7 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-3" class="h3-responsive">5.4.3 Using the Internet to support learning</h3>
-                                <div>
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         Another way of integrating the computer is by using the Internet to
                                         support learning. The Internet brings information resources including text, pictures,
@@ -362,7 +362,7 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-4" class="h3-responsive">5.4.4 Uses of the Internet</h3>
-                                <div >
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         You and your students can use the Internet in a variety of ways.
                                         The main uses of the Internet include; <kk>

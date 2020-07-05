@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 5</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">5.3 Why Integrate Media into Instruction?</a>
+                            <a class="nav-link" href="#item-1">5.3 Why Integrate Media into Instruction?</a>
                         </nav>
                     </nav>
                 </div>
@@ -17,8 +17,8 @@
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-justify">
 
-                                <h2 class="h2-responsive">5.3 Why Integrate Media into Instruction?</h2>
-                                <div>
+                                <h2 id="item-1" class="h2-responsive">5.3 Why Integrate Media into Instruction?</h2>
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         The fact that teachers bring instructional media into the
                                         classroom does not suggest that students learn from the media.
@@ -193,5 +193,9 @@
                 </div>
             </div>
         </div>
+        
     </div>
 </template>
+<script>
+
+</script>

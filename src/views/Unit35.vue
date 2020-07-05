@@ -3,9 +3,9 @@
         <div class="row">
             <div class="col-sm-4 col-lg-3">
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
-                    <a class="navbar-brand" href="#">unit 3</a>
+                    <a class="navbar-brand" href="#">Unit 3</a>
                     <nav class="nav nav-pills flex-column">
-                        <a class="nav-link active" href="#item-1">3.5 Locating Relevant Instructional Materials</a>
+                        <a class="nav-link" href="#item-1">3.5 Locating Relevant Instructional Materials</a>
 
                     </nav>
                 </nav>
@@ -14,7 +14,8 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h2 id="item-1" class="h2-responsive">3.5 Locating Relevant Instructional Materials </h2>
+                    <h2 id="item-1" class="h2-responsive text-left">3.5 Locating Relevant Instructional Materials </h2>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Thousands of instructional materials are available for use in various learning
                         situations if you can locate them. Gaining access to the materials is not
@@ -64,7 +65,7 @@
                             </li>
                         </ul>
                     </p>
-
+                    </div>
                 </div>
             </div>
         </div>

@@ -5,7 +5,7 @@
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                     <a class="navbar-brand" href="#">Unit 4</a>
                     <nav class="nav nav-pills flex-column">
-                        <a class="nav-link active" href="#item-1">4.2 The Process for designing Instructional Media and Materials</a>
+                        <a class="nav-link" href="#item-1">4.2 The Process for designing Instructional Media and Materials</a>
                         <nav class="nav nav-pills flex-column">
                             <a class="nav-link ml-3 my-1" href="#item-1-1">4.2.1 Process for designing instructional media </a>
 
@@ -18,7 +18,8 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h2 id="item-1" class="h2-responsive">4.2 The Process for designing Instructional Media and Materials</h2>
+                    <h2 id="item-1" class="h2-responsive text-left">4.2 The Process for designing Instructional Media and Materials</h2>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Instructional design is the component of the process that helps you to think
                         strategically about the teaching and learning experience you are targeting.
@@ -59,8 +60,10 @@
                         be guided in your design of the right instructional
                         media to use in order to meet your instructional goal.
                     </div>
+                    </div>
                     <br />
-                    <h3 id="item-1-1" class="h3-responsive">4.2.1 Process for designing instructional media </h3>
+                    <h3 id="item-1-1" class="h3-responsive text-justify">4.2.1 Process for designing instructional media </h3>
+                    <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         <i>Start the process with an idea.</i>  An idea, a problem situation,
                         or a learning need identified within an instructional-design plan for
@@ -196,6 +199,7 @@
                             </li>
                         </ul>
                     </p>
+                    </div>
                 </div>
             </div>
         </div>

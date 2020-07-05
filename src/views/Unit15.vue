@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 1</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">1.5 Educational Technology, Classroom Communication and Learning</a>
+                            <a class="nav-link" href="#item-1">1.5 Educational Technology, Classroom Communication and Learning</a>
                             <nav class="nav nav-pills flex-column">
                                 <a class="nav-link ml-3 my-1" href="#item-1-1">1.5.1 Communication and learning</a>
                                 <a class="nav-link ml-3 my-1" href="#item-1-2">1.5.2 A simple communication model</a>
@@ -26,7 +26,7 @@
                             <mdb-row class="bg-primary text-justify">
                               
                                 <h2 id="item-1" class="h2-responsive">1.5 Educational Technology, Classroom Communication and Learning</h2>
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         To understand how technology fits into instruction, we need first to have a
                                         clear picture of the nature of teaching,
@@ -108,7 +108,7 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-1" class="h3-responsive">1.5.1 Communication and learning</h3>
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         The word 'communication' has its origin from a Latin word, <i>"communis"</i> which means,
                                         <i>"make common"</i>. This could be stretched to mean, 'create a common ground for understanding' or
@@ -264,7 +264,7 @@
                                 </div>
                                 <br />
                                 <h3 id="item-1-2" class="h3-responsive">1.5.2 A simple communication model</h3>
-                                <div>
+                                <div class="ml-5 text-justify">
                                     <p class="text-center">
                                         <img src="../assets/feedback.png" class="img-fluid" alt="Responsive image"><br />
                                     </p>
@@ -304,7 +304,7 @@
                                         is in conflict with the belief.
                                     </p>
 
-                                </div>
+                                
 
                                 <div class="note note-primary">
                                     <blockquote class="blockquote bq-primary">
@@ -323,6 +323,7 @@
                                             the design and use of instructional media.
                                         </i>
                                     </p>
+                                </div>
                                 </div>
                             </mdb-row>
                         </mdb-container>

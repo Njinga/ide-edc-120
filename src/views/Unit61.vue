@@ -6,7 +6,7 @@
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 6</a>
                         <nav class="nav nav-pills flex-column">
-                            <a class="nav-link active" href="#item-1">1.1 Introduction</a>
+                            <a class="nav-link" href="#item-1">1.1 Introduction</a>
                             <nav class="nav nav-pills flex-column">
                                 <a class="nav-link ml-3 my-1" href="#item-1-1"> Unit Outcomes</a>
                                 <a class="nav-link ml-3 my-1" href="#item-1-2"> Terminology</a>
@@ -25,7 +25,7 @@
                                 <h1 class="h1-responsive">Management of Learning Resources</h1>
                                 <br />
                                 <h2 id="item-1" class="h2-responsive">6.1 Introduction</h2>
-                                <div>
+                                <div class="ml-5">
                                     <p class="text-justify meme">
                                         In this unit, we are going to discuss maintenance, care, and
                                         storage of instructional media/technology equipment and materials.
@@ -59,20 +59,19 @@
                                     </blockquote>
                                     </div>
                                     <br/>
-                                    <div class="note note-success">
+                                    <div class="note note-success text-justify">
                                     <blockquote class="blockquote bq-success">
                                         <h4 id="item-1-2"><i class="fas fa-check-square"> Terminolgy</i></h4>
-                                        <p class="text-justify">
+                                        
                                             <kk>Keystone Effect</kk>:
                                             Refers to a distortion of the image on the projection screen.
                                             The effect takes its name from the typical shape of a key-stoned
                                             image which is wide at the top and narrower at the bottom like a
-                                            keystone.
-                                        </p>
-                                        <p class="text-justify">
+                                            keystone.<br/><br/>
+                                        
                                             <kk>Computer Viruses</kk>:
                                             Programmes written and spread specifically to cause damage or corrupt other programmes or information.
-                                        </p>
+                                        
 
 
 
