@@ -116,8 +116,8 @@
                                 </div>
                                 <br />
                                 
-                                    <div class="note note-info text-justify">
-                                        <blockquote class="blockquote bq-info">
+                                    <div class="note note-info text-justify meme">
+                                        
                                             <h4 id="item-4"><i class="fas fa-paper-plane"> Course Outcomes</i></h4>
                                             <p> Upon completion of Educational Technology and Skills - IDE-EDC 120 you will be able to:</p>
                                             <!-- Unordered list-->
@@ -139,11 +139,11 @@
                                             </ul>
 
 
-                                        </blockquote>
+                                       
                                     </div>
                                     <br />
-                                    <div class="note note-primary">
-                                        <blockquote class="blockquote bq-primary">
+                                    <div class="note note-primary meme">
+                                        
                                             <h4 id="item-5"><i class="fas fa-clock"> Timeframe</i></h4>
                                             <p class="text-justify">
 
@@ -162,11 +162,11 @@
 
                                             </p>
 
-                                        </blockquote>
+                                       
                                     </div>
                                     <br/>
-                                    <div class="note note-success">
-                                        <blockquote class="blockquote bq-success">
+                                    <div class="note note-success meme">
+                                        
                                             <h4 id="item-6"><i class="fas fa-flag"> Study skills</i></h4>
                                             <div>
                                                 <p class="text-justify">
@@ -228,11 +228,11 @@
                                                     type "self-study basics", "self-study tips", "self-study skills" or similar.
                                                 </p>
                                             
-                                        </blockquote>
+                                        
                                     </div>
                                 <br/>
-                                    <div class="note note-danger">
-                                        <blockquote class="blockquote bq-danger">
+                                    <div class="note note-danger meme">
+                                        
                                             <h4 id="item-7"><i class="fas fa-bullhorn"> Need help?</i></h4>
                                             <div>
                                                 <p class="text-justify">
@@ -242,11 +242,11 @@
                                                     extension numbers (<a href="tel:+2682517-70181">70181</a>/<a href="tel:+2682517-70428">70428</a>/<a href="tel:+2682517-70154">70154</a>)
                                                 </p>
                                             </div>
-                                        </blockquote>
+                                       
                                     </div>
                                 <br/>
-                                        <div class="note note-warning">
-                                        <blockquote class="blockquote bq-warning">
+                                        <div class="note note-warning meme">
+                                        
                                            <h4 id="item-8"> <i class="fas fa-medal"> Assignments</i></h4>
                                             <div>
                                                 <p class="text-justify">
@@ -270,12 +270,12 @@
                                                     the Laboratory skills.
                                                 </p>
                                             </div>
-                                        </blockquote>
+                                        
                                         </div>
                                     
                                         <br/>
-                                    <div class="note note-secondary">
-                                        <blockquote class="blockquote bq-secondary">
+                                    <div class="note note-secondary meme">
+                                        
                                            <h4 id="item-9"> <i class="fas fa-eye"> Self- Assessments and feedback</i></h4>
                                             <div>
                                                 <p class="text-justify">
@@ -290,7 +290,7 @@
                                                     mastered the content or not.
                                                 </p>
                                             </div>
-                                        </blockquote>
+                                        
                                     </div>
                                 
                             </mdb-row>
@@ -301,15 +301,7 @@
         </div>
     </div>
 </template>
-<script>
-   /* import { mdbIcon } from 'mdbvue';
-    export default {
-        components: {
-            mdbIcon
-        }
-        }
-    */
-</script>
+
 
 <style>
 

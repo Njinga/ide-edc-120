@@ -23,8 +23,8 @@
                                 <h1 class="h1-responsive">  Unit Summary, Assignment and References</h1>
                                 <br />
 
-                                <div class="note note-success">
-                                    <blockquote class="blockquote bq-success">
+                                <div class="note note-success meme">
+                                   
                                        <h4 id="item-1"><i class="fas fa-folder-open"> Unit Summary</i></h4>
                                         <p class="text-justify">
                                             In this unit we focused
@@ -49,23 +49,23 @@
                                             you now need to synthesize the knowledge gained into your own personal view of the teaching and
                                             learning process so that you can determine how educational technology fits into your teaching and learning.
                                         </p>
-                                    </blockquote>
+                                    
                                 </div>
                                 <br />
-                                <div class="note note-warning">
-                                    <blockquote class="blockquote bq-warning">
+                                <div class="note note-warning meme text-justify">
+                                    
                                         <h4 id="item-2"><i class="fas fa-medal"> Assignment</i></h4>
 
                                         <p class="text-justify">
                                             Conduct an Internet Search and report on the uses of Social Media
                                             in the classroom. Your work should be posted on the E-learning website.
                                         </p>
-                                    </blockquote>
+                                    
                                 </div>
                                 <br />
 
                                 <div class="note note-secondary">
-                                    <blockquote class="blockquote bq-secondary">
+                                    
                                        <h4 id="item-3"><i class="fas fa-"> References</i></h4>
 
                                         <p class="text-justify">
@@ -97,7 +97,7 @@
                                         <p class="text-justify">
                                             Wikipedia, the free encyclopedia. Accessed from <a href="http://en.wikipedia.org/wiki/Educational_technology"> http://en.wikipedia.org/wiki/Educational_technology</a> on 22nd August 2008.
                                         </p>
-                                    </blockquote>
+
                                 </div>
                             </mdb-row>
                         </mdb-container>

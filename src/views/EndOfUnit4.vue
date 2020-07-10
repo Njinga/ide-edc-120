@@ -18,8 +18,9 @@
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
                     <h1 class="h1-responsive text-justify">  Unit Summary and References</h1>
+                    <br>
                     <div class="note note-success meme text-justify">
-                        <blockquote class="blockquote bq-success">
+                        
                             <h3 id="item-1"><i class="fas fa-folder-open">Unit summary</i></h3>
 
                             <p class="text-justify meme">
@@ -39,16 +40,16 @@
                                 the criteria that we should use when selecting or evaluating
                                 printed materials for use during instruction.
                             </p>
-                        </blockquote>
+                       
                     </div>
                     <br />
                     <hr>
 
                     <br />
-                    <div class="note note-secondary meme text-justify">
-                        <blockquote class="blockquote bq-secondary">
+                    <div class="note note-secondary text-justify">
+                      
                             <h3 id="item-2"><i class="fas fa-">References</i></h3>
-                            <p class="text-justify meme">
+                            <p class="text-justify">
                                 Anderson, R.H. (1983). <kk>Selecting and Developing Media for Instruction</kk>. 2<sup>nd</sup> Edition.
                                 New York: Van Nostrand Reinhold Company.<br /><br />
 
@@ -128,7 +129,7 @@
                                 6<sup>th</sup> Edition. New York: Harper & Row Publishers
                             </p>
 
-                        </blockquote>
+                        
                     </div>
                 </div>
             </div>

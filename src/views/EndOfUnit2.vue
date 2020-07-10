@@ -17,8 +17,9 @@
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
                     <h1 class="h1-responsive text-justify">Unit Summary, Assignment and References</h1>
+                    <br>
                     <div class="note note-success meme text-justify">
-                        <blockquote class="blockquote bq-success">
+                        
                             <h3 id="item-1"><i class="fas fa-folder-open">Unit summary</i></h3>
                             <p class="text-justify">
                                 In this unit, we started by defining the
@@ -35,12 +36,12 @@
                                 technology if we are to be effective in our use
                                 of media during instruction.
                             </p>
-                        </blockquote>
+                        
                     </div>
                     <br />
                     <hr>
                     <div class="note note-warning meme text-justify">
-                        <blockquote class="blockquote bq-warning">
+                        
                             <h3 id="item-2"><i class="fas fa-medal"> Assignment</i></h3>
                             <ol>
                                 <li>
@@ -62,12 +63,12 @@
                                     of media; 5 marks for budget].
                                 </li>
                             </ol>
-                        </blockquote>
+                       
                     </div>
                     <hr>
                     <br />
-                    <div class="note note-secondary meme text-justify">
-                        <blockquote class="blockquote bq-secondary">
+                    <div class="note note-secondary text-justify">
+                       
                             <h3 id="item-3"><i class="fas fa-"> References</i></h3>
                             <p class="text-justify">
                                 Bruner, J.S. (1966). <i><kk>Towards a Theory of Instruction</kk></i>.
@@ -110,7 +111,7 @@
                                 </kk>. New Delhi: Sterling Publisher<br /><br />
 
                             </p>
-                        </blockquote>
+                        
                     </div>
                 </div>
             </div>

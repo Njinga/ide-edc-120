@@ -1,5 +1,5 @@
 <template>
-    <div class="home border border-light p-3 mb-5 bg-light rounded b">
+    <div class="home border border-light p-3 mb-5 rounded">
         <div class="text-center">
             <img src="../assets/uniswa.gif" class="img-fluid" alt="Responsive image">
         </div>

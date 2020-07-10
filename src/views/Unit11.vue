@@ -44,8 +44,8 @@
                                         which is closely related to educational/instructional technologies as they too
                                         (ICTs) are used as equipment and tools when teaching learners in a classroom.
                                     </p>
-                                    <div class="note note-info">
-                                        <blockquote class="blockquote bq-info">
+                                    <div class="note note-info meme">
+                                        
                                            <h4 id="item-1-1"> <i class="fas fa-paper-plane"> Unit Outcomes</i></h4>
                                             <p class="text-justify">
                                                 Upon completion of this unit you will be able to:
@@ -57,11 +57,11 @@
 
                                                 </ul>
                                             </p>
-                                        </blockquote>
+                                       
                                     </div>
                                     <br />
-                                    <div class="note note-success">
-                                        <blockquote class="blockquote bq-success">
+                                    <div class="note note-success meme">
+                                        
                                            <h4 id="item-1-2"> <i class="fas fa-check-square"> Terminolgy</i></h4>
                                             <p class="text-justify">
                                                 <kk> Educational Technology Information:</kk>
@@ -89,11 +89,11 @@
                                                 take a digital format e.g. E-Books.<br />
 
                                                 <kk> E-learning:</kk>
-                                                <fight> Please consider adding definition</fight><br />
+                                                <small><fight> Please consider adding definition</fight></small><br />
 
 
                                                 <kk> Digital device:</kk>
-                                                <fight> Please consider adding definition</fight><br />
+                                                <small><fight> Please consider adding definition</fight></small><br />
 
 
                                                 <kk>Social Media:</kk>
@@ -114,7 +114,7 @@
 
 
                                             </p>
-                                        </blockquote>
+
                                     </div>
                                 </div>
                             </mdb-row>
@@ -124,7 +124,7 @@
 
             </div>
         </div>
-    </div>
+     </div>   
 </template>
 <style scoped>
     fight {

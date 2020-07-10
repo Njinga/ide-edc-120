@@ -235,11 +235,11 @@
                                         which are in place. In the next section, we will look at social media which is linked to ICTs
                                     </p>
                                 
-                                <div class="note note-primary">
-                                    <blockquote class="blockquote bq-primary">
+                                <div class="note note-primary meme">
+                                    
                                        <h4 id="item-1-5-1"> <i class="fas fa-tools"> Activity 1.2</i></h4>
                                         Discuss how you can use ICT's in the classroom.
-                                    </blockquote>
+                                    
                                 </div>
                                 </div>
                             </mdb-row>

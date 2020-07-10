@@ -326,7 +326,7 @@
                     </p>
                     <br />
                     <div class="note note-primary">
-                        <blockquote class="blockquote bq-primary">
+                        
                             <h5 id="item-1-3-1"><i class="fas fa-tools"> Activity 4.2</i></h5>
                             <p class="text-justify meme">
                                 Apart from the examples given above, discuss and
@@ -334,7 +334,7 @@
                                 of printed materials in achieving the different
                                 types of learning outcomes.
                             </p>
-                        </blockquote>
+
                     </div>
                     </div>
                 </div>

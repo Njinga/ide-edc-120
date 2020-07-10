@@ -166,13 +166,13 @@
 
                         <br />
                         <div class="note note-primary meme">
-                            <blockquote class="blockquote bq-primary">
+                            
                                 <h3 id="item-1-1"><i class="fas fa-tools"> Activity 3.1</i></h3>
                                 <p class="text-justify">
                                     Based on the lesson plan you created in
                                     the course EDC 100, outline and discuss the criteria you used to select media.
                                 </p>
-                            </blockquote>
+                            
                         </div>
                         <br />
                         <p class="text-justify meme">

@@ -262,14 +262,14 @@
                     </p>
                     <br />
                     <div class="note note-warning">
-                        <blockquote class="blockquote bq-warning">
+                        
                             <h5 id="item-1-3-1"><i class="fas fa-medal">Assignment 4.1</i></h5>
                             <p class="text-justify meme font-italic">
                                 Following the design process that has been presented to you in this unit, design
                                 a poster based on a topic from one of your teaching subjects. Present the poster
                                 to your tutor/lecturer for marking.
                             </p>
-                        </blockquote>
+                       
                     </div>
                     </div>
                     <br />
@@ -313,7 +313,7 @@
                     </p>
                     <br />
                     <div class="note note-primary">
-                        <blockquote class="blockquote bq-primary">
+                        
                             <h5 id="item-1-3-2"><i class="fas fa-tools"> Activity 4.1</i></h5>
                             <p class="text-justify font-italic meme">
                                 Practice designing text by taking some content from a
@@ -322,7 +322,7 @@
                                 to a number of pages. Consider the design principles
                                 that have been presented to you above.
                             </p>
-                        </blockquote>
+                        
                     </div>
                     </div>
                     <br />
@@ -429,10 +429,10 @@
                         </ul>
                     </p>
                     <br />
-                    <div class="note note-warning text-justify">
-                        <blockquote class="blockquote bq-warning">
+                    <div class="note note-warning text-justify meme">
+                       
                             <h5 id="item-1-3-3"><i class="fas fa-medal">Assignment 4.2</i></h5>
-                            (PGCE STUDENTS)
+                            (PGCE STUDENTS)<br><br>
                             <p class="text-justify meme font-italic">
 
                                 Using the chalkboards located outside Block C in the Faculty of Education, individually
@@ -442,7 +442,7 @@
                                 course lecturer to grade your work.
 
                             </p>
-                        </blockquote>
+                        
                     </div>
                     </div>
                     <br />
@@ -759,8 +759,8 @@
 
                     </p>
                     <br />
-                    <div class="note note-warning text-justify">
-                        <blockquote class="blockquote bq-warning">
+                    <div class="note note-warning text-justify meme">
+                      
                             <h5 id="item-1-3-4"><i class="fas fa-medal">Assignment 4.3</i></h5>
                             Select a topic from one of your teaching subjects where audio media could be used and then:
                             <p class="text-justify meme font-italic">
@@ -786,7 +786,7 @@
                                     </li>
                                 </ul>
                             </p>
-                        </blockquote>
+                        
                     </div>
                     </div>
                 </div>

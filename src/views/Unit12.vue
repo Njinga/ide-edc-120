@@ -136,13 +136,13 @@
                                     </p>
                                 
 
-                                <div class="note note-primary">
-                                    <blockquote class="blockquote bq-primary">
+                                <div class="note note-primary meme">
+                                   
                                        <h4 id="item-1-1-1"> <i class="fas fa-tools"> Activity 1.1</i></h4>
-                                        <br>
+                                        
                                         Based on the definitions that you have been
                                         given above, construct your own definition of the term 'educational technology'.
-                                    </blockquote>
+                                   
                                 </div>
                                 <br/>
                                     <p class="meme">

@@ -136,7 +136,7 @@
                         </p>
                         <br />
                         <div class="note note-primary meme">
-                            <blockquote class="blockquote bq-primary">
+                            
                                 <h3 id="item-1-1"><i class="fas fa-tools"> Activity 3.1</i></h3>
                                 <p class="text-justify">
                                     <ol>
@@ -154,7 +154,7 @@
                                         </li>
                                     </ol>
                                 </p>
-                            </blockquote>
+                           
                         </div>
                         <br />
                     </div>

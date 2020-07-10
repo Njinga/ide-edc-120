@@ -306,14 +306,14 @@
 
                                 
 
-                                <div class="note note-primary">
-                                    <blockquote class="blockquote bq-primary">
+                                <div class="note note-primary meme">
+                                    
                                         <h4 id="item-1-2-1"><i class="fas fa-tools"> Activity 1.3</i></h4>
                                         <br>
                                         Briefly explain why a teacher preparing for a course on educational technology needs to understand learning theories.
-                                    </blockquote>
+                                    
                                     <p class=" text-justify">
-                                        <i>
+                                        <small><i>
                                             In your answer you need to establish the connection between learning theories
                                             and the application of educational technology. This requires you to explain what
                                             the various learning theories say about how individuals learn, and what should happen
@@ -321,7 +321,7 @@
                                             in fulfilling that role of helping individuals learn. In particular consider the suggestions
                                             made by Kemp, & Dayton, (1985:14) about some important factors that we need to consider in
                                             the design and use of instructional media.
-                                        </i>
+                                        </i></small>
                                     </p>
                                 </div>
                                 </div>

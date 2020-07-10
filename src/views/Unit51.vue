@@ -40,8 +40,8 @@
                                         is meant to assist you as teachers to know how to integrate computer technology as well
                                         as other media into teaching and learning.
                                     </p>
-                                    <div class="note note-info">
-                                    <blockquote class="blockquote bq-info">
+                                    <div class="note note-info meme">
+                                
                                         <h4 id="item-1-1"><i class="fas fa-paper-plane"> Unit Outcomes</i></h4>
                                         <p class="text-justify">
                                             Upon completion of this unit you will be able to:
@@ -55,11 +55,11 @@
 
                                             </ul>
                                         </p>
-                                    </blockquote>
+                               
                                     </div>
                                     <br/>
-                                    <div class="note note-success">
-                                    <blockquote class="blockquote bq-success">
+                                    <div class="note note-success meme">
+                                   
                                        <h4 id="item-1-2"> <i class="fas fa-check-square"> Terminolgy</i></h4>
                                         
                                             <kk>Media integration</kk>:
@@ -88,7 +88,7 @@
                                             <kk>Internet uses</kk>:
                                             Communication, information retrieval, and information publishing.
                                         
-                                    </blockquote>
+                                    
                                     </div>
                                 </div>
                             </mdb-row>

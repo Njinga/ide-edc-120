@@ -157,8 +157,8 @@
                         <p class="text-justify meme">
                             Both models and real objects should be used whenever realism is necessary for learning to take place. The discussion in the next section will help you look closely at printed materials as another media for communication.
                         </p>
-                        <div class="note note-primary shadow-lg p-3 mb-5 rounded">
-                            <blockquote class="blockquote bq-info">
+                        <div class="note note-primary meme">
+                            
                                 <i class="fas fa-tools"> Activity 2.2</i><br />
                                 <ol>
                                     <li>
@@ -168,7 +168,7 @@
                                         Give reasons why you should use models as media in the classroom.
                                     </li>
                                 </ol>
-                            </blockquote>
+                            
                         </div>
                     </div>
                     <br />
@@ -304,12 +304,12 @@
                             A cartoon is an interpretive picture that makes use of line, symbols and exaggeration to represent ideas, people, events, or situations in pictorial form.  Cartoons are mainly used to influence public opinion.   Cartoons employ the principle of caricature (gross and ludicrous exaggeration or distortion of parts of a whole to emphasize the part i.e. the nose, or the chin). A comic is a form of cartoon in which the characters enact a story in a certain sequence to create a continuous pictorial story.   Both cartoons and comics are humorous and interesting, easy to read and excite the students. Appreciation and interpretation however depends on the experience and ability level of the students.  Therefore, be sure that the cartoons and comics are within the experiential and intellectual range of your students.
 
                         </p>
-                        <div class="note note-primary shadow-lg p-3 mb-5 rounded">
-                            <blockquote class="blockquote bq-info">
+                        <div class="note note-primary meme">
+                            
                                 <i class="fas fa-tools"> Activity 2.3</i><br />
 
                                 Create a poster or chart explaining a concept in a lesson. Present the media to the course lecturer for assessment.
-                            </blockquote>
+                           
                         </div>
                     </div>
                     <br />
@@ -367,8 +367,8 @@
                             Before you continue reading the module, please stop for a while and carry out the following activity.
                         </p>
 
-                        <div class="note note-primary shadow-lg p-3 mb-5 rounded">
-                            <blockquote class="blockquote bq-info">
+                        <div class="note note-primary meme">
+                            
                                 <i class="fas fa-tools"> Activity 2.4</i><br />
 
                                 <ol>
@@ -379,12 +379,12 @@
                                         List the various non-projected media that we have discussed. What are the advantages of using each one of these non-projected visual media during instruction?
                                     </li>
                                 </ol>
-                            </blockquote>
+                            
                             <p class="text-justify meme">
-                                <i>
+                               <small> <i>
                                     In your answer to question one, you need to explain why printed materials have continued to be used even when the new technologies have invaded the classrooms such as computers. Consider the advantages that we mentioned above.<br />
                                     In your answer to question two, you could mention the fact that non-projected media do not require any hardware equipment, nor do they need electricity. They are readily available from the environment, from textbooks and cost very little money if they have to be bought.
-                                </i>
+                                </i></small>
                             </p>
                         </div>
                     </div>
@@ -516,11 +516,11 @@
                             </li>
                         </ul>
                     </p>
-                    <div class="note note-primary shadow-lg p-3 mb-5 rounded">
-                        <blockquote class="blockquote bq-info">
+                    <div class="note note-primary meme">
+                        
                             <i class="fas fa-tools"> Activity 2.5</i><br />
                             Using the Faculty of Education Audio Visual Lab, practice on how to connect a computer projector.
-                        </blockquote>
+                        
                     </div>
                 </div>
                 <br />
@@ -619,12 +619,12 @@
                     <p class="text-justify meme">
                         Before you continue reading this module and in order to confirm that you have understood what we have discussed so far, please stop for a while and carry out the following activity.
                     </p>
-                    <div class="note note-danger shadow-lg p-3 mb-5 rounded">
-                        <blockquote class="blockquote bq-danger">
+                    <div class="note note-danger meme">
+                        
                             <i class="fas fa-microphone">Discussion <br />Activity 2.6</i><br />
-                            Online Discussion - There is much discussion today about the role of computers in the classroom.  The main point often brought up is that this technology overshadows all other instructional technologies (many of which we have described above).  Do you think the computer will indeed replace these other technologies? Support your answer.
-                        </blockquote>
-                        <i> In answering the above question, you will need to consider the issue of media integration so that you bring out the idea of all these other media that we have discussed being combined with computer technology. You could then explain how the various technologies could be combined with computer technology so that the computer is not seen as replacing the other forms of media during instruction. </i>
+                            Online Discussion - There is much discussion today about the role of computers in the classroom.  The main point often brought up is that this technology overshadows all other instructional technologies (many of which we have described above).  Do you think the computer will indeed replace these other technologies? Support your answer.<br><br>
+                        
+                       <small> <i> In answering the above question, you will need to consider the issue of media integration so that you bring out the idea of all these other media that we have discussed being combined with computer technology. You could then explain how the various technologies could be combined with computer technology so that the computer is not seen as replacing the other forms of media during instruction. </i></small>
                     </div>
                 </div>
                 <br />
@@ -723,9 +723,9 @@
                     <p class="text-justify meme">
                         The most common application of hypermedia authoring in a classroom is when students develop hypermedia projects that allow students either as individuals or as groups to create reports that summarize major efforts as in the case of a science experiment. Instead of merely compiling a written report, students could include written work with pictures, sound clips, video and links to describe what they did.
                     </p>
-                    <div class="note note-primary shadow-lg p-3 mb-5 rounded">
-                        Let us pause for a little. Please carry out the following activity.
-                        <blockquote class="blockquote bq-info">
+                    <div class="note note-primary meme">
+                        Let us pause for a little. Please carry out the following activity.<br><br/>
+                        
                             <i class="fas fa-tools"> Activity 2.7</i><br />
 
                             <ol>
@@ -736,7 +736,7 @@
                                     What is your view about the future of educational computing in Swaziland?
                                 </li>
                             </ol>
-                        </blockquote>
+                       
                     </div>
                 </div>
                 <br />
@@ -834,14 +834,14 @@
                         <img src="../assets/social.png" class="img-fluid" alt="Responsive image"><br />
                         <kk><i>Graphic showing different types of Social Media</i></kk>
                     </p>
-                    <div class="note note-primary shadow-lg p-3 mb-5 rounded">
+                    <div class="note note-primary meme">
 
-                        <blockquote class="blockquote bq-info">
+                        
                             <i class="fas fa-tools"> Activity 2.8</i><br />
                             Conduct an Internet search and report the uses of social media in the classroom
 
 
-                        </blockquote>
+                      
                     </div>
                 </div>
                 <br />
@@ -856,14 +856,14 @@
                     <p class="text-justify meme">
                         Learners or groups of learners can be invited to create their own wiki, either with personal information or project information related to the topics being studied. Wikis can also be used as e-portfolios of learners' work for evaluation by the instructor. Brainstorming activities can be especially powerful using a wiki, and Frequently Asked Questions (FAQ) pages are also possible.
                     </p>
-                    <div class="note note-primary shadow-lg p-3 mb-5 rounded">
+                    <div class="note note-primary meme">
 
-                        <blockquote class="blockquote bq-info">
+                        
                             <i class="fas fa-tools"> Activity 2.9</i><br />
                             On the course website, participate in the Wiki activity by entering new information and responding to other student's submissions.  The topic will be the uses of ICT's in the classroom.
 
 
-                        </blockquote>
+                        
                     </div>
 
                 </div>

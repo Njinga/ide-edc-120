@@ -73,8 +73,8 @@
                     </p>
 
                     <br />
-                    <div class="note note-info">
-                        <blockquote class="blockquote bq-info">
+                    <div class="note note-info meme">
+                        
                             <h5 id="item-1-1"><i class="fas fa-paper-plane"> Unit Outcomes</i></h5>
                             <p class="text-justify">
                                 Upon completion of this unit you will be able to:
@@ -84,12 +84,12 @@
                                     <li>present graphically the media selection model.</li>
                                 </ul>
                             </p>
-                        </blockquote>
+                     
                     </div>
 
                     <br />
-                    <div class="note note-success">
-                        <blockquote class="blockquote bq-success">
+                    <div class="note note-success meme">
+                        
                             <h5 id="item-1-2"><i class="fas fa-check-square"> Terminology</i></h5>
                             <p class="text-justify">
                                 <kk>Selection of Media:</kk>	The process of identifying and selecting the appropriate media to be used in achieving the learning objectives.<br />
@@ -98,7 +98,7 @@
                                 <br /><kk>Systems Approach:</kk>	A way or system of doing things systematically (following a logical and flexible approach).<br />
                                 <br /><kk>ASSURE Model:</kk>	A procedural guide for planning and conducting instruction that incorporates media<br />
                             </p>
-                        </blockquote>
+                       
                     </div>
                     </div>
                 </div>

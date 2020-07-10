@@ -85,18 +85,18 @@
                     </div>
                     <br />
                     <div class="note note-info texy-justify meme">
-                        <blockquote class="blockquote bq-info">
+                       
                             <h5 id="item-1-1"><i class="fas fa-paper-plane"> Unit Outcomes</i></h5>
                             Upon completion of this unit you will be able to:
                             <ul style="list-style-type:square">
                                 <li>identify the design process to follow in creating your own instructional materials</li>
                                 <li>design, plan and produce different instructional materials.</li>
                             </ul>
-                        </blockquote>
+                       
                     </div>
                     <br />
-                    <div class="note note-success">
-                        <blockquote class="blockquote bq-success">
+                    <div class="note note-success meme">
+                        
                             <h5 id="item-1-2"><i class="fas fa-check-square"> Terminology</i></h5>
                             <p class="text-justify">
                                 <kk>Storyboarding:</kk>A technique borrowed from film and video production that allows you to
@@ -112,7 +112,7 @@
                                 <br /><kk>Web-based Media:</kk>Media shown or displayed mostly over the Internet.<br />
 
                             </p>
-                        </blockquote>
+                        
                     </div>
                     </div>
 

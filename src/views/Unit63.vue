@@ -151,13 +151,14 @@
                                             </ul>
 
                                         </p>
-                                        <div class="note note-primary">
-                                            <blockquote class="blockquote bq-primary">
+                                        <div class="note note-primary meme text-justify">
+                                            
                                                <h4 id="item-1-1-2"> <i class="fas fa-tools"> Activity 6.1</i></h4>
-                                                <br>
+                                                
                                                 Practice operating and using the OHP in room C1.2 (Education Block) or IDE Audio Visual Lab.
-                                            </blockquote>
+                                            
                                         </div>
+                                        <br>
                                         <p class="text-justify meme">
                                             Let us now briefly look at another projection media which is commonly used in the classroom
                                             and needs proper storage, maintenance and care. This is the computer projector or commonly
@@ -265,15 +266,15 @@
                                         </ul>
                                     </p>
 
-                                    <div class="note note-primary text-justify">
-                                        <blockquote class="blockquote bq-primary">
+                                    <div class="note note-primary meme text-justify">
+                                       
                                             <h4 id="item-1-3-1"><i class="fas fa-tools"> Activity 6.2</i></h4>
-                                            <br>
+                                            
                                             <ol>
                                                 <li>Practice using the video camera in the Faculty of Education Audio Visual Lab.</li>
                                                 <li>You can use your phone camera to take good videos  and use them in the classroom.</li>
                                             </ol>
-                                        </blockquote>
+                                        
                                     </div>
                                 </div>
                                 <br />

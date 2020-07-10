@@ -172,12 +172,13 @@
                                     <p class="text-justify meme">
                                         Note that the cone of experience is broad-based at the bottom where direct and purposeful experiences are provided and gets very narrow at the top where verbal symbols are provided. Also note the interdependent nature of learning experiences and instructional materials.   Learning experiences at the bottom of the cone tend to hold students' attention longer and involve active student participation. Media used at the top of the cone are said to be more passive but suitable for transmitting large amounts of information quickly.
                                     </p>
-                                    <div class="note note-primary">
-                                        <blockquote class="blockquote bq-primary">
+                                    <div class="note note-primary meme">
+                                        
                                             <i class="fas fa-tools"> Activity 2.1</i><br />
                                             Select any media of your choice and discuss how/why you would use it in the classroom based on Dale's Cone of Experience according to the degree of abstraction.
-                                        </blockquote>
+                                        
                                     </div>
+                                    <br>
                                     <p class="text-justify meme">
                                         Media serve as extensions of our efforts to communicate with our students. A large percentage of things that we learn are a direct result of our visual and audio-visual experiences. Our senses are the gateway to the acquisition of knowledge. According to Sampath (1981), research shows that we learn:
                                         <ul>

@@ -22,8 +22,8 @@
 
                                 <h1 class="h1-responsive"> Unit Summary, Assessment and References</h1>
                                 <br />
-                                <div class="note note-success">
-                                    <blockquote class="blockquote bq-success">
+                                <div class="note note-success meme">
+                                    
                                        <h4 id="item-1"><i class="fas fa-folder-open"> Unit Summary</i></h4>
                                         <p class=" text-justify">
 
@@ -35,11 +35,11 @@
                                             the techniques that we have discussed to care and maintain your equipment in order to prolong
                                             their life span and for them to serve you better.
                                         </p>
-                                    </blockquote>
+                                    
                                 </div>
                                 <br />
-                                <div class="note note-warning">
-                                    <blockquote class="blockquote bq-warning">
+                                <div class="note note-warning meme">
+                                    
                                         <h4 id="item-2"><i class="fas fa-eye"> Assessment</i></h4>
 
                                         <p class="text-justify">
@@ -58,11 +58,11 @@
                                                 </li>
                                             </ol>
                                         </p>
-                                    </blockquote>
+                                    
                                 </div>
                                 <br />
                                 <div class="note note-secondary">
-                                    <blockquote class="blockquote bq-secondary">
+                                    
                                         <h4 id="item-3"><i class="fas fa-"> References</i></h4>
 
                                         <p class="text-justify">
@@ -86,7 +86,7 @@
                                             Upper Saddle River, New Jersey, Columbus, Ohio: Pearson Merrill Prentice Hall.
                                         </p>
 
-                                    </blockquote>
+                                    
                                 </div>
                             </mdb-row>
                         </mdb-container>

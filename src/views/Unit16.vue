@@ -99,19 +99,19 @@
                                     </p>
 
                                 
-                                <div class="note note-primary">
-                                    <blockquote class="blockquote bq-primary">
+                                <div class="note note-primary meme">
+                                   
                                         <h4 id="item-1-1"><i class="fas fa-tools"> Activity 1.4</i></h4>
                                         <br>
                                         In your own words, explain how you expect the role of a teacher in
                                         classroom communication to change in Swaziland as new technologies invade the classrooms.
-                                    </blockquote>
+                                    
 
                                     <p class=" text-justify">
-                                        In your answer you might need to consider the new technologies that have invaded
+                                        <small>In your answer you might need to consider the new technologies that have invaded
                                         the classroom and how their utilization might affect the way teachers have traditionally
                                         communicated with students in class. Explain the demands placed on teachers as they facilitate
-                                        students to learn using the emerging technologies.
+                                        students to learn using the emerging technologies.</small>
                                     </p>
                                 </div>
                                 </div>

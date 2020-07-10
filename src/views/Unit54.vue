@@ -207,17 +207,17 @@
 
                                     </p>
 
-                                    <div class="note note-primary text-justify">
-                                        <blockquote class="blockquote bq-primary">
+                                    <div class="note note-primary text-justify meme">
+                                        
                                             <h4 id="item-1-1-1"><i class="fas fa-tools"> Activity 5.1</i></h4>
-                                            <br>
+                                          
                                             <i>
                                                 Based on your subjects of specialization,
                                                 identify tasks that you could engage your
                                                 students in to give them practice on word processing.
                                                 Discuss your suggestions with a colleague.
                                             </i>
-                                        </blockquote>
+                                       
                                     </div>
                                     <br />
                                     <p class="text-justify meme">
@@ -264,10 +264,10 @@
                                             </li>
                                         </ul>
                                     </p>
-                                    <div class="note note-primary text-justify">
-                                        <blockquote class="blockquote bq-primary">
+                                    <div class="note note-primary text-justify meme">
+                                        
                                             <h4 id="1-1-2"><i class="fas fa-tools"> Activity 5.2</i></h4>
-                                            <br>
+                                            
                                             <i>
                                                 Imagine that you have a problem based on a selected topic
                                                 from one of the subjects that you are currently teaching
@@ -290,7 +290,7 @@
 
                                             </ol>
 
-                                        </blockquote>
+                                       
                                     </div>
                                     <br />
                                     <p class="text-justify meme">
