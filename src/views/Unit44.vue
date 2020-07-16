@@ -1,5 +1,5 @@
 <template>
-    <div class="border border-light p-3 mb-5 bg-light rounded b">
+    <div class="border border-light p-3 mb-5 bg-light rounded b meme">
         <div class="row">
             <div class="col-sm-4 col-lg-3">
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -21,7 +21,7 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h2 id="item-1" class="h2-responsive text-left">4.4 Utilizing Materials during Instruction</h2>
+                    <h4 id="item-1" class="h4-responsive text-left">4.4 Utilizing Materials during Instruction</h4>
                     <div class="ml-5">
                     <p class="text-justify meme">
                         In this section you are introduced to the different
@@ -35,7 +35,7 @@
                     </p>
                     </div>
                     <br />
-                    <h3 id="item-1-1" class="h3-responsive text-left">4.4.1 Printed materials</h3>
+                    <h5 id="item-1-1" class="h5-responsive text-left">4.4.1 Printed materials</h5>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         In this section we are going to discuss how we can utilize printed materials
@@ -151,7 +151,7 @@
                     </p>
                     </div>
                     <br />
-                    <h3 id="item-1-2" class="h3-responsive text-left">4.4.2 Advantages and disadvantages of using different types of printed materials </h3>
+                    <h5 id="item-1-2" class="h5-responsive text-left">4.4.2 Advantages and disadvantages of using different types of printed materials </h5>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         There are both advantages and disadvantages associated with the use of
@@ -265,7 +265,7 @@
                     </p>
                     </div>
                     <br />
-                    <h3 id="item-1-3" class="h3-responsive text-left">4.4.3 Application of printed materials </h3>
+                    <h5 id="item-1-3" class="h5-responsive text-left">4.4.3 Application of printed materials </h5>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         The most common application of printed materials is the presentation of content information
@@ -327,7 +327,7 @@
                     <br />
                     <div class="note note-primary">
                         
-                            <h5 id="item-1-3-1"><i class="fas fa-tools"> Activity 4.2</i></h5>
+                            <h6 class="h6-responsive" id="item-1-3-1"><i class="fas fa-tools"> Activity 4.2</i></h6>
                             <p class="text-justify meme">
                                 Apart from the examples given above, discuss and
                                 identify with another colleague additional uses
@@ -343,9 +343,4 @@
     </div>
 </template>
 
-<style>
-    /*
-    .scrollspy-example {
-        height: 1000px;
-    }*/
-</style>
+

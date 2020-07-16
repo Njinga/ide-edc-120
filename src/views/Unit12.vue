@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -25,9 +25,9 @@
                         <mdb-container fluid>
 
                             <mdb-row class="bg-primary text-left">
-                                <h2 class="h2-responsive">1.2 Key Concepts Applicable to Educational Technology and ICTs</h2>
+                                <h4 class="h4-responsive">1.2 Key Concepts Applicable to Educational Technology and ICTs</h4>
                                 <br />
-                                <h3 id="item-1-1" class="h3-responsive"> 1.2.1 What is Educational technology?</h3>
+                                <h5 id="item-1-1" class="h5-responsive"> 1.2.1 What is Educational technology?</h5>
                                 <div class="text-justify ml-5">
                                     <p class="text-justify meme">
                                         The concept 'Educational Technology' is very wide and as a result difficult to define.
@@ -138,7 +138,7 @@
 
                                 <div class="note note-primary meme">
                                    
-                                       <h4 id="item-1-1-1"> <i class="fas fa-tools"> Activity 1.1</i></h4>
+                                       <h6 id="item-1-1-1"> <i class="fas fa-tools"> Activity 1.1</i></h6>
                                         
                                         Based on the definitions that you have been
                                         given above, construct your own definition of the term 'educational technology'.
@@ -155,7 +155,7 @@
                                     </p>
                                 </div>
                                 <br/>
-                                <h3 id="item-1-2" class="h3-responsive">1.2.2 Why Study Educational Technology?</h3>
+                                <h6 id="item-1-2" class="h6-responsive">1.2.2 Why Study Educational Technology?</h6>
                                 <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         If we go by the simple definition of educational technology as <i>

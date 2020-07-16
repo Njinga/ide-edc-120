@@ -5,11 +5,11 @@
         </div>
             <mdb-container fluid>
                 <mdb-row class="text-center">
-                    <h1 class="h1-responsive"> EDUCATIONAL</h1>
-                    <h1 class="h1-responsive"> TECHNOLOGY AND SKILLS </h1>
-                    <h3 class="h3-responsive"> (IDE- EDC 120)</h3>
+                    <h3 class="h3-responsive"> EDUCATIONAL</h3>
+                    <h3 class="h3-responsive"> TECHNOLOGY AND SKILLS </h3>
+                    <h4 class="h4-responsive"> (IDE- EDC 120)</h4>
                     <br />
-                    <h1 class="h1-responsive"> K. Gathu & P.L. Biswalo </h1>
+                    <h3 class="h3-responsive"> K. Gathu & P.L. Biswalo </h3>
                 </mdb-row>
                 <br />
                 <br />
@@ -17,7 +17,7 @@
                 <br />
                 <mdb-row class="text-center">
                     <mdb-col col="12">
-                        <h4 calss="h4-responsive"> UNIVERSITY OF SWAZILAND INSTITUTE OF DISTANCE EDUCATION </h4>
+                        <h6 calss="h6-responsive"> UNIVERSITY OF SWAZILAND INSTITUTE OF DISTANCE EDUCATION </h6>
                     </mdb-col>
                 </mdb-row>
             </mdb-container>

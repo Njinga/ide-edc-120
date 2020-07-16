@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -34,7 +34,7 @@
                         <mdb-container fluid>
 
                             <mdb-row class="bg-primary text-justify">
-                                <h2 id="item-1" class="h2-responsive">6.3 How to Handle, Operate, Maintain and Store Media Equipment and Materials</h2>
+                                <h4 id="item-1" class="h4-responsive">6.3 How to Handle, Operate, Maintain and Store Media Equipment and Materials</h4>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         Since we are likely to use a number of equipment in our work situations,
@@ -44,7 +44,7 @@
                                     </p>
                                 </div>
                                 <br />
-                                <h3 id="item-1-1" class="h3-responsive">6.3.1 The Overhead Projector</h3>
+                                <h5 id="item-1-1" class="h5-responsive">6.3.1 The Overhead Projector</h5>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         The overhead projector (For more information see section 2.3.5 - Projected Media)
@@ -88,7 +88,7 @@
                                         </ul>
                                     </p>
                                     <br />
-                                    <h4 id="item-1-1-1" class="h4-responsive">6.3.1.1 Operating the Overhead Projector/Computer Projector</h4>
+                                    <h6 id="item-1-1-1" class="h6-responsive">6.3.1.1 Operating the Overhead Projector/Computer Projector</h6>
                                     <div>
                                         <p class="text-justify meme">
                                             To get the best out of your overhead or computer projector, you need to know how to
@@ -153,7 +153,7 @@
                                         </p>
                                         <div class="note note-primary meme text-justify">
                                             
-                                               <h4 id="item-1-1-2"> <i class="fas fa-tools"> Activity 6.1</i></h4>
+                                               <h6 class="h6-responsive" id="item-1-1-2"> <i class="fas fa-tools"> Activity 6.1</i></h6>
                                                 
                                                 Practice operating and using the OHP in room C1.2 (Education Block) or IDE Audio Visual Lab.
                                             
@@ -191,7 +191,7 @@
                                     </div>
                                 </div>
                                 <br />
-                                <h3 id="item-1-2" class="h3-responsive">6.3.2 Audio equipment</h3>
+                                <h5 id="item-1-2" class="h5-responsive">6.3.2 Audio equipment</h5>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         Audio equipment and gadgets have evolved from reel to reel tapes, to cassettes, to CD's, to audio files
@@ -231,7 +231,7 @@
                                     </p>
                                 </div>
                                 <br />
-                                <h3 id="item-1-3" class="h3-responsive">6.3.3 Video equipment</h3>
+                                <h5 id="item-1-3" class="h5-responsive">6.3.3 Video equipment</h5>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         Video equipment has also evolved from the Film Projector, Video Tape Recorders (VTR),
@@ -268,7 +268,7 @@
 
                                     <div class="note note-primary meme text-justify">
                                        
-                                            <h4 id="item-1-3-1"><i class="fas fa-tools"> Activity 6.2</i></h4>
+                                            <h6 class="h6-responsive" id="item-1-3-1"><i class="fas fa-tools"> Activity 6.2</i></h6>
                                             
                                             <ol>
                                                 <li>Practice using the video camera in the Faculty of Education Audio Visual Lab.</li>
@@ -278,7 +278,7 @@
                                     </div>
                                 </div>
                                 <br />
-                                <h3 id="item-1-4" class="h3-responsive">6.3.4 Computer equipment</h3>
+                                <h5 id="item-1-4" class="h5-responsive">6.3.4 Computer equipment</h5>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         Computers too are not an exception when it comes to care and maintenance.
@@ -309,7 +309,7 @@
                                         </ul>
                                     </p>
                                     <br />
-                                    <h4 id="item-1-4-1" class="h4-responsive">6.3.4.1 Maintenance of computer equipment </h4>
+                                    <h6 id="item-1-4-1" class="h6-responsive">6.3.4.1 Maintenance of computer equipment </h6>
                                     <div class="ml-5">
 
                                         <p class="text-justify meme">

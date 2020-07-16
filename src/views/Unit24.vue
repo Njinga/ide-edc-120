@@ -1,5 +1,5 @@
 <template>
-    <div class="border border-light p-3 mb-5 bg-light rounded b">
+    <div class="border border-light p-3 mb-5 bg-light rounded b meme">
         <br />
         <div class="row">
             <div class="col-sm-4 col-lg-3">
@@ -18,7 +18,7 @@
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
               
-                    <h2 id="item-1" class="h2-responsive text-left">2.4  Trends in Media Technologies</h2>
+                    <h4 id="item-1" class="h4-responsive text-left">2.4  Trends in Media Technologies</h4>
                     <div class="ml-5 text-justify">
                     <p class=" text-justify meme">
                         Technology is very crucial and essential in teaching
@@ -160,7 +160,7 @@
 
                     <!-- This is chapter 2.3-->
 
-                    <h3 id="item-1-1" class="h3-responsive text-left">2.4.1 Wireless technology: What is it? </h3>
+                    <h5 id="item-1-1" class="h5-responsive text-left">2.4.1 Wireless technology: What is it? </h5>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Wireless data is advancing at a good speed as more companies

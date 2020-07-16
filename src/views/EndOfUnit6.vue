@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -20,11 +20,11 @@
                         <mdb-container fluid>
                             <mdb-row class=" text-left">
 
-                                <h1 class="h1-responsive"> Unit Summary, Assessment and References</h1>
+                                <h3 class="h3-responsive"> Unit Summary, Assessment and References</h3>
                                 <br />
                                 <div class="note note-success meme">
                                     
-                                       <h4 id="item-1"><i class="fas fa-folder-open"> Unit Summary</i></h4>
+                                       <h4 class="h4-responsive" id="item-1"><i class="fas fa-folder-open"> Unit Summary</i></h4>
                                         <p class=" text-justify">
 
                                             In this unit we have discussed how to care, maintain and store media equipment and
@@ -40,7 +40,7 @@
                                 <br />
                                 <div class="note note-warning meme">
                                     
-                                        <h4 id="item-2"><i class="fas fa-eye"> Assessment</i></h4>
+                                        <h4 class="h4-responsive" id="item-2"><i class="fas fa-eye"> Assessment</i></h4>
 
                                         <p class="text-justify">
                                             Assuming that your school has built a new resource centre which includes
@@ -63,7 +63,7 @@
                                 <br />
                                 <div class="note note-secondary">
                                     
-                                        <h4 id="item-3"><i class="fas fa-"> References</i></h4>
+                                        <h4 class="h4-responsive" id="item-3"><i class="fas fa-"> References</i></h4>
 
                                         <p class="text-justify">
                                             Hansen, B., & Koltes, S. (1992). <kk>Viruses.</kk>In G.Bitter (Ed.),

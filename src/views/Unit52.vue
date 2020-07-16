@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -17,7 +17,7 @@
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-justify">
                                 
-                                <h2 id="item-1" class="h2-responsive">5.2 What is media Integration?</h2>
+                                <h4 id="item-1" class="h4-responsive">5.2 What is media Integration?</h4>
                                 <div>
                                     <p class="text-justify meme">
                                         Media integration refers to the combining of different types

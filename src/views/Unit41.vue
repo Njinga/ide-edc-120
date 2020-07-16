@@ -1,5 +1,5 @@
 <template>
-    <div class="border border-light p-3 mb-5 bg-light rounded b">
+    <div class="border border-light p-3 mb-5 bg-light rounded b meme">
         <div class="row">
             <div class="col-sm-4 col-lg-3">
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -18,10 +18,10 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h1 class="h1-responsive text-justify">Unit 4</h1>
-                    <h1 class="h1-responsive text-justify">Design and Development of Instructional Media and Materials</h1>
+                    <h3 class="h3-responsive text-justify">Unit 4</h3>
+                    <h3 class="h3-responsive text-justify">Design and Development of Instructional Media and Materials</h3>
                     <br/>
-                    <h2 id="item-1" class="h2-responsive text-justify">4.1 Introduction</h2>
+                    <h4 id="item-1" class="h4-responsive text-justify">4.1 Introduction</h4>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Teachers have long been known for their creative use of available tools
@@ -86,7 +86,7 @@
                     <br />
                     <div class="note note-info texy-justify meme">
                        
-                            <h5 id="item-1-1"><i class="fas fa-paper-plane"> Unit Outcomes</i></h5>
+                            <h4 class="h4-responsive" id="item-1-1"><i class="fas fa-paper-plane"> Unit Outcomes</i></h4>
                             Upon completion of this unit you will be able to:
                             <ul style="list-style-type:square">
                                 <li>identify the design process to follow in creating your own instructional materials</li>
@@ -97,7 +97,7 @@
                     <br />
                     <div class="note note-success meme">
                         
-                            <h5 id="item-1-2"><i class="fas fa-check-square"> Terminology</i></h5>
+                            <h4 class="h4-responsive" id="item-1-2"><i class="fas fa-check-square"> Terminology</i></h4>
                             <p class="text-justify">
                                 <kk>Storyboarding:</kk>A technique borrowed from film and video production that allows you to
                                 creatively arrange and rearrange your sketches.<br />
@@ -122,9 +122,3 @@
     </div>
 </template>
 
-<style>
-    /*
-    .scrollspy-example {
-        height: 1000px;
-    }*/
-</style>

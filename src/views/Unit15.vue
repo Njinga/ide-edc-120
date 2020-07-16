@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -25,7 +25,7 @@
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-justify">
                               
-                                <h2 id="item-1" class="h2-responsive">1.5 Educational Technology, Classroom Communication and Learning</h2>
+                                <h4 id="item-1" class="h4-responsive">1.5 Educational Technology, Classroom Communication and Learning</h4>
                                 <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         To understand how technology fits into instruction, we need first to have a
@@ -107,7 +107,7 @@
                                     </p>
                                 </div>
                                 <br />
-                                <h3 id="item-1-1" class="h3-responsive">1.5.1 Communication and learning</h3>
+                                <h5 id="item-1-1" class="h5-responsive">1.5.1 Communication and learning</h5>
                                 <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         The word 'communication' has its origin from a Latin word, <i>"communis"</i> which means,
@@ -263,7 +263,7 @@
                                     </p>
                                 </div>
                                 <br />
-                                <h3 id="item-1-2" class="h3-responsive">1.5.2 A simple communication model</h3>
+                                <h5 id="item-1-2" class="h5-responsive">1.5.2 A simple communication model</h5>
                                 <div class="ml-5 text-justify">
                                     <p class="text-center">
                                         <img src="../assets/feedback.png" class="img-fluid" alt="Responsive image"><br />
@@ -308,7 +308,7 @@
 
                                 <div class="note note-primary meme">
                                     
-                                        <h4 id="item-1-2-1"><i class="fas fa-tools"> Activity 1.3</i></h4>
+                                        <h6 class="h6-responsive" id="item-1-2-1"><i class="fas fa-tools"> Activity 1.3</i></h6>
                                         <br>
                                         Briefly explain why a teacher preparing for a course on educational technology needs to understand learning theories.
                                     

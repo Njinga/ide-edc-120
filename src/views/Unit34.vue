@@ -1,5 +1,5 @@
 <template>
-    <div class="border border-light p-3 mb-5 bg-light rounded b">
+    <div class="border border-light p-3 mb-5 bg-light rounded b meme">
         <div class="row">
             <div class="col-sm-4 col-lg-3">
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -32,7 +32,7 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h2 id="item-1" class="h2-responsive text-left">3.4 Media Selection Models</h2>
+                    <h4 id="item-1" class="h4-responsive text-left">3.4 Media Selection Models</h4>
                     <div class="ml-5 text-justify">
                         <p class=" text-justify meme">
                             To assist in media selection decisions, media
@@ -42,7 +42,7 @@
                             have been used. Among them include what is called <kk>the basic model</kk>.
                         </p>
                     </div>
-                    <h3 id="item-1-1" class="h3-responsive text-left">3.4.1 The basic model </h3>
+                    <h5 id="item-1-1" class="h5-responsive text-left">3.4.1 The basic model </h5>
                     <div class="ml-5 text-justify">
                         <p class=" text-justify meme">
                             This model is based on the application of a systems approach. A systems
@@ -92,7 +92,7 @@
                             </ul>
                         </p>
                     </div>
-                    <h4 id="item-1-1-1" class="h4-responsive text-left">3.4.1.1 Selection of media</h4>
+                    <h6 id="item-1-1-1" class="h6-responsive text-left">3.4.1.1 Selection of media</h6>
                     <div class="ml-5 text-justify">
                         <p class=" text-justify meme">
                             For you to select the appropriate media therefore, the above steps in
@@ -137,7 +137,7 @@
                         <br />
                         <div class="note note-primary meme">
                             
-                                <h3 id="item-1-1"><i class="fas fa-tools"> Activity 3.1</i></h3>
+                                <h6 class="h6-responsive" id="item-1-1"><i class="fas fa-tools"> Activity 3.1</i></h6>
                                 <p class="text-justify">
                                     <ol>
                                         <li>
@@ -158,10 +158,10 @@
                         </div>
                         <br />
                     </div>
-                    <h3 id="item-1-2" class="h3-responsive text-left">
+                    <h5 id="item-1-2" class="h5-responsive text-left">
                         3.4.2 Steps to follow in systematic
                         planning for the use of media (ASSURE Model)
-                    </h3>
+                    </h5>
                     <div class="ml-5 text-justify">
                         <p class=" text-justify meme">
                             To use instructional media effectively requires that you apply the
@@ -205,7 +205,7 @@
                         </p>
                     </div>
 
-                    <h4 id="item-1-2-1" class="h4-responsive text-left">3.4.2.1 Analyse the learners </h4>
+                    <h6 id="item-1-2-1" class="h6-responsive text-left">3.4.2.1 Analyse the learners </h6>
                     <div class="ml-5 text-justify">
                         <p class=" text-justify meme">
                             Analysing the learners before selecting and using instructional media
@@ -416,7 +416,7 @@
                         </p>
                     </div>
                     <br />
-                    <h4 id="item-1-2-2" class="h4-responsive text-left">3.4.2.2 State objectives</h4>
+                    <h6 id="item-1-2-2" class="h6-responsive text-left">3.4.2.2 State objectives</h6>
                     <div class="ml-5 text-justify">
                         <p class=" text-justify meme">
                             The second step in the ASSURE model is to state objectives of instruction.
@@ -477,7 +477,7 @@
                         </p>
                     </div>
                     <br />
-                    <h4 id="item-1-2-3" class="h4-responsive text-left">3.4.2.3 Select methods, media, and materials</h4>
+                    <h6 id="item-1-2-3" class="h6-responsive text-left">3.4.2.3 Select methods, media, and materials</h6>
                     <div class="ml-5 text-justify">
                         <p class=" text-justify meme">
                             A systematic plan for using media demands that the methods,
@@ -662,7 +662,7 @@
                         </p>
                     </div>
                     <br />
-                    <h4 id="item-1-2-4" class="h4-responsive text-left">3.4.2.4 Utilize media and materials</h4>
+                    <h6 id="item-1-2-4" class="h6-responsive text-left">3.4.2.4 Utilize media and materials</h6>
                     <div class="ml-5 text-justify">
                         <p class=" text-justify meme">
                             This step involves the actual use of media and materials by the students and the teacher.
@@ -759,7 +759,7 @@
                         </p>
                     </div>
                     <br />
-                    <h4 id="item-1-2-5" class="h4-responsive text-left">3.4.2.5 Require learner participation</h4>
+                    <h6 id="item-1-2-5" class="h6-responsive text-left">3.4.2.5 Require learner participation</h6>
                     <div class="ml-5 text-justify">
                         <p class=" text-justify meme">
                             Active participation in the learning process enhances learning.
@@ -780,7 +780,7 @@
                         </p>
                     </div>
                     <br />
-                    <h4 id="item-1-2-6" class="h4-responsive text-left">3.4.2.6 Evaluate and revise</h4>
+                    <h6 id="item-1-2-6" class="h6-responsive text-left">3.4.2.6 Evaluate and revise</h6>
                     <div class="ml-5 text-justify">
                         <p class=" text-justify meme">
                             The final component of the ASSURE model for effective learning is evaluation and
@@ -868,9 +868,3 @@
     </div>
 </template>
 
-<style>
-
-    .meme {
-        font-size: 20px;
-    }
-</style>

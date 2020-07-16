@@ -1,6 +1,6 @@
 <template>
     <div class="Overview">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -25,7 +25,7 @@
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-left">
 
-                                <h1 class="h1-responsive">Course Overview</h1>
+                                <h3 class="h3-responsive">Course Overview</h3>
                                 <br/>
                                 <div>
                                     <h4 id="item-1" class="h4-responsive">Welcome to Educational Technology and Skills - IDE-EDC 12</h4>
@@ -308,5 +308,11 @@
     h1, h2, h3, h4, h5, h6 {
         font-weight:bold;
     }
-  
+      h3{
+          color:blue;
+      }
+
+    .meme {
+        font-size: 13px;
+    }
 </style>

@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -22,7 +22,7 @@
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-justify">
                                 
-                                <h2 id="item-1" class="h2-responsive">2.2 The Role of Media in Teaching and Learning</h2>
+                                <h4 id="item-1" class="h4-responsive">2.2 The Role of Media in Teaching and Learning</h4>
                                 <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         So far we have defined the terms 'educational technology' and 'communication.'
@@ -52,7 +52,7 @@
                                     </p>
                                 </div>
                                 <br />
-                                <h3 id="item-1-1" class="h3-responsive">2.2.1 What is instructional media?</h3>
+                                <h5 id="item-1-1" class="h5-responsive">2.2.1 What is instructional media?</h5>
                                 <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         Heinich et al. (1996:8) defines a medium as a means of
@@ -124,7 +124,7 @@
                                     </p>
                                 </div>
                                 <br />
-                                <h3 id="item-1-2" class="h3-responsive">2.2.2 The Role of Media in Teaching and Learning</h3>
+                                <h5 id="item-1-2" class="h5-responsive">2.2.2 The Role of Media in Teaching and Learning</h5>
                                 <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         Media serve a variety of roles in education. Their primary role is to help students

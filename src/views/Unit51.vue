@@ -1,6 +1,6 @@
 <template>
     <div class="about mt-4">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -21,10 +21,10 @@
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-justify">
 
-                                <h1 class="h1-responsive">Unit 5</h1>
-                                <h1 class="h1-responsive">Integrating Instructional Media into the Instructional Process</h1>
+                                <h3 class="h3-responsive">Unit 5</h3>
+                                <h3 class="h3-responsive">Integrating Instructional Media into the Instructional Process</h3>
                                 <br />
-                                <h2 id="item-1" class="h2-responsive">5.1 Introduction</h2>
+                                <h4 id="item-1" class="h4-responsive">5.1 Introduction</h4>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         In this unit, we discuss how to integrate instructional media into the
@@ -42,7 +42,7 @@
                                     </p>
                                     <div class="note note-info meme">
                                 
-                                        <h4 id="item-1-1"><i class="fas fa-paper-plane"> Unit Outcomes</i></h4>
+                                        <h4 class="h4-responsive" id="item-1-1"><i class="fas fa-paper-plane"> Unit Outcomes</i></h4>
                                         <p class="text-justify">
                                             Upon completion of this unit you will be able to:
                                             <ul>
@@ -60,7 +60,7 @@
                                     <br/>
                                     <div class="note note-success meme">
                                    
-                                       <h4 id="item-1-2"> <i class="fas fa-check-square"> Terminolgy</i></h4>
+                                       <h4 class="h4-responsive" id="item-1-2"> <i class="fas fa-check-square"> Terminolgy</i></h4>
                                         
                                             <kk>Media integration</kk>:
                                             Refers to the combining of different types of media during instruction
@@ -99,16 +99,3 @@
         </div>
     </div>
 </template>
-
-<script>
-
-
-
-
-
-
-
-</script>
-<style>
-
-</style>

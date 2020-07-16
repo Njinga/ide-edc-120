@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -27,7 +27,7 @@
                          data-offset="0">
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-left">
-                                <h2 id="item-1" class="h2-responsive">1.3 Meaning and Scope of ICTs</h2>
+                                <h4 id="item-1" class="h4-responsive">1.3 Meaning and Scope of ICTs</h4>
                                 <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         ICTs can be described as a combination of hardware, software and
@@ -46,7 +46,7 @@
                                     </p>
                                 </div>
                                 <br />
-                                <h3 id="item-1-1" class="h3-responsive">1.3.1 Types of ICTs</h3>
+                                <h5 id="item-1-1" class="h5-responsive">1.3.1 Types of ICTs</h5>
                                 <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         ICTs include other communication
@@ -100,7 +100,7 @@
                                         organise chats.
                                     </p>
                                 </div>
-                                <h3 id="item-1-2" class="h3-responsive">1.3.2 ICTs as media of communication</h3>
+                                <h5 id="item-1-2" class="h5-responsive">1.3.2 ICTs as media of communication</h5>
                                 <div class="ml-5 text-justify">
                                     <p class=" text-justify meme">
                                         ICTs are a media of communication. We have seen how information is disseminated
@@ -120,7 +120,7 @@
                                     </p>
                                 </div>
                                 <br />
-                                <h3 id="item-1-3" class="h3-responsive">1.3.3 Information Technology (IT) equipment</h3>
+                                <h5 id="item-1-3" class="h5-responsive">1.3.3 Information Technology (IT) equipment</h5>
 
                                 <div class="ml-5 text-justify">
                                     <p class=" text-justify meme">
@@ -140,7 +140,7 @@
                                     </p>
                                 </div>
                                 <br />
-                                <h3 id="item-1-4" class="h3-responsive">1.3.4 Telecommunications</h3>
+                                <h5 id="item-1-4" class="h5-responsive">1.3.4 Telecommunications</h5>
 
                                 <div class="ml-5 text-justify">
                                     <p class=" text-justify meme">
@@ -204,7 +204,7 @@
                                     </p>
                                 </div>
                                 <br />
-                                <h3 id="item-1-5" class="h3-responsive">1.3.5 Limitations of ICTs</h3>
+                                <h5 id="item-1-5" class="h5-responsive">1.3.5 Limitations of ICTs</h5>
 
                                 <div class="ml-5 text-justify">
                                     <p class=" text-justify meme">
@@ -237,7 +237,7 @@
                                 
                                 <div class="note note-primary meme">
                                     
-                                       <h4 id="item-1-5-1"> <i class="fas fa-tools"> Activity 1.2</i></h4>
+                                       <h6 id="item-1-5-1"> <i class="fas fa-tools"> Activity 1.2</i></h6>
                                         Discuss how you can use ICT's in the classroom.
                                     
                                 </div>

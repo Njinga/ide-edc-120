@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -20,7 +20,7 @@
                          data-offset="0">
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-left">
-                                <h2 id="item-1" class="h1-responsive">1.4 Introduction to Social Media</h2>
+                                <h4 id="item-1" class="h4-responsive">1.4 Introduction to Social Media</h4>
                                 <div class="ml-5 text-justify">
                                     <p class="text-justify meme">
                                         Social media is an Internet-based form of communication.
@@ -68,7 +68,7 @@
                                     </p>
                                 </div>
                                 <br />
-                                <h3 id="item-1-1" class="h3-responsive"> 1.4.1 Examples  of Social Media</h3>
+                                <h5 id="item-1-1" class="h5-responsive"> 1.4.1 Examples  of Social Media</h5>
                                 <div class="text-justify meme ml-5">
                                     <br/>
                                     <p class="text-center font-italic"> facebook</p>

@@ -1,5 +1,5 @@
 <template>
-    <div class="border border-light p-3 mb-5 bg-light rounded b">
+    <div class="border border-light p-3 mb-5 bg-light rounded b meme">
         <div class="row">
             <div class="col-sm-4 col-lg-3">
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -16,11 +16,11 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h1 class="h1-responsive text-justify">  Unit Summary, Assignment and References</h1>
+                    <h3 class="h3-responsive text-justify">  Unit Summary, Assignment and References</h3>
                     <br>
                     <div class="note note-success meme text-justify">
                         
-                            <h3 id="item-1"><i class="fas fa-folder-open">Unit summary</i></h3>
+                            <h class="h4-responsive" id="item-1"><i class="fas fa-folder-open">Unit summary</i></h>
                             <p class="text-justify">
                                 Before we end our discussion, let us remind ourselves of
                                 some of the things we have discussed.  In this unit we have
@@ -90,7 +90,7 @@
                     
                     <div class="note note-warning meme text-justify">
                        
-                            <h3 id="item-2"><i class="fas fa-medal"> Assignment</i></h3>
+                            <h4 class="h4-responsive" id="item-2"><i class="fas fa-medal"> Assignment</i></h4>
                             <p class="text-justify font-italic">
                                 Select a topic from one of your teaching subjects where
                                 instructional media could be used. Then, following the ASSURE Model,
@@ -105,7 +105,7 @@
                     <br />
                     <div class="note note-secondary text-justify">
                        
-                            <h3 id="item-3"><i class="fas fa-"> References</i></h3>
+                            <h4 class="h4-responsive" id="item-3"><i class="fas fa-"> References</i></h4>
                             <p class="text-justify">
                                 Aronson, D. (1977).<kk>
                                     <i>

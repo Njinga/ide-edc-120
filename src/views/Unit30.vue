@@ -1,5 +1,5 @@
 <template>
-    <div class="border border-light p-3 mb-5 bg-light rounded b">
+    <div class="border border-light p-3 mb-5 bg-light rounded b meme">
         <div class="row">
             <div class="col-sm-4 col-lg-3">
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -18,10 +18,10 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h1 class="h1-responsive text-left">Unit 3</h1>
-                    <h1 class="h1-responsive text-left">Selection of Media for Teaching and Learning</h1>
+                    <h3 class="h3-responsive text-left">Unit 3</h3>
+                    <h3 class="h3-responsive text-left">Selection of Media for Teaching and Learning</h3>
                     <br/>
-                    <h2 id="item-1" class="h2-responsive text-left">3.0 Introduction </h2>
+                    <h4 id="item-1" class="h4-responsive text-left">3.0 Introduction </h4>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         So far we have discussed the range of media available to us as
@@ -75,7 +75,7 @@
                     <br />
                     <div class="note note-info meme">
                         
-                            <h5 id="item-1-1"><i class="fas fa-paper-plane"> Unit Outcomes</i></h5>
+                            <h4 class="h4-responsive" id="item-1-1"><i class="fas fa-paper-plane"> Unit Outcomes</i></h4>
                             <p class="text-justify">
                                 Upon completion of this unit you will be able to:
                                 <ul style="list-style-type:square;">
@@ -90,7 +90,7 @@
                     <br />
                     <div class="note note-success meme">
                         
-                            <h5 id="item-1-2"><i class="fas fa-check-square"> Terminology</i></h5>
+                            <h4 class="h4-responsive" id="item-1-2"><i class="fas fa-check-square"> Terminology</i></h4>
                             <p class="text-justify">
                                 <kk>Selection of Media:</kk>	The process of identifying and selecting the appropriate media to be used in achieving the learning objectives.<br />
                                 <br /> <kk>Media Characteristics:</kk>	Qualities of media that we need to exploit when selecting media.<br />
@@ -107,11 +107,3 @@
 
     </div>
 </template>
-
-<style>
-    
-    /*
-    .scrollspy-example {
-        height: 1000px;
-    }*/
-</style>

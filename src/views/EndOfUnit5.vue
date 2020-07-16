@@ -1,7 +1,7 @@
 
 <template>
 
-    <div id="endofunit5" class="border border-light p-3 mb-5 bg-light rounded b">
+    <div id="endofunit5" class="border border-light p-3 mb-5 bg-light rounded b meme">
         <br />
         <div class="row">
             <div class="col-sm-4 col-lg-3">
@@ -18,11 +18,11 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h1 class="h1-responsive text-justify">  Unit Summary and References</h1>
+                    <h3 class="h3-responsive text-justify">Unit Summary and References</h3>
                     <br>
                     <div class="note note-success meme text-justify">
                        
-                            <h3 id="item-1"><i class="fas fa-folder-open">Unit summary</i></h3>
+                            <h4 class="h4-responsive" id="item-1"><i class="fas fa-folder-open">Unit summary</i></h4>
 
                             <p class="text-justify meme">
                                 In this unit, we have discussed how to integrate instructional
@@ -46,7 +46,7 @@
                     <br />
                     <div class="note note-secondary text-justify">
                        
-                            <h3 id="item-2"><i class="fas fa-">References</i></h3>
+                            <h4 class="h4-responsive" id="item-2"><i class="fas fa-">References</i></h4>
                             <p class="text-justify">
                                 Abu-Jaber, M. (1987). <kk>
                                     A Study of factors affecting the use

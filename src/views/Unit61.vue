@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -21,10 +21,10 @@
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-justify">
                              
-                                <h1 class="h1-responsive">Unit 6</h1>
-                                <h1 class="h1-responsive">Management of Learning Resources</h1>
+                                <h3 class="h3-responsive">Unit 6</h3>
+                                <h3 class="h3-responsive">Management of Learning Resources</h3>
                                 <br />
-                                <h2 id="item-1" class="h2-responsive">6.1 Introduction</h2>
+                                <h4 id="item-1" class="h4-responsive">6.1 Introduction</h4>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         In this unit, we are going to discuss maintenance, care, and
@@ -42,7 +42,7 @@
                                     <br/>
                                     <div class="note note-info meme">
                                    
-                                        <h4 id="item-1-1"><i class="fas fa-paper-plane"> Unit Outcomes</i></h4>
+                                        <h4 class="h4-responsive" id="item-1-1"><i class="fas fa-paper-plane"> Unit Outcomes</i></h4>
                                         <p class="text-justify">
                                             Upon completion of this unit you will be able to:
                                             <ul>
@@ -61,7 +61,7 @@
                                     <br/>
                                     <div class="note note-success meme text-justify">
                                     
-                                        <h4 id="item-1-2"><i class="fas fa-check-square"> Terminolgy</i></h4>
+                                        <h4 class="h4-responsive" id="item-1-2"><i class="fas fa-check-square"> Terminolgy</i></h4>
                                         
                                             <kk>Keystone Effect</kk>:
                                             Refers to a distortion of the image on the projection screen.
@@ -70,12 +70,8 @@
                                             keystone.<br/><br/>
                                         
                                             <kk>Computer Viruses</kk>:
-                                            Programmes written and spread specifically to cause damage or corrupt other programmes or information.
-                                        
-
-
-
-                                    
+                                            Programmes written and spread specifically to cause damage or
+                                        corrupt other programmes or information.
                                     </div>
                                 </div>
                             </mdb-row>

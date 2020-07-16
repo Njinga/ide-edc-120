@@ -1,5 +1,5 @@
 <template>
-    <div id="unit45" class="border border-light p-3 mb-5 bg-light rounded b">
+    <div id="unit45" class="border border-light p-3 mb-5 bg-light rounded b meme">
     <div class="row">
         <div class="col-sm-4 col-lg-3">
             <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -27,7 +27,7 @@
         <div class="col-sm-8 col-lg-9">
             <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                  data-offset="0">
-               <h2 id="item-1" class="h2-responsive text-left">4.5 Utilizing Other Types of Instructional Materials during Instruction</h2>
+               <h4 id="item-1" class="h4-responsive text-left">4.5 Utilizing Other Types of Instructional Materials during Instruction</h4>
 
                 <p class="text-justify meme ml-5">
                     In this section we will discuss how to select and use
@@ -40,7 +40,7 @@
                     a few to use as examples.
                 </p>
 
-                <h3 id="item-1-1" class="h3-responsive text-left">4.5.1 Types of non-print media available for teaching and learning</h3>
+                <h5 id="item-1-1" class="h5-responsive text-left">4.5.1 Types of non-print media available for teaching and learning</h5>
 
                 <p class="text-justify meme ml-5">
                     In Unit 2 we identified different types of media other than print.
@@ -141,7 +141,7 @@
                 </p>
 
                 <br />
-                <h3 id="item-1-2" class="h3-responsive text-left">4.5.2 How to select and use different types of non-print media </h3>
+                <h5 id="item-1-2" class="h5-responsive text-left">4.5.2 How to select and use different types of non-print media </h5>
                 <div class="ml-5">
                 <p class="text-justify meme">
                     Selecting the best medium or media for instructional purposes is not
@@ -250,7 +250,7 @@
                 </p>
                 </div>
                 <br />
-                <h4 id="item-1-2-1" class="h4-responsive text-left">4.5.2.1 Selecting and using different types of instructional materials</h4>
+                <h6 id="item-1-2-1" class="h6-responsive text-left">4.5.2.1 Selecting and using different types of instructional materials</h6>
                 <div class="ml-5">
                 <p class="text-justify meme">
                     <ol>
@@ -293,7 +293,7 @@
                 </p>
                 </div>
                 <br />
-                <h4 id="item-1-2-2" class="h4-responsive text-left">4.5.2.2 How to utilize community resources in teaching</h4>
+                <h6 id="item-1-2-2" class="h6-responsive text-left">4.5.2.2 How to utilize community resources in teaching</h6>
                 <div class="ml-5">
                 <p class="text-justify meme">
                     <i>People as a resource</i><br />
@@ -381,7 +381,7 @@
                 </p>
                 </div>
                 <br />
-                <h4 id="item-1-2-3" class="h4-responsive text-left">4.5.2.3 Two-dimensional visuals </h4>
+                <h6 id="item-1-2-3" class="h6-responsive text-left">4.5.2.3 Two-dimensional visuals </h6>
                 <div class="ml-5">
                 <p class="text-justify meme">
                     Two-dimensional visuals include pictures and graphics. Generally
@@ -398,7 +398,7 @@
                 </p>
                 </div>
                 <br />
-                <h4 id="item-1-2-4" class="h4-responsive text-left">4.5.2.4 Displays</h4>
+                <h6 id="item-1-2-4" class="h6-responsive text-left">4.5.2.4 Displays</h6>
                 <div class="m-5">
                 <p class="text-justify meme">
                     A display is an organized arrangement of visual and verbal learning
@@ -460,7 +460,7 @@
                 </p>
                 </div>
                 <br />
-                <h4 id="item-1-2-5" class="h4-responsive text-left">4.5.2.5 Utilizing audio materials </h4>
+                <h6 id="item-1-2-5" class="h6-responsive text-left">4.5.2.5 Utilizing audio materials </h6>
                 <div class="ml-5">
                 <p class="text-justify meme">
                     Like all other media, before selecting and using audio materials,
@@ -650,7 +650,7 @@
                 </p>
                 </div>
                 <br />
-                <h4 id="item-1-2-6" class="h4-responsive text-left">4.5.2.6 Selecting and using still projection</h4>
+                <h6 id="item-1-2-6" class="h6-responsive text-left">4.5.2.6 Selecting and using still projection</h6>
                 <div class="ml-5">
                 <p class="text-justify meme">
                     First you need to evaluate the purpose for which the materials
@@ -701,7 +701,7 @@
                 </p>
                 </div>
                 <br />
-                <h4 id="item-1-2-7" class="h4-responsive text-left">4.5.2.7 Utilizing motion media</h4>
+                <h6 id="item-1-2-7" class="h6-responsive text-left">4.5.2.7 Utilizing motion media</h6>
                 <div class="ml-5">
                 <p class="text-justify meme">
                     Follow the 5 P's of media utilization namely; preview the materials,
@@ -735,7 +735,7 @@
                 </p>
                 </div>
                 <br />
-                <h4 id="item-1-2-8" class="h4-responsive text-left">4.5.2.8 Computer-based multimedia and Web-Media</h4>
+                <h6 id="item-1-2-8" class="h6-responsive text-left">4.5.2.8 Computer-based multimedia and Web-Media</h6>
                 <div class="ml-5">
                 <p class="text-justify meme">
                     Computer-based hypermedia can be applied in all areas of the curriculum for

@@ -1,5 +1,5 @@
 <template>
-    <div class="border border-light p-3 mb-5 bg-light rounded b">
+    <div class="border border-light p-3 mb-5 bg-light rounded b meme">
 
         <div class="row">
             <div class="col-sm-4 col-lg-3">
@@ -39,7 +39,7 @@
             <div class="col-sm-8 col-lg-9 border border-light">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h2 id="item-1" class="h2-responsive text-left">2.3 Instructional Media Available for Teaching and Learning</h2>
+                    <h4 id="item-1" class="h4-responsive text-left">2.3 Instructional Media Available for Teaching and Learning</h4>
                     <div class="ml-5 text-justify">
                         <p class="text-justify meme">
                             There are different ways of categorizing instructional media, and for the
@@ -63,7 +63,7 @@
                         </p>
                     </div>
                     <br />
-                    <h3 id="item-1-1" class="h3-responsive text-left">2.3.1 Non-projected media </h3>
+                    <h5 id="item-1-1" class="h5-responsive text-left">2.3.1 Non-projected media </h5>
                     <div class="ml-5 text-justify">
                         <p class="text-justify meme">
                             Non-projected media refers to the range of media resources that do not require
@@ -172,7 +172,7 @@
                         </div>
                     </div>
                     <br />
-                    <h4 id="item-1-1-1" class="h4-responsive text-left">2.3.1.1 Printed materials</h4>
+                    <h6 id="item-1-1-1" class="h6-responsive text-left">2.3.1.1 Printed materials</h6>
                     <div class="ml-5 text-justify">
                         <p class="text-justify  meme">
                             Printed materials comprise of all textual and other materials that can be run off in large numbers on a photocopier or printing machine to be used by students or trainees.    Printed materials include; textbooks, fiction and non-fiction books, pamphlets, manuals, handouts, word processed documents, assignment sheets, study guides, and resource materials for group exercises such as instruction sheets and data sheets.
@@ -200,7 +200,7 @@
                         </p>
                     </div>
                     <br />
-                    <h4 id="item-1-1-2" class="h4-responsive text-left">2.3.1.2 Non-projected visuals</h4>
+                    <h6 id="item-1-1-2" class="h6-responsive text-left">2.3.1.2 Non-projected visuals</h6>
                     <div class="ml-5 text-justify">
                         <p class="text-justify meme">
                             Non-projected visuals refer to media materials that appeal to the sense of sight and do not require any equipment for viewing. Among the non-projected visuals include; still pictures, drawings, charts, graphs, posters, cartoons and comics.
@@ -313,7 +313,7 @@
                         </div>
                     </div>
                     <br />
-                    <h4 id="item-1-1-3" class="h4-responsive text-left">2.3.1.3 Non-projected display surfaces</h4>
+                    <h6 id="item-1-1-3" class="h6-responsive text-left">2.3.1.3 Non-projected display surfaces</h6>
                     <div class="ml-5 text-justify">
                         <p class="text-justify meme">
                             For you to use many of the non-projected visuals such as photographs, drawings, charts, graphs, or posters, you need to have a certain way of displaying them. The most commonly used classroom display surfaces include; the chalkboard, multipurpose board, pegboard, bulletin board, cloth board, exhibits, flip charts, and dioramas.
@@ -390,7 +390,7 @@
                     </div>
                 </div>
                 <br />
-                <h3 id="item-1-2" class="h3-responsive text-left">2.3.2 Projected media</h3>
+                <h5 id="item-1-2" class="h5-responsive text-left">2.3.2 Projected media</h5>
                 <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Projected media refers to media formats in which still images are enlarged and displayed on a screen for viewing. Projection of the image is achieved by passing a strong light through transparent film, magnifying the image through a series of lenses and then casting it onto a reflective surface.   Among the projected media include; overhead projection, multi-image presentations, and computer image projection.
@@ -524,7 +524,7 @@
                     </div>
                 </div>
                 <br />
-                <h3 id="item-1-3" class="h3-responsive text-left">2.3.3 Audio media </h3>
+                <h5 id="item-1-3" class="h5-responsive text-left">2.3.3 Audio media </h5>
                 <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Audio media is rarely used during instruction yet students spend most of the time in class listening to the teacher.   Therefore, as teachers we can develop students' listening skills by using the audio media. Audio media refers to the use of human voice and other sounds for instructional purposes (Gathu, 2000:43).  Audio recordings can be prepared for group or individual listening and they can be used in a variety of ways. For example, a speech could be documented, a role-play or drama could be recorded, animal sounds could be recorded, and a meeting could also be verbally recorded.
@@ -564,7 +564,7 @@
                     </p>
                 </div>
                 <br />
-                <h3 id="item-1-4" class="h3-responsive text-left">2.3.4 Motion media</h3>
+                <h5 id="item-1-4" class="h5-responsive text-left">2.3.4 Motion media</h5>
                 <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         These refer to those media formats where moving images can be recorded for playback and viewing by the audience. Both sound and visual (picture) are recorded.
@@ -628,7 +628,7 @@
                     </div>
                 </div>
                 <br />
-                <h3 id="item-1-5" class="h3-responsive text-left">2.3.5 Computer based multimedia and hypermedia </h3>
+                <h5 id="item-1-5" class="h5-responsive text-left">2.3.5 Computer based multimedia and hypermedia </h5>
                 <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Despite technological advances, education has changed very little in some parts of the world.  Teachers still teach the same way they were taught and are comfortable using the tried-and-true strategies from which they learned. However, application of new technological tools makes many enhancements to these strategies possible (Lever-Duffy et al.; 2005).  To overcome any possible resistance to using the computer, it is best to begin by becoming more familiar with computers.
@@ -642,7 +642,7 @@
                     </p>
                 </div>
                 <br />
-                <h4 id="item-1-5-1" class="h4-responsive text-left">2.3.5.1 Role of computers in instruction </h4>
+                <h6 id="item-1-5-1" class="h6-responsive text-left">2.3.5.1 Role of computers in instruction </h6>
                 <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         The computer can perform different functions. A computer can be an object of instruction, an instructional tool, and an instructional device. Let us look at these different functions of a computer in the classroom.
@@ -740,7 +740,7 @@
                     </div>
                 </div>
                 <br />
-                <h3 id="item-1-6" class="h3-responsive text-left">2.3.6 Social Media</h3>
+                <h5 id="item-1-6" class="h5-responsive text-left">2.3.6 Social Media</h5>
                 <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         In Unit 1 you were introduced to social media as an Internet-based form of communication. It is also commonly associated with Web 2.0 technology that focuses on integration, collaboration, and interaction. While you may collaborate or interact through social media platforms (e.g. Facebook and Twitter), Web 2.0 also allows collaboration through teaching and learning. Some of these media may be termed "Participative Delivery Systems." In this case participants are the major authors as they create the content and supporting materials. Some of these technologies include Wikis and Blogs.
@@ -819,7 +819,7 @@
                     </p>
                 </div>
                 <br />
-                <h4 id="item-1-6-1" class="h4-responsive text-left">2.3.6.1 Other capabilities of Social Media</h4>
+                <h6 id="item-1-6-1" class="h6-responsive text-left">2.3.6.1 Other capabilities of Social Media</h6>
                 <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Social media platforms also allow users to have conversations, share information and create web content. There are many forms of social media, including blogs, micro-blogs, wikis, social networking sites, photo-sharing sites, instant messaging, video-sharing sites, podcasts, widgets, virtual worlds, and more.
@@ -845,7 +845,7 @@
                     </div>
                 </div>
                 <br />
-                <h5 id="item-1-6-1-1" class="h5-responsive text-left">2.3.6.1.1 Wiki</h5>
+                <h6 id="item-1-6-1-1" class="h6-responsive text-left">2.3.6.1.1 Wiki</h6>
                 <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         A wiki is a type of free online writing space that allows users to add, modify and update its pages.  If something is missing or incorrect in a wiki and permissions allow you to edit the wiki, you can easily add your thoughts or make changes to the wiki. It is essentially a fully editable web site.
@@ -868,7 +868,7 @@
 
                 </div>
                 <br />
-                <h5 id="item-1-6-1-2" class="h5-responsive text-left">2.3.6.1.2 Blogs</h5>
+                <h6 id="item-1-6-1-2" class="h6-responsive text-left">2.3.6.1.2 Blogs</h6>
                 <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         A blog is a website on which an individual or group of users record opinions, information, etc. on a regular basis. While there are many uses of blogs, the actual art of doing it (blogging) is educationally sound for facilitating to learners because:
@@ -954,7 +954,7 @@
                     </p>
                 </div>
                 <br />
-                <h3 id="item-1-7" class="h3-responsive text-left">2.3.7 Mobile learning technologies</h3>
+                <h5 id="item-1-7" class="h5-responsive text-left">2.3.7 Mobile learning technologies</h5>
                 <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Students these days are very comfortable with technology; computer games,

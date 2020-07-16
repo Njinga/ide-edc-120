@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -27,7 +27,7 @@
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-justify">
                             
-                                <h2 id="item-1" class="h2-responsive">5.4 How to Integrate Media into the Instructional Process</h2>
+                                <h4 id="item-1" class="h4-responsive">5.4 How to Integrate Media into the Instructional Process</h4>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         As we have indicated above, media should not be seen as an appendage but an integral
@@ -79,7 +79,7 @@
 
                                 </div>
                                 <br />
-                                <h3 id="item-1-1" class="h3-responsive">5.4.1 The computer as a teacher</h3>
+                                <h5 id="item-1-1" class="h5-responsive">5.4.1 The computer as a teacher</h5>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         The oldest use of the computer in education dating back
@@ -209,7 +209,7 @@
 
                                     <div class="note note-primary text-justify meme">
                                         
-                                            <h4 id="item-1-1-1"><i class="fas fa-tools"> Activity 5.1</i></h4>
+                                            <h6 class="h6-responsive" id="item-1-1-1"><i class="fas fa-tools"> Activity 5.1</i></h6>
                                           
                                             <i>
                                                 Based on your subjects of specialization,
@@ -266,7 +266,7 @@
                                     </p>
                                     <div class="note note-primary text-justify meme">
                                         
-                                            <h4 id="1-1-2"><i class="fas fa-tools"> Activity 5.2</i></h4>
+                                            <h6 class="h6-responsive" id="1-1-2"><i class="fas fa-tools"> Activity 5.2</i></h6>
                                             
                                             <i>
                                                 Imagine that you have a problem based on a selected topic
@@ -301,7 +301,7 @@
                                     </p>
                                 </div>
                                 <br />
-                                <h3 id="item-1-2" class="h3-responsive">5.4.2 Computer as learner (Student as teacher)</h3>
+                                <h5 id="item-1-2" class="h5-responsive">5.4.2 Computer as learner (Student as teacher)</h5>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         When the computer functions as a learner, the roles of computer and
@@ -313,7 +313,7 @@
                                     </p>
                                 </div>
                                 <br />
-                                <h3 id="item-1-3" class="h3-responsive">5.4.3 Using the Internet to support learning</h3>
+                                <h5 id="item-1-3" class="h5-responsive">5.4.3 Using the Internet to support learning</h5>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         Another way of integrating the computer is by using the Internet to
@@ -361,7 +361,7 @@
             
                                 </div>
                                 <br />
-                                <h3 id="item-1-4" class="h3-responsive">5.4.4 Uses of the Internet</h3>
+                                <h5 id="item-1-4" class="h5-responsive">5.4.4 Uses of the Internet</h5>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         You and your students can use the Internet in a variety of ways.

@@ -1,5 +1,5 @@
 <template>
-    <div class="border border-light p-3 mb-5 bg-light rounded b">
+    <div class="border border-light p-3 mb-5 bg-light rounded b meme">
         <div class="row">
             <div class="col-sm-4 col-lg-3">
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -38,7 +38,7 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h2 id="item-1" class="h2-responsive text-left">4.3	How to Design, Plan and Produce Different Types of Instructional Materials</h2>
+                    <h4 id="item-1" class="h4-responsive text-left">4.3	How to Design, Plan and Produce Different Types of Instructional Materials</h4>
                     <p class="text-justify meme ml-5">
                         Now that we know the process for designing your
                         own instructional media, let us now discus how you
@@ -51,7 +51,7 @@
                         start with the visuals.
                     </p>
 
-                    <h3 id="item-1-1" class="h3-responsive text-left">4.3.1 Process of visual design </h3>
+                    <h5 id="item-1-1" class="h5-responsive text-left">4.3.1 Process of visual design </h5>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Designing a visual display begins with gathering or producing the individual pictorial
@@ -214,7 +214,7 @@
                     </p>
                     </div>
                     <br />
-                    <h3 id="item-1-2" class="h3-responsive text-left">4.3.2 Visual planning tools</h3>
+                    <h5 id="item-1-2" class="h5-responsive text-left">4.3.2 Visual planning tools</h5>
                     <div class="ml-5 text-center">
                     <p class="text-justify meme">
                         When you plan and design your visuals you could use visual planning tools
@@ -238,7 +238,7 @@
                     </p>
                     </div>
                     <br />
-                    <h3 id="item-1-3" class="h3-responsive text-left">4.3.3 Examples of visuals that you could design</h3>
+                    <h5 id="item-1-3" class="h5-responsive text-left">4.3.3 Examples of visuals that you could design</h5>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         <kk>Graphic materials</kk><br />
@@ -263,7 +263,7 @@
                     <br />
                     <div class="note note-warning">
                         
-                            <h5 id="item-1-3-1"><i class="fas fa-medal">Assignment 4.1</i></h5>
+                            <h6 class="h6-responsive" id="item-1-3-1"><i class="fas fa-medal">Assignment 4.1</i></h6>
                             <p class="text-justify meme font-italic">
                                 Following the design process that has been presented to you in this unit, design
                                 a poster based on a topic from one of your teaching subjects. Present the poster
@@ -274,7 +274,7 @@
                     </div>
                     <br />
                     
-                    <h3 id="item-1-4" class="h3-responsive text-left">4.3.4 Designing text </h3>
+                    <h5 id="item-1-4" class="h5-responsive text-left">4.3.4 Designing text </h5>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         The process for designing text is similar to that of designing visuals. Once
@@ -314,7 +314,7 @@
                     <br />
                     <div class="note note-primary">
                         
-                            <h5 id="item-1-3-2"><i class="fas fa-tools"> Activity 4.1</i></h5>
+                            <h6 class="h6-responsive" id="item-1-3-2"><i class="fas fa-tools"> Activity 4.1</i></h6>
                             <p class="text-justify font-italic meme">
                                 Practice designing text by taking some content from a
                                 textbook in one of your teaching subjects and convert
@@ -326,7 +326,7 @@
                     </div>
                     </div>
                     <br />
-                    <h3 id="item-1-5" class="h3-responsive text-left">4.3.5 Chalkboard </h3>
+                    <h5 id="item-1-5" class="h5-responsive text-left">4.3.5 Chalkboard </h5>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         The chalkboard is probably the most widely used media display in the classroom since
@@ -431,7 +431,7 @@
                     <br />
                     <div class="note note-warning text-justify meme">
                        
-                            <h5 id="item-1-3-3"><i class="fas fa-medal">Assignment 4.2</i></h5>
+                            <h6 class="h6-responsive" id="item-1-3-3"><i class="fas fa-medal">Assignment 4.2</i></h6>
                             (PGCE STUDENTS)<br><br>
                             <p class="text-justify meme font-italic">
 
@@ -446,7 +446,7 @@
                     </div>
                     </div>
                     <br />
-                    <h3 id="item-1-6" class="h3-responsive text-left">4.3.6 Whiteboard</h3>
+                    <h5 id="item-1-6" class="h5-responsive text-left">4.3.6 Whiteboard</h5>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         The Whiteboard is a new generation form of the chalkboard. It is called whiteboard
@@ -475,7 +475,7 @@
                     </p>
                     </div>
                     <br />
-                    <h3 id="item-1-7" class="h3-responsive text-left">4.3.7 Designing overhead transparencies</h3>
+                    <h5 id="item-1-7" class="h5-responsive text-left">4.3.7 Designing overhead transparencies</h5>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         <kk>
@@ -526,7 +526,7 @@
                     </p>
                     </div>
                     <br/>
-                    <h3 id="item-1-8" class="h3-responsive text-left">4.3.8 Design of Power Point presentations</h3>
+                    <h5 id="item-1-8" class="h5-responsive text-left">4.3.8 Design of Power Point presentations</h5>
                     <div class="text-justify ml-5">
                     <p class="text-justify meme">
                         It is important to know how you can design Power Point
@@ -594,7 +594,7 @@
                     </p>
                     </div>
                     <br />
-                    <h3 id="item-1-9" class="h3-responsive text-left">4.3.9 Designing audio media </h3>
+                    <h5 id="item-1-9" class="h5-responsive text-left">4.3.9 Designing audio media </h5>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Audio media materials can easily be designed and produced by both the teacher and
@@ -678,7 +678,7 @@
                     </p>
                     </div>
                     <br />
-                    <h3 id="item-1-10" class="h3-responsive text-left">4.3.10 Designing a PODCAST</h3>
+                    <h5 id="item-1-10" class="h5-responsive text-left">4.3.10 Designing a PODCAST</h5>
                     <div class="ml-5 text-left">
                     <p class="text-justify meme">
                         A podcast is an audio blog post created by recording your voice
@@ -761,7 +761,7 @@
                     <br />
                     <div class="note note-warning text-justify meme">
                       
-                            <h5 id="item-1-3-4"><i class="fas fa-medal">Assignment 4.3</i></h5>
+                            <h6 class="h6-responsive" id="item-1-3-4"><i class="fas fa-medal">Assignment 4.3</i></h6>
                             Select a topic from one of your teaching subjects where audio media could be used and then:
                             <p class="text-justify meme font-italic">
                                 <ul>
@@ -795,9 +795,4 @@
     </div>
 </template>
 
-<style>
-    /*
-    .scrollspy-example {
-        height: 1000px;
-    }*/
-</style>
+

@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -20,7 +20,7 @@
                         <mdb-container fluid>
                             <mdb-row class=" text-left">
                                 
-                                <h2 id="item-1" class="h2-responsive"> 1.6 The Changing Role of the Teacher in Classroom Communication</h2>
+                                <h4 id="item-1" class="h4-responsive"> 1.6 The Changing Role of the Teacher in Classroom Communication</h4>
                                 <br />
                                 <div class="ml-5 text-justify">
                                     <p class=" text-justify meme">
@@ -101,7 +101,7 @@
                                 
                                 <div class="note note-primary meme">
                                    
-                                        <h4 id="item-1-1"><i class="fas fa-tools"> Activity 1.4</i></h4>
+                                        <h6 class="h6-responsive" id="item-1-1"><i class="fas fa-tools"> Activity 1.4</i></h6>
                                         <br>
                                         In your own words, explain how you expect the role of a teacher in
                                         classroom communication to change in Swaziland as new technologies invade the classrooms.

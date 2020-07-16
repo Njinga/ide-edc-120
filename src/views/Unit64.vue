@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <div class="border border-light p-3 mb-5 bg-light rounded b">
+        <div class="border border-light p-3 mb-5 bg-light rounded b meme">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -17,7 +17,7 @@
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-justify">
 
-                                <h2 class="h2-responsive">6.4 Storing equipment and Materials</h2>
+                                <h4 class="h4-responsive">6.4 Storing equipment and Materials</h4>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         Storage of equipment helps you to use them longer

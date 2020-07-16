@@ -1,5 +1,5 @@
 <template>
-    <div class="border border-light p-3 mb-5 bg-light rounded b">
+    <div class="border border-light p-3 mb-5 bg-light rounded b meme">
         <div class="row">
             <div class="col-sm-4 col-lg-3">
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -18,7 +18,7 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h2 id="item-1" class="h2-responsive text-left">4.2 The Process for designing Instructional Media and Materials</h2>
+                    <h4 id="item-1" class="h4-responsive text-left">4.2 The Process for designing Instructional Media and Materials</h4>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         Instructional design is the component of the process that helps you to think
@@ -62,7 +62,7 @@
                     </div>
                     </div>
                     <br />
-                    <h3 id="item-1-1" class="h3-responsive text-justify">4.2.1 Process for designing instructional media </h3>
+                    <h5 id="item-1-1" class="h5-responsive text-justify">4.2.1 Process for designing instructional media </h5>
                     <div class="ml-5 text-justify">
                     <p class="text-justify meme">
                         <i>Start the process with an idea.</i>  An idea, a problem situation,
@@ -206,9 +206,3 @@
     </div>
 </template>
 
-<style>
-    /*
-    .scrollspy-example {
-        height: 1000px;
-    }*/
-</style>

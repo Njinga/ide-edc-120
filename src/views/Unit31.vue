@@ -1,5 +1,5 @@
 <template>
-    <div class="border border-light p-3 mb-5 bg-light rounded b">
+    <div class="border border-light p-3 mb-5 bg-light rounded b meme">
         <div class="row">
             <div class="col-sm-4 col-lg-3">
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
@@ -19,7 +19,7 @@
             <div class="col-sm-8 col-lg-9">
                 <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                      data-offset="0">
-                    <h2 id="item-1" class="h2-responsive text-left">3.1 Criteria for Selecting Media during instruction </h2>
+                    <h4 id="item-1" class="h4-responsive text-left">3.1 Criteria for Selecting Media during instruction </h4>
                     <div class="ml-5 text-justify">
                         <p class="text-justify meme">
                             For teachers to adapt their instruction to changing
@@ -167,7 +167,7 @@
                         <br />
                         <div class="note note-primary meme">
                             
-                                <h3 id="item-1-1"><i class="fas fa-tools"> Activity 3.1</i></h3>
+                                <h6 class="h6-responsive" id="item-1-1"><i class="fas fa-tools"> Activity 3.1</i></h6>
                                 <p class="text-justify">
                                     Based on the lesson plan you created in
                                     the course EDC 100, outline and discuss the criteria you used to select media.
@@ -187,7 +187,7 @@
                         </p>
                     </div>
                     <br />
-                    <h3 id="item-1-2" class="h3-responsive text-left">3.1.1 Criteria for media selection </h3>
+                    <h5  id="item-1-2" class="h5-responsive text-left">3.1.1 Criteria for media selection </h5>
                     <div class="ml-5 text-justify">
                         <p class="text-justify meme">
                             Whenever you select media, it is important to consider how the
@@ -284,7 +284,7 @@
                         </p>
                     </div>
                     <br />
-                    <h3 id="item-1-3" class="h3-responsive text-left">3.1.2 Essential media characteristics</h3>
+                    <h5 id="item-1-3" class="h5-responsive text-left">3.1.2 Essential media characteristics</h5>
                     <div class="ml-5 text-justify">
                         <p class="text-justify meme">
                             Media have different properties. Some media allow us
