@@ -118,7 +118,7 @@
                                 
                                     <div class="note note-info text-justify meme">
                                         
-                                            <h4 id="item-4"><i class="fas fa-paper-plane"> Course Outcomes</i></h4>
+                                            <h4 id="item-4" class="h4-responsive"><i class="fas fa-paper-plane"> Course Outcomes</i></h4>
                                             <p> Upon completion of Educational Technology and Skills - IDE-EDC 120 you will be able to:</p>
                                             <!-- Unordered list-->
                                             <ul>
@@ -144,7 +144,7 @@
                                     <br />
                                     <div class="note note-primary meme">
                                         
-                                            <h4 id="item-5"><i class="fas fa-clock"> Timeframe</i></h4>
+                                            <h4 id="item-5" class="h4-responsive"><i class="fas fa-clock"> Timeframe</i></h4>
                                             <p class="text-justify">
 
 
@@ -167,7 +167,7 @@
                                     <br/>
                                     <div class="note note-success meme">
                                         
-                                            <h4 id="item-6"><i class="fas fa-flag"> Study skills</i></h4>
+                                            <h4 id="item-6" class="h4-responsive"><i class="fas fa-flag"> Study skills</i></h4>
                                             <div>
                                                 <p class="text-justify">
                                                     As an adult learner your approach to learning will be different to
@@ -233,7 +233,7 @@
                                 <br/>
                                     <div class="note note-danger meme">
                                         
-                                            <h4 id="item-7"><i class="fas fa-bullhorn"> Need help?</i></h4>
+                                            <h4 id="item-7" class="h4-responsive"><i class="fas fa-bullhorn"> Need help?</i></h4>
                                             <div>
                                                 <p class="text-justify">
                                                     This course is located on the E-Learning website at: <a href="http://elearning.uniswa.sz">UNESWA E-learning</a><br />
@@ -247,7 +247,7 @@
                                 <br/>
                                         <div class="note note-warning meme">
                                         
-                                           <h4 id="item-8"> <i class="fas fa-medal"> Assignments</i></h4>
+                                           <h4 class="h4-responsive" id="item-8"> <i class="fas fa-medal"> Assignments</i></h4>
                                             <div>
                                                 <p class="text-justify">
                                                     This course will be assessed by course work only and there will be no final examination to be written at
@@ -276,7 +276,7 @@
                                         <br/>
                                     <div class="note note-secondary meme">
                                         
-                                           <h4 id="item-9"> <i class="fas fa-eye"> Self- Assessments and feedback</i></h4>
+                                           <h4 class="h4-responsive" id="item-9"> <i class="fas fa-eye"> Self- Assessments and feedback</i></h4>
                                             <div>
                                                 <p class="text-justify">
                                                     To assist you to monitor your own progress as you study in
