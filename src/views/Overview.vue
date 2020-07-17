@@ -313,6 +313,6 @@
       }
 
     .meme {
-        font-size: 13px;
+        font-size: 15px;
     }
 </style>
