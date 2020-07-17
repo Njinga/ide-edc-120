@@ -5,9 +5,9 @@
         </mdb-navbar-brand>
         <mdb-navbar-toggler>
             <mdb-navbar-nav left>
-                <mdb-nav-item to="/" active>Home</mdb-nav-item>
-                <mdb-nav-item to="/overview">Overview</mdb-nav-item>
-                <mdb-dropdown tag="li" class="nav-item meme">
+                <mdb-nav-item class="text-left" to="/" active>Home</mdb-nav-item>
+                <mdb-nav-item class="text-left" to="/overview">Overview</mdb-nav-item>
+                <mdb-dropdown tag="li" class="nav-item text-left">
                     <mdb-dropdown-toggle tag="a" navLink color="info" slot="toggle" waves-fixed>Unit 1</mdb-dropdown-toggle>
                     <mdb-dropdown-menu>
                         <mdb-dropdown-item to="/unit11">1.1 Introduction </mdb-dropdown-item>
@@ -20,7 +20,7 @@
                     </mdb-dropdown-menu>
                 </mdb-dropdown>
 
-                <mdb-dropdown tag="li" class="nav-item meme">
+                <mdb-dropdown tag="li" class="nav-item text-left">
                     <mdb-dropdown-toggle tag="a" navLink color="info" slot="toggle" waves-fixed>Unit 2</mdb-dropdown-toggle>
                     <mdb-dropdown-menu>
                         <mdb-dropdown-item to="/unit21">2.1 Introduction</mdb-dropdown-item>
@@ -31,7 +31,7 @@
                     </mdb-dropdown-menu>
                 </mdb-dropdown>
 
-                <mdb-dropdown tag="li" class="nav-item">
+                <mdb-dropdown tag="li" class="nav-item text-left">
                     <mdb-dropdown-toggle tag="a" navLink color="info" slot="toggle" waves-fixed>Unit 3</mdb-dropdown-toggle>
                     <mdb-dropdown-menu>
                         <mdb-dropdown-item to="/unit30">3.0 Introduction</mdb-dropdown-item>
@@ -44,7 +44,7 @@
                     </mdb-dropdown-menu>
                 </mdb-dropdown>
 
-                <mdb-dropdown tag="li" class="nav-item">
+                <mdb-dropdown tag="li" class="nav-item text-left">
                     <mdb-dropdown-toggle tag="a" navLink color="info" slot="toggle" waves-fixed>Unit 4</mdb-dropdown-toggle>
                     <mdb-dropdown-menu>
                         <mdb-dropdown-item to="/unit41">4.1 Introduction</mdb-dropdown-item>
@@ -56,7 +56,7 @@
                     </mdb-dropdown-menu>
                 </mdb-dropdown>
 
-                <mdb-dropdown tag="li" class="nav-item">
+                <mdb-dropdown tag="li" class="nav-item text-left">
                     <mdb-dropdown-toggle tag="a" navLink color="info" slot="toggle" waves-fixed>Unit 5</mdb-dropdown-toggle>
                     <mdb-dropdown-menu>
                         <mdb-dropdown-item to="/unit51">5.1 Introduction</mdb-dropdown-item>
@@ -67,7 +67,7 @@
                     </mdb-dropdown-menu>
                 </mdb-dropdown>
 
-                <mdb-dropdown tag="li" class="nav-item">
+                <mdb-dropdown tag="li" class="nav-item text-left">
                     <mdb-dropdown-toggle tag="a" navLink color="info" slot="toggle" waves-fixed>Unit 6</mdb-dropdown-toggle>
                     <mdb-dropdown-menu>
                         <mdb-dropdown-item to="/unit61">6.1 Introduction</mdb-dropdown-item>
