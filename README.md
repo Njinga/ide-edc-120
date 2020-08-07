@@ -17,5 +17,5 @@ Please make sure to update the tests as appropriate.
 * Prof. Sandile Motsa [sandilemotsa@gmail.com]()
 
 ## Website
-* [https://ide-edc-120.netlify.app/](https://ide-edc-120.netlify.app/)
+* [https://edc120.netlify.app/](https://edc120.netlify.app/)
 
